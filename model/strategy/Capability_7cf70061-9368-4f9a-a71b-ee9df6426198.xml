@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="13. Ability to perform data standardization and perform data reconciliation including semantic reconciliation"
+    id="7cf70061-9368-4f9a-a71b-ee9df6426198">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

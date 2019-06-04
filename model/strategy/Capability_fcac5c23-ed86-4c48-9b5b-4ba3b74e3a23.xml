@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="14. Ability to monitor the usage of the Consumer Layer components "
+    id="fcac5c23-ed86-4c48-9b5b-4ba3b74e3a23">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

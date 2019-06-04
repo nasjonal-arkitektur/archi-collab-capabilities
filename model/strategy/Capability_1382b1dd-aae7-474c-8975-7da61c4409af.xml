@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrating structured and unstructured data"
+    id="1382b1dd-aae7-474c-8975-7da61c4409af">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

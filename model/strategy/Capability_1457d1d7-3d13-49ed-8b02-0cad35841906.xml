@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04. Ability to create and manage individual instances of the business processes"
+    id="1457d1d7-3d13-49ed-8b02-0cad35841906">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

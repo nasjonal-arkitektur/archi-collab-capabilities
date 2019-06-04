@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Runtime Enablement"
+    id="6118dfe4-0cfb-4bbe-a233-b694d911e1b8"
+    documentation="This category of capabilities provides the ability to support service versioning, to support service binding decoupling a service from its implementation, and provides the ability to provision services. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

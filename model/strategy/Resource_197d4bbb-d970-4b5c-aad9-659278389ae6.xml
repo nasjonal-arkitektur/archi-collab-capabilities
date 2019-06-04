@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dashboard"
+    id="197d4bbb-d970-4b5c-aad9-659278389ae6"
+    documentation="This ABB represents a set of tools that provide real-time status of the governing and governed processes and their metrics and checkpoints. It leverages the Monitoring Metric Tools ABB and Policy Enforcer ABB in the Quality of Service Layer.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

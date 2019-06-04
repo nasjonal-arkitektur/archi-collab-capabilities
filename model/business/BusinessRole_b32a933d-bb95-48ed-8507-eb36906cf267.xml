@@ -1,0 +1,14 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Integrator"
+    id="b32a933d-bb95-48ed-8507-eb36906cf267">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

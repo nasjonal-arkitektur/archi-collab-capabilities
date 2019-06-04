@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identification"
+    id="c4dc35af-a776-4049-af0a-e04088ba0a8b"
+    documentation="The first phase, Identification, has two sub-phases: Early Case Assessment and Early Data Assessment (not depicted in the diagram). In Early Case Assessment, the legal case itself is assessed for pertinent information, called descriptive information or Metadata (e.g., keywords, date ranges, etc.). In Early Data Assessment, the types and location of data relevant to the case is assessed. Data assessment should identify policies related to the retention or destruction of relevant data so that ESI can be preserved. Interviews should be held with records management personnel, data custodians or data owners, and information technology personnel to obtain pertinent information. In addition, the involved personnel need to understand the case background, legal hold, and their role in the litigation.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

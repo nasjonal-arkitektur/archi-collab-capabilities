@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Layer: Business Rules Manager"
+    id="2b7e0ac5-706a-41b0-9bb8-dcb9e4d39e87"
+    documentation="See Business Rules Manager ABB in the Governance Layer.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

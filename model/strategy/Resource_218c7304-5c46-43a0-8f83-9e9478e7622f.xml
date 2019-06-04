@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic Assembler"
+    id="218c7304-5c46-43a0-8f83-9e9478e7622f"
+    documentation="This ABB is responsible for invoking the appropriate end-point that needs to serve the request based on the context. Context provides the extra information that this ABB needs to make the intelligent decisions on which end-point is to be invoked.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

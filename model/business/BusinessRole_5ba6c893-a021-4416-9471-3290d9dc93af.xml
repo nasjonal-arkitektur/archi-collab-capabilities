@@ -1,0 +1,14 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chief Technology Officer "
+    id="5ba6c893-a021-4416-9471-3290d9dc93af">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

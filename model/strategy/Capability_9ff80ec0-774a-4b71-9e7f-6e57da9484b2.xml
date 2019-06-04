@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="21. Ability to change, manage, monitor, and maintain current policies"
+    id="9ff80ec0-774a-4b71-9e7f-6e57da9484b2">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

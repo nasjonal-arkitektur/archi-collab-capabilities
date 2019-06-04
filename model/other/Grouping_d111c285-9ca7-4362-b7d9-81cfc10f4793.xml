@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Management"
+    id="d111c285-9ca7-4362-b7d9-81cfc10f4793"
+    documentation="This category of capabilities provides the ability to maintain service invocation history and monitor and track the service invocations. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:Grouping>

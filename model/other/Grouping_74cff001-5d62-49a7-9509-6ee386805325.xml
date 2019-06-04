@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Systems Monitoring and Management"
+    id="74cff001-5d62-49a7-9509-6ee386805325"
+    documentation="This category of capabilities provides monitoring and management of IT infrastructure and systems. This includes the ability to monitor and capture metrics and status of IT systems and infrastructure.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

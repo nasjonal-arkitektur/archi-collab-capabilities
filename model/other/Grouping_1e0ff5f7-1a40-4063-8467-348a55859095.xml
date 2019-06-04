@@ -1,0 +1,14 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enabling technologies for big data, ref.DMBOK2 "
+    id="1e0ff5f7-1a40-4063-8467-348a55859095">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

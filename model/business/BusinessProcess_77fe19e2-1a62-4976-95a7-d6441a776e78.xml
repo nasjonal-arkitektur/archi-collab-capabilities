@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preservation"
+    id="77fe19e2-1a62-4976-95a7-d6441a776e78">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

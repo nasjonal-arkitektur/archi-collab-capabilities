@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Container/Process Engine"
+    id="a94827d8-5ed3-4467-b6b3-145daeca59ef"
+    documentation="This ABB provides an environment to manage the execution and flow of business processes, and to manage the interaction of humans with business processes. It is also is responsible for managing the instances of running processes and their context.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

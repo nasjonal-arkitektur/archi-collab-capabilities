@@ -1,0 +1,14 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Processing Steps for MDM"
+    id="5501cbcb-f18a-4fe6-b59a-9924714ad38e">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

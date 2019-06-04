@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="08. Ability to ensure the safety of a solution from types of failure, damage, error, accidents, and harm as defined by the Governance Layer "
+    id="2f9dc6a2-8703-4a9c-92b6-9aa6fe9576be">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

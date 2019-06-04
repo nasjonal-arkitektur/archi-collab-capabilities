@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02. Ability to support consumer interaction and integration; i.e., the ability to capture the input from the user (consumer) of the SOA and provide the response to the consumer "
+    id="c7f4300b-9157-4f81-8173-67fa3dd6ff33">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

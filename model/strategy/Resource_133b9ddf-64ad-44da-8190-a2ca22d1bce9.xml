@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality of Service Layer: Access Controller"
+    id="133b9ddf-64ad-44da-8190-a2ca22d1bce9"
+    documentation="See Access Controller ABB in the Quality of Service Layer.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:Resource>

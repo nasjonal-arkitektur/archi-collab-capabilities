@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process State Manager"
+    id="4061b9af-0d11-4d0c-afc7-092631e3dfbd"
+    documentation="The ABB supports the ability of the layer to retain and manage state (not status) during a business process. It manages the process state within each business process instance. This is an important capability, for example, for orchestrating a series of state transitions which might involve multiple business processes.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Rationalization Manager"
+    id="33a7688a-03dd-42a5-8225-d64d46ee8d40"
+    documentation="This ABB is responsible for performing data rationalizing and reconciliation.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

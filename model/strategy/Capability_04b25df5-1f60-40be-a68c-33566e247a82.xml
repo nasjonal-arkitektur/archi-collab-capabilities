@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Security "
+    id="04b25df5-1f60-40be-a68c-33566e247a82"
+    documentation="Data Security ensures that data privacy and confidentiality are maintained, that data is not breached, and that data is accessed appropriately">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

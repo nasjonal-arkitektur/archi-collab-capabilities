@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Representation Manager"
+    id="411fa9d7-316f-4d72-aa27-fedb3f704edd"
+    documentation="This ABB is responsible for handling representation of data from various data sources in a unified data format and for creation of unified views of data. In other words, this ABB intends to hide various data sources and present data in uniform formats to other ABBs for data handling. This ABB may link to various data sources and handle relationships between the data sources. This “virtualization” of the data makes consumers of information services (exposed through the Information Services Gateway) and other ABBs independent of the source and supports consistency in data.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporting Tools"
+    id="6e306d71-3906-403b-902d-a9b5c9e6bfb0"
+    documentation="This ABB represents a set of tools that customize, create, and generate reports on the execution of compliance and dispensation processes as well as the execution of checkpoints and monitoring of metrics. These reports can be stored with the Repository ABB. These reports can be created during any governance phase and any of the governance processes.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

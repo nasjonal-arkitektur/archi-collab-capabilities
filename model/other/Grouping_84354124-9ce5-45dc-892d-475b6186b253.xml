@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring"
+    id="84354124-9ce5-45dc-892d-475b6186b253"
+    documentation="This category of capabilities provides the ability to monitor application of policies, governance processes, and effectiveness of governance. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

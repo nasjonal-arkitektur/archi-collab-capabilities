@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01. Ability to locate components implementing services"
+    id="id-0454a5a1-83e0-11e9-27b3-44850074a0ae">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

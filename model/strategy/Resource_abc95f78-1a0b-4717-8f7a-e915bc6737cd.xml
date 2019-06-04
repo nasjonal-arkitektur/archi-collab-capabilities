@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Implementation Binder"
+    id="abc95f78-1a0b-4717-8f7a-e915bc6737cd"
+    documentation="This ABB provides any bindings required to the invoking services and other layers. For example, if this were a WSDL-based service, then the invoking services or Integration Layer component would require its service request converted or mapped to an underlying Service Component call. The aspect of converting the in-bound call leverage Method Input/Output Transformer ABB is the responsibility of this ABB.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

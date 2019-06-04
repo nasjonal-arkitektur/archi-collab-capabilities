@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality of Service Layer: Business Activity Monitor"
+    id="55fe347e-d425-435f-89b5-1b14f9fa4aad"
+    documentation="See Business Activity Monitor ABB in the Quality of Service Layer.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:Resource>

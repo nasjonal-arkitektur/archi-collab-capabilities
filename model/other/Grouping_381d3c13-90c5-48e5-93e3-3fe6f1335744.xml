@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backend Integration"
+    id="381d3c13-90c5-48e5-93e3-3fe6f1335744"
+    documentation="This category of capabilities addresses the integration of the Consumer Layer with backend and legacy systems using SOA and services and transforms their information and incorporates it into content. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Architect"
+    id="0affa1e8-d656-4c35-b922-47f1046ff871"
+    documentation="Application Architect: Senior developer responsible for integrating application systems.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

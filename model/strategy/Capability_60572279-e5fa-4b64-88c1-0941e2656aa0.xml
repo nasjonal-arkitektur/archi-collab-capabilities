@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="06. Ability to provide the Consumer Layer with the ability to support customer-specific information (enabled by the Information Layer) and personalization and customer-specific preferences to be used by the presentation controller for navigation and content presentation purposes"
+    id="60572279-e5fa-4b64-88c1-0941e2656aa0">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

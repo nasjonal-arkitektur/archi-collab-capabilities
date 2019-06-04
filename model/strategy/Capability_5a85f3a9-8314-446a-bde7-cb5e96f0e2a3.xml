@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="5a85f3a9-8314-446a-bde7-cb5e96f0e2a3">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

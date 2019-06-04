@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Rules Manager"
+    id="d5593129-7b84-4254-83d7-b472d989b260"
+    documentation="This ABB is responsible for defining, distributing, and maintaining business rules and their correlation to policies. The appropriate resulting policies are defined by using a Policy Manager ABB. This ABB supports rule implementation across multiple SOA RA layers.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

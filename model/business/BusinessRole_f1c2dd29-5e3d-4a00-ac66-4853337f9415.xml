@@ -1,0 +1,14 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Steward"
+    id="f1c2dd29-5e3d-4a00-ac66-4853337f9415">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

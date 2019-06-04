@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Interaction Manager"
+    id="519b4647-797b-4a44-94aa-9db20c07993c"
+    documentation="This ABB is contained within the Service Container and in general manages the interactions required to invoke and run the services. It uses all the other ABBs within the Services Layer to achieve its goals.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

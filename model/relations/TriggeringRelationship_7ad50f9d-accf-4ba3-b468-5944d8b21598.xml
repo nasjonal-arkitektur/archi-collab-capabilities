@@ -1,0 +1,20 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="7ad50f9d-accf-4ba3-b468-5944d8b21598">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:triggering-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_bf554392-c575-464f-8695-6e6d8f904a25.xml#bf554392-c575-464f-8695-6e6d8f904a25"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_20ba10d1-bfbb-413d-8c15-c5d038742d71.xml#20ba10d1-bfbb-413d-8c15-c5d038742d71"/>
+</archimate:TriggeringRelationship>

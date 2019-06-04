@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Repository"
+    id="042a86a0-64cf-4b7d-b68f-359917e91ad9"
+    documentation="This category of capabilities addresses support of the information repository in order to persist data such as metadata, master data, analytical data, operational data, and unstructured data. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

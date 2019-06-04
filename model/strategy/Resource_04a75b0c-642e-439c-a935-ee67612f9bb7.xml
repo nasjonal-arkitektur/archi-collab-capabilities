@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Manager/Human Task Manager"
+    id="04a75b0c-642e-439c-a935-ee67612f9bb7"
+    documentation="This ABB is responsible for the coordination of requests that require human intervention. It is also responsible for the management of the state of human tasks and work items. This ABB supports the ability of the Business Process Layer to integrate human intervention into business processes. In practice this might mean using the Service Adapter and Integration Adapter to integrate with the Consumer Layer. This ABB is often required in process error handling situations (e.g., the involvement of a customer service representative when the customer enters a wrong account number in a self-service banking scenario).">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Integration"
+    id="3fd9c417-468e-45c2-a587-cefd4d6935f3"
+    documentation="This category of capabilities facilitates integration with others layer of the SOA RA and helps to expose a business process as a service. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

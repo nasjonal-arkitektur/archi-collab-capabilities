@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration Layer: Integration Controller"
+    id="0441b1a0-8e0c-474c-a955-6be063a58ecf"
+    documentation="This ABB is responsible for coordinating and brokering or mediating the interactions between the applications, database, security, etc. that need to work in concert to effectively provide a runtime experience.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:Resource>

@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Service Adapter"
+    id="b9185c93-2816-4c0c-b5fc-600630488024"
+    documentation="This ABB integrates the Business Process Layer with other SOA RA layers, in particular the Services, Integration, and Consumer Layers. It acts as the mechanism to expose business processes as services.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

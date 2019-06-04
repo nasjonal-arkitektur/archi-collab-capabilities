@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Engineer"
+    id="eb2da7a7-c37c-4e34-ab50-4dcf76bcbe27"
+    documentation="Technical Engineer: Senior technical analyst responsible for researching, implementing, administering, and supporting a portion of the information technology infrastructure.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

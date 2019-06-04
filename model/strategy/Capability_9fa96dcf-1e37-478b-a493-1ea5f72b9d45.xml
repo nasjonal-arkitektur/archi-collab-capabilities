@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="47. Ability to review and assess business and service activity in the form of event information and determine responses or issue alerts/notifications"
+    id="9fa96dcf-1e37-478b-a493-1ea5f72b9d45">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

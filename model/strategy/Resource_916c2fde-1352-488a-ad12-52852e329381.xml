@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Presentation Adapter"
+    id="916c2fde-1352-488a-ad12-52852e329381"
+    documentation="This ABB is responsible for integrating the client with the rest of the Consumer Layer. It accepts client-specific information and separates client-specific standards from the rest of the Consumer Layer, transforming data into formats that the rest of the Consumer Layer understands.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

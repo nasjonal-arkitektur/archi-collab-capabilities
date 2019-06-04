@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application and SOA Monitoring and Management"
+    id="6865d1c9-ea12-48f4-9d48-0f79fda92c0f"
+    documentation="This category of capabilities provides monitoring and management of software services and applications. This includes the ability to capture metrics and to monitor and manage application and solution status.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

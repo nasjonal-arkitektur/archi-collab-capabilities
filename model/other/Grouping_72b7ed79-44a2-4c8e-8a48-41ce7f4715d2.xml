@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Definition and Management"
+    id="72b7ed79-44a2-4c8e-8a48-41ce7f4715d2"
+    documentation="This category of capabilities provides the ability to define and manage policies. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

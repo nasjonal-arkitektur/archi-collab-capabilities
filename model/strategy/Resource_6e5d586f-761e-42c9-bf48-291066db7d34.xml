@@ -1,0 +1,14 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Information: Business Glossary and Terms, Business Entities"
+    id="6e5d586f-761e-42c9-bf48-291066db7d34">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

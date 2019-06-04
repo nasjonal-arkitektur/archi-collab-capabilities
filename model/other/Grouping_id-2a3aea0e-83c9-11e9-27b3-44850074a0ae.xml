@@ -1,0 +1,18 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality of Service Layer"
+    id="id-2a3aea0e-83c9-11e9-27b3-44850074a0ae"
+    documentation="== Overview&#xD;&#xA;&#xD;&#xA;Inherent in SOA are characteristics that exacerbate existing Quality of Service (QoS) concerns in computer systems: increased virtualization/loose-coupling, widespread use of XML, the composition of federated services, multiple channels as consumers of services, heterogeneous computing infrastructures, decentralized Service-Level Agreements (SLAs), the need to aggregate IT QoS metrics to produce business metrics, etc. are part of the nature of SOA. These characteristics create complications for QoS that clearly require attention within any SOA solution. The key responsibilities of the Quality of Service Layer include:&#xD;&#xA;&#xD;&#xA;* Monitoring and management both at the business level in terms of Key Performance Indicators (KPIs), events, and business activities in the business processes, and at the IT systems level for the security, health, and wellbeing of IT systems, services, applications, networks, storage, and compute servers&#xD;&#xA;* Monitoring and enforcement of a multitude of policies and corresponding business rules including business-level policies, security policies, access privileges, data access policies, etc. &#xD;&#xA;&#xD;&#xA;== Context and Typical Flow&#xD;&#xA;&#xD;&#xA;This layer provides solution QoS management of various aspects, such as availability, reliability, security, and safety as well as mechanisms to support, track, monitor, and manage solution QoS control.&#xD;&#xA;&#xD;&#xA;The Quality of Service Layer provides the service and SOA solution lifecycle processes with the capabilities required to ensure that the defined policies, Non-Functional Requirements (NFRs), and governance regimens are adhered to.&#xD;&#xA;&#xD;&#xA;This layer supports monitoring and capturing service and solution metrics in an operational sense and signaling non-compliance with NFRs relating to the salient service qualities and policies associated with each SOA layer. Service metrics are captured and connected with individual services to allow service consumers to evaluate service performance, creating increased service trust levels.&#xD;&#xA;&#xD;&#xA;This layer serves as an observer of the other layers and can create events signaling when a non-compliance condition with salient policies is detected or (preferably) when a non-compliance condition is anticipated.&#xD;&#xA;&#xD;&#xA;In the SOA RA policies, business rules, and the NFRs and policies for the SOA solution are defined and captured in the Governance Layer but are monitored and enforced in the Quality of Service Layer. Important areas of policy enforcement are security, messaging transportation, and infrastructure availability, and service availability. This layer also supports security management and systems management for SOA solutions. Responses (dispensations and appeals) to non-compliance and exceptions are defined by the Governance Layer as well.&#xD;&#xA;&#xD;&#xA;== Capabilities&#xD;&#xA;&#xD;&#xA;There are multiple sets of categories of capabilities that the Quality of Service Layer needs to support in the SOA RA. ">
+  <properties
+      key="drill down"
+      value="29f9cbab-ec7f-4cb8-8958-e577c05dd4ed"/>
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

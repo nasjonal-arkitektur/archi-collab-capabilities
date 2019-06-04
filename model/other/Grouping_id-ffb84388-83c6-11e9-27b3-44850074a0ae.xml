@@ -1,0 +1,18 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Component Layer"
+    id="id-ffb84388-83c6-11e9-27b3-44850074a0ae"
+    documentation="== Overview&#xD;&#xA;&#xD;&#xA;This layer contains software components, each of which provides the implementation or “realization” for services and their operations, hence the name “Service Component”. The layer also contains the Functional and Technical Components that facilitate a Service Component to realize one or more services. Service Components reflect the definition of the service they represent, both in terms of functionality and Quality of Service (QoS). They “bind” the service contract/specification to the implementation of the service in the Operational Systems Layer. Service Components are hosted in containers which support the service specifications.&#xD;&#xA;&#xD;&#xA;The Service Component Layer manifests the IT conformance with each service contract/description/specification defined in the Services Layer; it guarantees the alignment of IT implementation with service description.&#xD;&#xA;&#xD;&#xA;In detail, each Service Component fulfils the following goals:&#xD;&#xA;&#xD;&#xA;* Realizes one or more services&#xD;&#xA;* Provides an enforcement point for service realization&#xD;&#xA;* Enables IT flexibility by strengthening the decoupling in the system, by hiding volatile implementation details from service consumers &#xD;&#xA;&#xD;&#xA;In particular, the Service Component Layer:&#xD;&#xA;&#xD;&#xA;* Enables IT flexibility by strengthening the decoupling in the system; decoupling is achieved by hiding volatile implementation details from consumers&#xD;&#xA;* Often employs container-based technologies, such as EJBs &#xD;&#xA;&#xD;&#xA;Each Service Component:&#xD;&#xA;&#xD;&#xA;* Realizes one or more services&#xD;&#xA;* Provides an enforcement point for service realization&#xD;&#xA;* Offers a façade behind which IT is free to do what is wanted/needed&#xD;&#xA;* Generally contains business-specific logic with no reference to integration logic &#xD;&#xA;&#xD;&#xA;== Context and Typical Flow&#xD;&#xA;&#xD;&#xA;The Service Component Layer provides the following:&#xD;&#xA;&#xD;&#xA;* Ability to support the exposure of a service in a standards-compliant manner supporting interoperability; note that the protocol (SOAP/REST/J2EE, etc.) is not prescribed but determined by the associated architectural decision&#xD;&#xA;* Ability to expose the service via an integration stack from the underlying platform in which the service functionality resides (aka within the Operational Systems Layer)&#xD;&#xA;* Ability to publish and deploy the Service Component itself: expose services in an interoperable manner; bind to the Operational Systems Layer at runtime; publish service contract information in an interoperable and standards-compliant manner so that other elements of the SOA can invoke it; deploy the service into the associated “services container” &#xD;&#xA;&#xD;&#xA;== Capabilities&#xD;&#xA;&#xD;&#xA;There are multiple categories of capabilities that Service Component Layer need to support in the SOA RA. These capabilities include both design-time and runtime capabilities.&#xD;&#xA;&#xD;&#xA;Note:  Service Realization and Implementation, Service Publication and Exposure, and Service Deployment are design-time capabilities, while Service Invocation and Service Binding are runtime capabilities.">
+  <properties
+      key="drill down"
+      value="d31ed4d4-2d59-4f44-8267-f5c19dfe26db"/>
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

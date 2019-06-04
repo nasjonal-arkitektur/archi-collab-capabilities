@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Miner"
+    id="c0e6761d-0d5c-47d5-88af-33c412210b5f"
+    documentation="This ABB is responsible for analyzing data access history as well as providing optimization algorithms and business intelligence for data optimization. It enables building of descriptive and predictive models by uncovering previously unknown trends and patterns in vast amounts of data from across the enterprise, in order to support decision-making.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

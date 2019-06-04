@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cluster Manager"
+    id="4a23e1c9-f059-4817-a454-69a75a7d88d2"
+    documentation="This ABB supports scalability within the Services Layer. It provides clustering and caching support when necessary.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

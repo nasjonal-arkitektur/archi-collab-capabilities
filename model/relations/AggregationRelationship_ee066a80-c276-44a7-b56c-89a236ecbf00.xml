@@ -1,0 +1,20 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ee066a80-c276-44a7-b56c-89a236ecbf00">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:aggregation-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_4915c362-c7e6-4c10-99fe-0c50fd88f879.xml#4915c362-c7e6-4c10-99fe-0c50fd88f879"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_8b19f185-9e11-4393-b2f0-292340b622e0.xml#8b19f185-9e11-4393-b2f0-292340b622e0"/>
+</archimate:AggregationRelationship>

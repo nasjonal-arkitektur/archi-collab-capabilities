@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Caching and Streaming Content:"
+    id="e3d5d04a-954c-4c2a-b10c-15935c8d8e5d"
+    documentation="This category of capabilities addresses the support of information buffering and performance, and supports the operation of the Consumer Layer. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Control Manager"
+    id="e88296eb-d6ce-4ab0-b702-a82984b96955"
+    documentation="This ABB is used to control the updating of configuration, policies, and services. Change control applies to both the SOA solution and SOA governance. Change control processes are key processes to be governed.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

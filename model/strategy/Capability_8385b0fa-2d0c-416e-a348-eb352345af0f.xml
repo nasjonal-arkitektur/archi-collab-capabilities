@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="21. Ability to monitor and manage data usages using a log-like facility; typical traceability log includes: who has accessed the data, when, and what part of the data has been accessed"
+    id="8385b0fa-2d0c-416e-a348-eb352345af0f">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Definition"
+    id="9fba74d7-5bde-4238-b7ba-77ff6fae5689"
+    documentation=" This category of capabilities is required for defining the business processes/operational flow of the business. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

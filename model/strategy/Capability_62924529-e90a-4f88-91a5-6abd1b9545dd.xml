@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="03. Ability to handle representing data from various data sources in a unified data format; ability to transform and map data from one format to another and align data from different resources"
+    id="62924529-e90a-4f88-91a5-6abd1b9545dd">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

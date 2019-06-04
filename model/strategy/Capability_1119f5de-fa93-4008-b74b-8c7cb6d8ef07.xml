@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02. Ability to interface with the Integration Layer in multiple ways such as message-based, service call, batch interface"
+    id="1119f5de-fa93-4008-b74b-8c7cb6d8ef07">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

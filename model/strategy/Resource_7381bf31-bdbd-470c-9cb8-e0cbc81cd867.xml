@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hardware"
+    id="7381bf31-bdbd-470c-9cb8-e0cbc81cd867"
+    documentation="This ABB represents an abstraction of the physical hardware that is the platform on which Deployment Units are actually deployed and are executing (running).">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

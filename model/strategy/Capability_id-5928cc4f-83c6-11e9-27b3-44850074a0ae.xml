@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ability to find Service Component associated with Solution Building Blocks"
+    id="id-5928cc4f-83c6-11e9-27b3-44850074a0ae">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+</archimate:Capability>

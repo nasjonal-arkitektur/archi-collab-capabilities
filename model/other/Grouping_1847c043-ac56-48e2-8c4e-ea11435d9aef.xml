@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Publication and Exposure (Design Time)"
+    id="1847c043-ac56-48e2-8c4e-ea11435d9aef"
+    documentation="This category of capabilities supports service exposure and service contract publication. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

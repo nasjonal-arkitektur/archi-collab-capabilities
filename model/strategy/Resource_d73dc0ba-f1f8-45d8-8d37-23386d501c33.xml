@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Controller"
+    id="d73dc0ba-f1f8-45d8-8d37-23386d501c33"
+    documentation="The ABB acts as a controller that supports all the interactions between the invocation of a business process and the building blocks supporting that invocation. It is the core of a process container and responsible for executing the process activities.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

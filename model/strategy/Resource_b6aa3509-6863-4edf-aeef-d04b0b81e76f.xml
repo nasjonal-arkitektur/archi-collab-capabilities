@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Rules Repository"
+    id="b6aa3509-6863-4edf-aeef-d04b0b81e76f"
+    documentation="This ABB is responsible for storing and accessing business rules artifacts. This ABB is used by the Business Rule Manager ABB.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

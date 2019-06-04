@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Cache"
+    id="dccb76c5-a3f7-482f-aebb-72a27d93ec92"
+    documentation="This ABB is responsible for the caching of data in support of the data virtualization/information services capability. It enables addressing variations in temporal availability of data as well as improvement of performance. The variance in temporal availability of data is an issue associated with different data sources having different schedules for data being available; for example, one data source could be a time-based file feed, the other a mainframe batch program, and the third a real-time relational database. In such a scenario, for the consistent update and availability of data, it is useful to be able to cache it in some form. The data cache may use persistent data or non-persistent caching of data, which are implementation aspects.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

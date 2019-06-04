@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="08. Ability to support the capture of service-related information at design time, and its dissemination to the other layers in the SOA in a standards-compliant interoperable manner"
+    id="17b845c0-eb91-4717-a6eb-d1d9f24a6cdf">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

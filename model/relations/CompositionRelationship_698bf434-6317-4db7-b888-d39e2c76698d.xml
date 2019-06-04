@@ -1,0 +1,20 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="698bf434-6317-4db7-b888-d39e2c76698d">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:composition-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_a21dff94-057e-47da-a031-2aedf783e6b7.xml#a21dff94-057e-47da-a031-2aedf783e6b7"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_0bbbc95f-dc54-4dcf-9c02-5bfafd81272b.xml#0bbbc95f-dc54-4dcf-9c02-5bfafd81272b"/>
+</archimate:CompositionRelationship>

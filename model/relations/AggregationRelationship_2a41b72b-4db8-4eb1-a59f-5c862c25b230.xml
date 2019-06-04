@@ -1,0 +1,20 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2a41b72b-4db8-4eb1-a59f-5c862c25b230">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:aggregation-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_b303e6d1-a2a4-4f78-8f0f-3b6b94531834.xml#b303e6d1-a2a4-4f78-8f0f-3b6b94531834"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_17ed2449-53b7-4b8b-882a-3a07c7caae7e.xml#17ed2449-53b7-4b8b-882a-3a07c7caae7e"/>
+</archimate:AggregationRelationship>

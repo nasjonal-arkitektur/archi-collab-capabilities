@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Structure Data"
+    id="470b353b-d5fa-4c35-a160-9125471f6768"
+    documentation="Transaction Structure Data, for example customer identifiers, describes the things must be present for a transaction to occur: products, customers, vendors.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

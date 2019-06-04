@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumer"
+    id="6d0a8d30-fc22-42a3-ad54-2358a6214b4c"
+    documentation="This ABB is the individual consumer (actor) that uses the services supported by the SOA RA. The consumer can be human or a system.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05. Ability to support service interoperability. Ability to implement a part of the broker pattern. Ability to convert from the service description to service calls supported by the platform (in the case of a WSDL web service, the conversion from WSDL service description to the service invocation). Ability to convert at runtime into a standards-compliant form for consumption by standards-compliant service consumers on both input and output. Ability to convert from the standards-compliant form to the form acceptable to the underlying Solution Component which satisfies the service’s functional capability on both input and output. Ability to enforce policies and access control during service binding "
+    id="73f01358-c5d4-450a-9f5d-737ee5c028f6">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

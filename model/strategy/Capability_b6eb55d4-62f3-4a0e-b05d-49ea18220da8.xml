@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10. Ability to perform Enterprise Information Integration (EII) capabilities, such as access to federated query to structure and unstructured data"
+    id="b6eb55d4-62f3-4a0e-b05d-49ea18220da8">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

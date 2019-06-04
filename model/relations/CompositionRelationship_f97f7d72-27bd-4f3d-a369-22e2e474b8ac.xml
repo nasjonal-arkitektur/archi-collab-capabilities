@@ -1,0 +1,20 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f97f7d72-27bd-4f3d-a369-22e2e474b8ac">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:composition-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_b88a03b9-0da9-4b78-b5a7-e82332778bb0.xml#b88a03b9-0da9-4b78-b5a7-e82332778bb0"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_cde71c3f-6887-40ad-99ba-40ad7f9a6914.xml#cde71c3f-6887-40ad-99ba-40ad7f9a6914"/>
+</archimate:CompositionRelationship>

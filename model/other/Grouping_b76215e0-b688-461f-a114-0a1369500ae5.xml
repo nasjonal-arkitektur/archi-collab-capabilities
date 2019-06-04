@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Monitoring and Management"
+    id="b76215e0-b688-461f-a114-0a1369500ae5"
+    documentation="This category of capabilities monitors and manages business processes, identifies bottlenecks in the business processes, and optimizes workload assignment. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

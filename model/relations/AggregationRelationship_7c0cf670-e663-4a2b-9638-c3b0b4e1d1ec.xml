@@ -1,0 +1,20 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="7c0cf670-e663-4a2b-9638-c3b0b4e1d1ec">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:aggregation-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_10d4aa03-869f-42d6-a0c8-a15010231065.xml#10d4aa03-869f-42d6-a0c8-a15010231065"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_90b16aa6-d68e-4fe1-b7a2-fa3b22f662cd.xml#90b16aa6-d68e-4fe1-b7a2-fa3b22f662cd"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Security and Protection"
+    id="b303e6d1-a2a4-4f78-8f0f-3b6b94531834"
+    documentation="This category of capabilities addresses the support of information security and protection concerns. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

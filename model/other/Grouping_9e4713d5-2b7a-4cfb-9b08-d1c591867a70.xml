@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communication, Service Interaction, and Integration"
+    id="9e4713d5-2b7a-4cfb-9b08-d1c591867a70"
+    documentation="This category of capabilities provides the ability to route requests to correct the provider after necessary message transformation and protocol conversion and to connect the service requestor to the service provider and its underlying solutions platforms realizing the requested service. It also provides the ability to discover services and, at runtime, to support the virtualization of services so that changes to the end-points (or locations from where the services are called and where the services are provided) can occur without impact to service consumers and service providers. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

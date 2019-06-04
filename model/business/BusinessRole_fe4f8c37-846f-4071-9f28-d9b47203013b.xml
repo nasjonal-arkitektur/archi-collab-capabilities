@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence Architect"
+    id="fe4f8c37-846f-4071-9f28-d9b47203013b"
+    documentation="Business Intelligence Architect: A senior Business Intelligence analyst responsible for the design of the Business Intelligence user environment.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

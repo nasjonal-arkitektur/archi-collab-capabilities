@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Method Input/Output Transformer"
+    id="3bd95117-51d1-4cf4-9aad-989d705c6e29"
+    documentation="This ABB helps in transformation of input and output parameters of service operation and conversion of associated data elements from one format to another. It is used by the Service Implementation Adapter ABB to do the transformation/translation. It retrieves its metadata from the Information Layer and leverages the Data Transformer ABB in the Integration Layer to perform the necessary transformation.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

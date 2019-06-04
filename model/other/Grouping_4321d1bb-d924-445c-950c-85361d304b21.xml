@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Management:"
+    id="4321d1bb-d924-445c-950c-85361d304b21"
+    documentation="This category of capabilities provides the ability to manage events and enables the complex event processing in the SOA RA.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repository"
+    id="b210759c-7629-49fb-b12e-e650c07bd4dd"
+    documentation="This ABB represents a generic storage and enables organizations to organize, govern, and manage their valuable artifacts and assets scattered throughout the enterprise and to encourage re-use of existing assets within the organization. It provides the ability to search for the artifact and asset by different perspectives such as for general description, classification, usage, and content.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

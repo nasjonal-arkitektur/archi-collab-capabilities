@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04. Ability to configure information which will support specific capabilities associated with ensuring consistency (similar to a style guide)"
+    id="c87a8606-bb79-423f-aa64-5d71f6a54f24">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

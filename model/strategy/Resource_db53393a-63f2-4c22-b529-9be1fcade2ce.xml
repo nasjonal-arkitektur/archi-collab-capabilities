@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composite View"
+    id="db53393a-63f2-4c22-b529-9be1fcade2ce"
+    documentation="This ABB is responsible for assembling data received from various services and creates a composite view which is orchestrated and then passed on to the client for rendering.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

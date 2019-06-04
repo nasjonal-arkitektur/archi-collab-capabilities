@@ -1,0 +1,20 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-aade5e0c-83e5-11e9-27b3-44850074a0ae">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-ffb8438e-83c6-11e9-27b3-44850074a0ae.xml#id-ffb8438e-83c6-11e9-27b3-44850074a0ae"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-2a3aea00-83c9-11e9-27b3-44850074a0ae.xml#id-2a3aea00-83c9-11e9-27b3-44850074a0ae"/>
+</archimate:FlowRelationship>

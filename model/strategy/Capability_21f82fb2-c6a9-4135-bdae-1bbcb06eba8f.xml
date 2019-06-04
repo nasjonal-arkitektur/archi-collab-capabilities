@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="17. Ability to define policies, enforce them, and verify the compliance of the elements of process with a set of predefined policies"
+    id="21f82fb2-c6a9-4135-bdae-1bbcb06eba8f">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

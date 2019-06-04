@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ability to provide infrastructure in a virtualized manner to service implementation"
+    id="id-5928cc67-83c6-11e9-27b3-44850074a0ae">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+</archimate:Capability>

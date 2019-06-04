@@ -1,0 +1,15 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality Manager"
+    id="7ddad109-1a53-4cfd-a5ab-cd5172028c49"
+    documentation="This ABB is responsible for validating and enforcing data quality rules, standardizing the data for both value and structure, and performing data reconciliation including semantic reconciliation. It leverages the Information Integrity ABB to fulfill its responsibilities.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

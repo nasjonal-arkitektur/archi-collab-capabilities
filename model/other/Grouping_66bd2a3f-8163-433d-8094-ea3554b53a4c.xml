@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Definition and Modeling"
+    id="66bd2a3f-8163-433d-8094-ea3554b53a4c"
+    documentation="This category of capabilities defines fundamental constructs of SOA information and events. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>
