@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quality of Service Layer ABBs"
-    id="419fc797-0989-4af5-a1ba-c650cbc5723a"/>
+    id="419fc797-0989-4af5-a1ba-c650cbc5723a">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Quality of Service Layer ABBs"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

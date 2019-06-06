@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ABBs"
-    id="22bd2eb3-9af5-42e2-aa9f-e45f0c547d64"/>
+    id="22bd2eb3-9af5-42e2-aa9f-e45f0c547d64">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="ABBs"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

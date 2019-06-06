@@ -124,4 +124,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_1e0ff5f7-1a40-4063-8467-348a55859095.xml#1e0ff5f7-1a40-4063-8467-348a55859095"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 IT capabilities"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

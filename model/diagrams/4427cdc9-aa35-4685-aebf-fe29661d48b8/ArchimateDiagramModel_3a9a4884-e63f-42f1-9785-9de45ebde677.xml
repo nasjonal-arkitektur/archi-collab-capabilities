@@ -298,4 +298,16 @@
         xsi:type="archimate:Capability"
         href="Capability_d0e64e0a-0ac7-4d01-8f99-f5a83f2e756d.xml#d0e64e0a-0ac7-4d01-8f99-f5a83f2e756d"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Reference and Master Data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

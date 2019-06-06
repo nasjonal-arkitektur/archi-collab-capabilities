@@ -241,4 +241,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-22cea295-83d9-11e9-27b3-44850074a0ae.xml#id-22cea295-83d9-11e9-27b3-44850074a0ae"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="SOA RA Metamodel"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

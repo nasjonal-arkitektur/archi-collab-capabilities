@@ -373,4 +373,16 @@
         xsi:type="archimate:Capability"
         href="Capability_ade10bd8-69f8-4602-97fe-b29f7c576c7b.xml#ade10bd8-69f8-4602-97fe-b29f7c576c7b"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Data Integration and Interoperability"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -1332,4 +1332,16 @@
         xsi:type="archimate:Capability"
         href="Capability_0dfe2e68-88b5-4435-8c56-256a4d85b327.xml#0dfe2e68-88b5-4435-8c56-256a4d85b327"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Quality of Service Layer Capabilitoes"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

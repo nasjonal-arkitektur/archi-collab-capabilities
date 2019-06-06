@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TOG SOA RA"
-    id="fb18f96e-6878-4f35-9f7e-da6a9de41ecd"/>
+    id="fb18f96e-6878-4f35-9f7e-da6a9de41ecd">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="TOG SOA RA"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

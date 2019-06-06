@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Combined TOG SOA RA &amp; DMBOK2"
     id="id-model"
-    version="4.4.0"/>
+    version="4.4.0">
+  <properties
+      key="difi:default_language"
+      value="no"/>
+  <properties
+      key="difi:current_language"
+      value="no"/>
+</archimate:ArchimateModel>

@@ -621,4 +621,16 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_677af9c7-0195-4530-ba27-9122dfa84e41.xml#677af9c7-0195-4530-ba27-9122dfa84e41"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Roles"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>
