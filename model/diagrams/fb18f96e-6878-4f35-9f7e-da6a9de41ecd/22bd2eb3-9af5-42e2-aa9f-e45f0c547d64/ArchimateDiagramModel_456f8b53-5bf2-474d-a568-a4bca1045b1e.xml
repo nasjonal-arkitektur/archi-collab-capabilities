@@ -84,6 +84,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="eba23b90-8555-49ea-9752-bcf22a1a0871"
           targetConnections="9bf921bb-c1dd-4c49-b80d-54c117520e26"
+          fontColor="#ff0000"
           textPosition="1">
         <bounds
             x="12"
@@ -139,6 +140,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="ab67834b-59eb-4d4a-aa11-b80ec42225e8"
           targetConnections="cd430188-3c4d-4b62-b301-e1f462df9498"
+          fontColor="#ff0000"
           textPosition="1">
         <bounds
             x="12"

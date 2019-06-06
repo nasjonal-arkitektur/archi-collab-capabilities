@@ -1,4 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Asynchronous Messaging Manager"
-    id="b75904d5-b5d6-4739-84dc-c145fa76fd95"/>
+    id="b75904d5-b5d6-4739-84dc-c145fa76fd95"
+    documentation="This ABB is responsible for storing and forwarding messages potentially using a message queue and it provides the underlying plumbing to transport messages between service invokers and providers as well as the ability to store and forward the messages. It supports both reliable transport and guaranteed delivery. Message queuing is a common example of a mechanism to support asynchronous messaging. A common feature of this ABB is to support message delivery guarantees and reliability."/>

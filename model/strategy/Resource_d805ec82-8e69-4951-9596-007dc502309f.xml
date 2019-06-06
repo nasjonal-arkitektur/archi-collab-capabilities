@@ -1,4 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adapter"
-    id="d805ec82-8e69-4951-9596-007dc502309f"/>
+    id="d805ec82-8e69-4951-9596-007dc502309f"
+    documentation="This ABB is responsible for the interfacing/connectivity of SOA RA layers of a solution to external systems and components and taking a call (message) to the end-point. In particular, it addresses any necessary mediation (router, message transformer, protocol converter) of the elements outside the Integration Layer and the interaction with external systems and components. This ABB should typically be used by ABBs in all SOA RA layers to access external components of solution platforms, providing a consistent integration capability."/>
