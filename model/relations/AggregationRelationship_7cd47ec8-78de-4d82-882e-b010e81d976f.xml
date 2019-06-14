@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aggregation"
     id="7cd47ec8-78de-4d82-882e-b010e81d976f">
   <properties
       key="difi:namespace"
@@ -11,6 +12,18 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="aggregation"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_975d6712-39a2-4f7f-a91b-1996d62f02a6.xml#975d6712-39a2-4f7f-a91b-1996d62f02a6"/>

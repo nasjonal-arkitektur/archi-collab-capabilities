@@ -16,4 +16,20 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Interoperability Organisational Authority"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A person or organisation having the political and/or administrative power to create and govern the interoperability capabilities of an organisation.&#xD;&#xA;&#xD;&#xA;Based on the definitions of authority and organisational in the Oxford dictionary.&#xD;&#xA;https://en.oxforddictionaries.com/definition/authority &#xD;&#xA;&#xD;&#xA;Syn. Interoperability Coordination Power or Right, or Control&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Interoperability Organisational Authority ABB  is an interoperability enabler because it helps achieve organisational interoperability by ensuring political and/or administrative governance of the interoperability capabilities of an organisation as stated in the EIF Recommendation 20: &quot;Ensure holistic governance of interoperability activities across administrative levels and sectors&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;INSPIRE Directive 2007/2/EC of 14 March 2007, Article 19&#xD;&#xA;&#xD;&#xA;1. The Commission shall be responsible for coordinating Inspire at Community level and shall be assisted for that purpose by relevant organisations and, in particular, by the European Environment Agency.&#xD;&#xA;2. Each Member State shall designate a contact point, usually a public authority, to be responsible for contacts with the Commission in relation to this Directive. This contact point will be supported by a coordination structure, taking account of the distribution of powers and responsibilities within the Member State.&#xD;&#xA;&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007L0002&amp;from=EN &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

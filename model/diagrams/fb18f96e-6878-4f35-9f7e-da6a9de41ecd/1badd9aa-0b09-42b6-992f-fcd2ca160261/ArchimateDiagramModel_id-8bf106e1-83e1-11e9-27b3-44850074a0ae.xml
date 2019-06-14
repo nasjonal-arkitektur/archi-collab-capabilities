@@ -581,7 +581,8 @@
       key="difi:name_no"
       value="Operational Systems Layer Capabilitoes"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Operational Systems Layer Capabilitoes"/>
   <properties
       key="difi:description_no"/>
   <properties

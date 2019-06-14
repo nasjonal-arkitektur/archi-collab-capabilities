@@ -1,10 +1,29 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="flow"
     id="6344e03f-5c18-4702-b4bc-88c85ae8a129">
   <properties
       key="difi:namespace"
       value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="flow"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_057426fc-bb9e-4f07-a92e-16678d4b7c96.xml#057426fc-bb9e-4f07-a92e-16678d4b7c96"/>

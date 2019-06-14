@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="composition"
     id="fcd55567-4dec-48ef-aa94-7bbb2018b6f5">
   <properties
       key="difi:namespace"
@@ -11,6 +12,18 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="composition"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_c12a3608-bb10-4c8a-829a-a3def3c1a4d9.xml#c12a3608-bb10-4c8a-829a-a3def3c1a4d9"/>

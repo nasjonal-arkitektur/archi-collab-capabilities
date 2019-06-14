@@ -17,4 +17,20 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Technological neutrality and data portability"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="EIF Underlying principle 5: technological neutrality and data portability&#xA;&#xA;When establishing European public services, public administrations should focus on functional needs and defer decisions on technology as long as possible in order to minimise technological dependencies, to avoid imposing specific technical implementations or products on their constituents and to be able to adapt to the rapidly evolving technological environment.&#xA;&#xA;Public administrations should provide for access and reuse of their public services and data irrespective of specific technologies or products.&#xA;&#xA;The functioning of the digital single market requires data to be easily transferable among different systems to avoid lock-in, support the free movement of data. This requirement relates to data portability - the ability to move and reuse data easily among different applications and systems, which becomes even more challenging in cross-border scenarios.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Principle>

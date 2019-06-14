@@ -6,6 +6,24 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="applies to"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_f093c6fe-f517-45f8-8ee7-ce7c509441d9.xml#f093c6fe-f517-45f8-8ee7-ce7c509441d9"/>

@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Change Control Manager"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is used to control the updating of configuration, policies, and services. Change control applies to both the SOA solution and SOA governance. Change control processes are key processes to be governed."/>
 </archimate:Resource>

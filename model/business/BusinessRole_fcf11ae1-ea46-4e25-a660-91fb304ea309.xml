@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Business Intelligence Program Manager"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Business Intelligence Program Manager: Coordinates BI requirements and initiatives across the corporation and integrates them into a cohesive prioritized program and roadmap."/>
 </archimate:BusinessRole>

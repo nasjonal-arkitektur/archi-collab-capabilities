@@ -1,11 +1,31 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization"
     id="5f8ab733-4834-4e5f-8995-589ca86d56bb"
     documentation="The goal of [Achieving Semantic Interoperability] is assessed by the use of [Data Set Catalogues] that provision/consume data.">
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="realization"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The goal of [Achieving Semantic Interoperability] is assessed by the use of [Data Set Catalogues] that provision/consume data."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_5dbe8d57.xml#5dbe8d57"/>

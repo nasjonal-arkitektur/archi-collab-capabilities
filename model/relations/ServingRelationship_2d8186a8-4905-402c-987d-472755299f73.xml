@@ -1,10 +1,29 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="serving"
     id="2d8186a8-4905-402c-987d-472755299f73">
   <properties
       key="difi:namespace"
       value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="serving"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_a0ae3e82-2db9-498c-9a9f-517014e04083.xml#a0ae3e82-2db9-498c-9a9f-517014e04083"/>

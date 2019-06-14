@@ -25,4 +25,20 @@
       value="Obsolete"/>
   <properties
       key="eira:identifier"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Character Encoding Scheme"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Digital Encoding of Characters. To be of any use in computers, in computer communications and in particular on the World Wide Web, characters must be encoded. In fact, much of the information processed by computers over the last few decades has been encoded text, exceptions being images, audio, video and numeric data. To achieve text encoding, a large variety of character encodings have been devised. Character encodings can loosely be explained as mappings between the character sequences that users manipulate and the sequences of bits that computers manipulate.&#xD;&#xA;&#xD;&#xA;Source: W3C&#xD;&#xA;https://www.w3.org/TR/2003/WD-charmod-20030822/ &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Unicode Transformation Format (UTF-8)&#xD;&#xA;&#xD;&#xA;ISO/IEC 10646-1 defines a large character set called the Universal Character Set (UCS) which encompasses most of the world's writing systems.  The originally proposed encodings of the UCS, however, were not compatible with many current applications and protocols, and this has led to the development of UTF-8.&#xD;&#xA;UTF-8 has the characteristic of preserving the full US-ASCII range, providing compatibility with file systems, parsers and other software that rely on US-ASCII values but are transparent to other values.&#xD;&#xA;UTF-8 has a one-octet encoding unit.  It uses all bits of an octet, but has the quality of preserving the full US-ASCII [US-ASCII] range: US-ASCII characters are encoded in one octet having the normal US-ASCII value, and any octet with such a value can only stand for a US-ASCII character, and nothing else.&#xD;&#xA;UTF-8 encodes UCS characters as a varying number of octets, where the number of octets, and the value of each, depend on the integer value assigned to the character in ISO/IEC 10646 (the character number, a.k.a. code position, code point or Unicode scalar value).&#xD;&#xA;https://tools.ietf.org/html/rfc3629 &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

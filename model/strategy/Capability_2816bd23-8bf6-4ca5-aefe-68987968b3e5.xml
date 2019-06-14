@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="30. Ability to store operational and reshaped information (structured and unstructured) that adds business value including common model of data; used to share canonical forms (common data models) between SOA Integration Layer elements and also other SOA layer elements – typically invoked by other components (including information virtualization capabilities)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

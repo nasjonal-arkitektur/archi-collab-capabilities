@@ -19,4 +19,20 @@
   <properties
       key="ID"
       value="ABB207"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Organisational Procedure"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The specific methods employed to express organisational policies in action in day-to-day operations of the organization. Together, policies and procedures ensure that a point of view held by the governing body of an organization is translated into steps that result in an outcome compatible with that view.&#xD;&#xA;&#xD;&#xA;Based on BusinessDictionary.com definition of Policies and Procedures&#xD;&#xA;http://www.businessdictionary.com/definition/policies-and-procedures.html &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;TRACES - Listing procedures&#xD;&#xA;Describe how to approve or register establishments and operators on the European portal.&#xD;&#xA;https://ec.europa.eu/food/sites/food/files/animals/docs/ah-traces-info-mat-toolkit_en.pdf &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

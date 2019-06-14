@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Process Integration"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities facilitates integration with others layer of the SOA RA and helps to expose a business process as a service. "/>
 </archimate:Grouping>

@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logger"
     id="ab063899-aad3-48d5-8ac4-769b72cc64eb"
-    documentation="This ABB is responsible for capturing and recording message routing and service invocation activities. It logs data to monitor system exceptions and system stability (data such as resource availability, etc.). This should be interoperable and integrate with the Quality of Service Layer’s monitoring features. It is important from a monitoring and support for compliance perspective."/>
+    documentation="This ABB is responsible for capturing and recording message routing and service invocation activities. It logs data to monitor system exceptions and system stability (data such as resource availability, etc.). This should be interoperable and integrate with the Quality of Service Layer’s monitoring features. It is important from a monitoring and support for compliance perspective.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Logger"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for capturing and recording message routing and service invocation activities. It logs data to monitor system exceptions and system stability (data such as resource availability, etc.). This should be interoperable and integrate with the Quality of Service Layer’s monitoring features. It is important from a monitoring and support for compliance perspective."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

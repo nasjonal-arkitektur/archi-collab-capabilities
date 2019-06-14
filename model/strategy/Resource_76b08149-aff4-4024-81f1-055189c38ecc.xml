@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Message Transformer"
     id="76b08149-aff4-4024-81f1-055189c38ecc"
-    documentation="This ABB is responsible for transforming messages from one format to the other, including data format transforms into a single “canonical” form or its subset, and transformation across protocols to whatever protocols that are routed. It also supports data enrichment."/>
+    documentation="This ABB is responsible for transforming messages from one format to the other, including data format transforms into a single “canonical” form or its subset, and transformation across protocols to whatever protocols that are routed. It also supports data enrichment.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Message Transformer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for transforming messages from one format to the other, including data format transforms into a single “canonical” form or its subset, and transformation across protocols to whatever protocols that are routed. It also supports data enrichment."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

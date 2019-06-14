@@ -22,4 +22,20 @@
       value="eira:CoreDataModel"/>
   <properties
       key="eira:url"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Core Data Model"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A context-neutral data model that captures the fundamental characteristics of an entity or a core set of entities.&#xD;&#xA;&#xD;&#xA;Based on Core Vocabularies Handbook&#xD;&#xA;https://joinup.ec.europa.eu/site/core_vocabularies/Core_Vocabularies_user_handbook/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Core Data ABB is salient for semantic interoperability because it supports semantic interoperability by providing simplified, reusable and extensible data models that capture the fundamental characteristics of a data entity in a context-neutral and syntax-neutral fashion.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ISA2 Core Vocabularies&#xD;&#xA;&#xD;&#xA;Core Vocabularies are simplified, re-usable and extensible data models that capture the fundamental characteristics of an entity in a context-neutral fashion. &#xD;&#xA;Public administrations can use and extend the Core Vocabularies in the following contexts:&#xD;&#xA;• Development of new systems: the Core Vocabularies can be used as a default starting point for designing the conceptual and logical data models in newly developed information systems.&#xD;&#xA;• Information exchange between systems: the Core Vocabularies can become the basis of a context-specific data model used to exchange data among existing information systems.&#xD;&#xA;• Data integration: the Core Vocabularies can be used to integrate data that comes from disparate data sources and create a data mash-up.&#xD;&#xA;• Open data publishing: the Core Vocabularies can be used as the foundation of a common export format for data in base registries like cadastres, business registers and service portals. &#xD;&#xA;• ISA² has developed the Core Vocabularies for public administrations in an open process with the active involvement of specific working groups. The Core Vocabularies developed are the following:&#xD;&#xA;- Core Person: captures the fundamental characteristics of a person, e.g. name, gender, date of birth, location.&#xD;&#xA;- Registered organisation: captures the fundamental characteristics of a legal entity (e.g. its identifier, activities) which is created through a formal registration process, typically in a national or regional register.&#xD;&#xA;- Core Location: captures the fundamental characteristics of a location, represented as an address, a geographic name or geometry.&#xD;&#xA;- Core Public service: captures the fundamental characteristics of a service offered by a public administration.&#xD;&#xA;- Core Criterion and Core Evidence: describe the principles and the means that a private entity must fulfil to become eligible or qualified to perform public services. A Criterion is a rule or a principle that is used to judge, evaluate or test something. An Evidence is a means to prove a Criterion.&#xD;&#xA;- Core Public organisation: describes public organisations in the European Union.&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/isa2/solutions/core-vocabularies_en &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

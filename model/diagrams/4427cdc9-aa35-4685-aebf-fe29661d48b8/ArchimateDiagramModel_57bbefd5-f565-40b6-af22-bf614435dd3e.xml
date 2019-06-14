@@ -681,7 +681,8 @@
       key="difi:name_no"
       value="EDRM - Electronic Discovery Reference Model"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="EDRM - Electronic Discovery Reference Model"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="13. Ability to configure the relationships between the composition and the non-functional characteristics of the process flow"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -7,6 +7,25 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="has its interoperability aspects defined by"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="[Semantic Content] has its interoperability aspects defined by an [Interoperability Specification]"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_309b693e.xml#309b693e"/>

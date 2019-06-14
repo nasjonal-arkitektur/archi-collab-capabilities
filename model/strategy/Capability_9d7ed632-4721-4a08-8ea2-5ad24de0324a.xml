@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="13. Ability to handle transactions from the other layers, especially when a statically composed service invokes a service chain"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

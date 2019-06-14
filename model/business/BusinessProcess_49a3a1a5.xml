@@ -19,4 +19,20 @@
       value="eira"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Public Policy Implementation"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A Public Policy Implementation is the process of putting a public policy into effect. [Oxford Dictionary]&#xA;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessProcess>

@@ -653,7 +653,8 @@
       key="difi:name_no"
       value="Business Process Layer ABBs"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Business Process Layer ABBs"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Process Runtime Enablement"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities enables BPM and helps to realize the business processes in the runtime environment using standards such as BPEL, SCA, etc. "/>
 </archimate:Grouping>

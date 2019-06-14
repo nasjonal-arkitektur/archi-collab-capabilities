@@ -943,7 +943,8 @@
       key="difi:name_no"
       value="Information Layer ABBs"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Information Layer ABBs"/>
   <properties
       key="difi:description_no"/>
   <properties

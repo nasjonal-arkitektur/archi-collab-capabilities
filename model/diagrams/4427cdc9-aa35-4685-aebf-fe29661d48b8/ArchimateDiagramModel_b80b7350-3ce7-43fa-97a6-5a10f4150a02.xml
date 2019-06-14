@@ -22,7 +22,8 @@
       key="difi:name_no"
       value="Document and Content Management"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Document and Content Management"/>
   <properties
       key="difi:description_no"/>
   <properties

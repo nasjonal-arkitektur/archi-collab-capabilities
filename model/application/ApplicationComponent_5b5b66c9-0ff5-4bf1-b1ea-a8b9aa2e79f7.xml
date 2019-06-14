@@ -25,4 +25,20 @@
   <properties
       key="dct:type"
       value="eira:PrivacyComponent"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Privacy Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Privacy Component implements the functionalities of storing, securing, anonymising, pseudonymising, rectifying and erasing personal data.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Privacy Service ABB  is salient for interoperability because &quot;security and privacy are primary concerns in the provision of public services&quot; (EIF) and, as stated in EIF Recommendation 15: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;SOLVIT&#xD;&#xA;Solvit is a mailbox service for the access, rectification or deletion of personal data.&#xD;&#xA;http://ec.europa.eu/solvit/privacy-statement/#maincontentSec8"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

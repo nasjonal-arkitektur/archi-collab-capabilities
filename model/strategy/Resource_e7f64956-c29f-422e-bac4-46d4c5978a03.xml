@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protocol Converter"
     id="e7f64956-c29f-422e-bac4-46d4c5978a03"
-    documentation="This ABB is responsible for transforming data across industry standard protocols. For example, a JSON to SOAP conversion or a SOAP/HTTP to a SOAP/JMS or SOAP/Message Queue conversion would be responsibilities of this ABB."/>
+    documentation="This ABB is responsible for transforming data across industry standard protocols. For example, a JSON to SOAP conversion or a SOAP/HTTP to a SOAP/JMS or SOAP/Message Queue conversion would be responsibilities of this ABB.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Protocol Converter"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for transforming data across industry standard protocols. For example, a JSON to SOAP conversion or a SOAP/HTTP to a SOAP/JMS or SOAP/Message Queue conversion would be responsibilities of this ABB."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

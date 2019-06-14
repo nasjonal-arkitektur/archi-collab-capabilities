@@ -21,4 +21,20 @@
   <properties
       key="dct:type"
       value="eira:DataPolicy"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Policy"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A set of broad, high level principles which form the guiding framework in which data management can operate.&#xD;&#xA;&#xD;&#xA;Source: OECD&#xD;&#xA;https://stats.oecd.org/glossary/detail.asp?ID=4454  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Policy ABB is salient for semantic interoperability because it provides a guiding framework to manage data and information according to interoperability principles as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EU SCIENCE HUB - The European Commission's science and knowledge service - JRC's Data policy &#xD;&#xA;The JRC's data policy is driven by transparency with the aim of contributing to innovation. It is a pillar of the development and implementation of scientific knowledge management at the JRC. It follows the commitments and regulatory basis of the Commission Decision on the reuse of Commission documents (2011/833/EU).&#xD;&#xA;&#xD;&#xA;The objectives for adopting and implementing the JRC data policy include:&#xD;&#xA;&#xD;&#xA;• Share and use data on the basis of the JRC Open Data principles: fully, freely, openly and timely;&#xD;&#xA;• To be transparent on the reasons for restricted access to certain data;&#xD;&#xA;• Provide a coordinated approach to the acquisition of data by the JRC;&#xD;&#xA;• Facilitate management, broaden access and use of JRC data;&#xD;&#xA;• Reinforce goals of Horizon 2020;&#xD;&#xA;• Support EU implementation of the G8 Open Data Charter;&#xD;&#xA;• Continuously support evidence-based decision making and research;&#xD;&#xA;• Ensure that JRC data is made available through the EU Open Data Portal.&#xD;&#xA;&#xD;&#xA;For a successful implementation process, the JRC's data policy lays down implementation principles with respect to responsible entities, overall implementation guidelines, and their individual elements like data management plans, as well as the monitoring of its implementation.&#xD;&#xA;https://ec.europa.eu/jrc/en/about/jrc-in-brief/data-policy   &#xD;&#xA;http://publications.jrc.ec.europa.eu/repository/bitstream/JRC95307/lb-na-27163-en-n%20.pdf &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

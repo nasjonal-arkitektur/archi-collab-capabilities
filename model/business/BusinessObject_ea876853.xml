@@ -19,4 +19,20 @@
   <properties
       key="dct:type"
       value="eira:SecurityPolicy"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Security and Privacy Policy"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The set of rules and practices that regulate how sensitive information, individual's information and other resources are managed, protected and distributed.&#xD;&#xA;&#xD;&#xA;Based on IATE definitions of &quot;security policy&quot; and Black's Dictionary of Law definition of &quot;privacy&quot;.&#xD;&#xA;http://iate.europa.eu/   &#xD;&#xA;http://thelawdictionary.org/privacy/ &#xD;&#xA;&#xD;&#xA;Syn. Security and Privacy Statement&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Policy about personal information displayed on the INSPIRE Knowledge Base &#xD;&#xA;All personal information displayed on the INSPIRE Knowledge Base and subsites is subject to a Specific Privacy Statement, accepted by the data subject prior to the collection of his/her personal data, and is published with his/her unambiguous consent.&#xD;&#xA;This e-service is operated by the Digital Economy Unit, Joint Research Centre (JRC). The objective of the INSPIRE Knowledge Base is to provide the INSPIRE community a space on the Internet where they can share information, documents, participate in discussion fora, and share best practices. Upon registration, your personal data will be collected and further processed. The Digital Economy Unit who manages the processing acts as personal data processor.&#xD;&#xA;As this processing collects and further processes personal data, Regulation (EC) 45/2001, of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data, is applicable.&#xD;&#xA;&#xD;&#xA;The Privacy Statement covers the following:&#xD;&#xA;&#xD;&#xA;• What is the personal information collected, what is the legal basis, for what purpose and through which technical means?&#xD;&#xA;• Who has access to the information and to whom is it disclosed?&#xD;&#xA;• How is the information protected and safeguarded?&#xD;&#xA;• How can personal information be verified, modified or deleted information?&#xD;&#xA;• How long is the data kept?&#xD;&#xA;• Contact Information&#xD;&#xA;• Recourse &#xD;&#xA;&#xD;&#xA;http://inspire.ec.europa.eu/privacy-policy/59294 &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

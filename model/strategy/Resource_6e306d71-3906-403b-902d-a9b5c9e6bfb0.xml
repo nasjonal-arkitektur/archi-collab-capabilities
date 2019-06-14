@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Reporting Tools"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB represents a set of tools that customize, create, and generate reports on the execution of compliance and dispensation processes as well as the execution of checkpoints and monitoring of metrics. These reports can be stored with the Repository ABB. These reports can be created during any governance phase and any of the governance processes."/>
 </archimate:Resource>

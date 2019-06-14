@@ -22,4 +22,20 @@
       value="eira"/>
   <properties
       key="eira:url"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Model"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A collection of entities, their properties and the relationships among them, which aims at formally representing a domain, a concept or a real-world thing.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - SEMIC Action&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/methodology_and_tools_for_metadata_governance_and_management_for_eu_institutions.pdf  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Model ABB is salient for semantic interoperability because it ensures compatible interpretations of data exchange as specified in the document &quot;Methodology and tools for metadata governance and management for EU Institutions&quot;, developed under the SEMIC action of the ISA Programme: &quot;Whilst technological developments offer various means to automate the exchange of information, technological developments alone cannot guarantee a greater interoperability between information systems. A fundamental aspect is the need for common data standards: primarily data models and reference data [...]&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ESPD - Exchange data model &#xD;&#xA;The ESPD exchange data model (ESPD-EDM) is used for the ESPD service provided by the European Commission.&#xD;&#xA;The ESPD Exchange Data Model was designed to implement the data requirements expressed in the Annex 2 of the COMMISSION IMPLEMENTING REGULATION (EU) 2016/7 of 5 January 2016 (from now on &quot;the Annex to the Regulation 2016/7&quot;), establishing the standard form for the European Single Document. Additionally to these requirements, the model took also into account the Information Requirements Model specified by the CEN/BII-Workshops.[3] (namely Workshop 3), and the latest developments relating to the Virtual Company Dossier (VCD) in e-Sens.[4].&#xD;&#xA;One premise that has ruled the design and implementation life-cycle of the ESPD-EDM has been ''not to reinvent the wheel''. Thus some very early key decisions were: &#xD;&#xA;&#xD;&#xA;(i) select a mature business language for the naming, design and implementation of the ESPD-EDM; &#xD;&#xA;(ii) reuse as much as possible existing information components and libraries ''as-they-are''; &#xD;&#xA;(iii) for those entities that are not defined in any standard specification, design new components in such a way that they can be reused in other situations and domains, both in e-Procurement and beyond e-Procurement.&#xD;&#xA;&#xD;&#xA;OASIS UBL-2.1 standard was chosen as the best candidate to base the ESPD-EDM upon. The main reasons for this decisions were: &#xD;&#xA;i. The European Commission is already using (and recommending) UBL-2.1 for e-Documents.[5] ; &#xD;&#xA;ii. Most of the concepts and components necessary for the ESPD documents were already defined by UBL specifically for e-Procurement; (3) Methodology and tools are available for the development of new documents, the extension of the existing UBL libraries, the semantic validation of XML instances, etc.&#xD;&#xA;&#xD;&#xA;https://joinup.ec.europa.eu/release/espd-exchange-data-model-v101 &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

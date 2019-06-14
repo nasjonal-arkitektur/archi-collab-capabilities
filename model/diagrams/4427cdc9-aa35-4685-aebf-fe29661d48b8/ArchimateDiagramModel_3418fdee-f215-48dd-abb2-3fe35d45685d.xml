@@ -384,7 +384,8 @@
       key="difi:name_no"
       value="DMBOK2 Data Integration and Interoperability"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="DMBOK2 Data Integration and Interoperability"/>
   <properties
       key="difi:description_no"/>
   <properties

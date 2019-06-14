@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Router"
     id="61222cc2-043e-4cc9-88be-eef56b5843e2"
-    documentation="This ABB is responsible to route messages between service consumer/requestor and service provider including those based on both content-based routing, straight through message passing. It may change the route of a message, selecting among service providers that support the intent of the requester. Selection criteria for the provider can include content and context of the message as well as knowledge about capabilities of the target candidates and even versioning of service implementation. If a message is routed to one provider, which responds with a failure, the message can be re-routed to another provider. In certain circumstances it may be used to route messages without the involvement of the Mediator ABB to realize straight message pass-through. This ABB may use other ABBs from the Integration Layer such as the Message Transformer ABB, Auditor ABB, Logger ABB, and Exception Handler ABB. It may leverage the Access Controller ABB from the Quality of Service Layer."/>
+    documentation="This ABB is responsible to route messages between service consumer/requestor and service provider including those based on both content-based routing, straight through message passing. It may change the route of a message, selecting among service providers that support the intent of the requester. Selection criteria for the provider can include content and context of the message as well as knowledge about capabilities of the target candidates and even versioning of service implementation. If a message is routed to one provider, which responds with a failure, the message can be re-routed to another provider. In certain circumstances it may be used to route messages without the involvement of the Mediator ABB to realize straight message pass-through. This ABB may use other ABBs from the Integration Layer such as the Message Transformer ABB, Auditor ABB, Logger ABB, and Exception Handler ABB. It may leverage the Access Controller ABB from the Quality of Service Layer.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Router"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible to route messages between service consumer/requestor and service provider including those based on both content-based routing, straight through message passing. It may change the route of a message, selecting among service providers that support the intent of the requester. Selection criteria for the provider can include content and context of the message as well as knowledge about capabilities of the target candidates and even versioning of service implementation. If a message is routed to one provider, which responds with a failure, the message can be re-routed to another provider. In certain circumstances it may be used to route messages without the involvement of the Mediator ABB to realize straight message pass-through. This ABB may use other ABBs from the Integration Layer such as the Message Transformer ABB, Auditor ABB, Logger ABB, and Exception Handler ABB. It may leverage the Access Controller ABB from the Quality of Service Layer."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

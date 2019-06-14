@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="09. Ability to perform Extract-Transform-Load (ETL capabilities) data from one source to other; ability to extract relevant information from sources, transform the information into the appropriate integrated form, and load the information into the target repository"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

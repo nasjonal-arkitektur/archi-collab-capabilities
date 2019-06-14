@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Policy Monitoring and Enforcement"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities provides a mechanism to monitor and enforce a multitude of policies and corresponding business rules including business-level policies, security policies, access privileges, and data access policies. This provides the ability to find and access policies, evaluate and enforce policies at checkpoints or on metrics captured, signal and record compliance status or metrics, send notification and log of non-compliance and change rules, policies, configuration, and status."/>
 </archimate:Grouping>

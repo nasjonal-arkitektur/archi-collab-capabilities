@@ -17,4 +17,20 @@
   <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Subsidiarity and proportionality"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="EIF Underlying principle 1: subsidiarity and proportionality&#xA;&#xA;The subsidiarity principle requires EU decisions to be taken as closely as possible to the citizen. In other words, the EU does not take action unless this is more effective than the same action taken at national level. The proportionality principle limits EU actions to what is necessary to achieve the objectives of the Treaties.&#xA;&#xA;Concerning interoperability, a European framework is justified to overcome differences in policies that result in heterogeneity and lack of interoperability and that put at risk the digital single market.&#xA;&#xA;The EIF is envisaged as the ‘common denominator’ of interoperability policies in Member States. Member States should enjoy sufficient freedom to develop their NIFs with respect to EIF recommendations. NIFs are expected to be tailored and extended in such a way that national specificities are properly addressed.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Principle>

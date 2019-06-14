@@ -25,4 +25,20 @@
       key="dct:modified"/>
   <properties
       key="eira:body"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Level Mapping"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A Data-level Mapping is a mapping between specific data elements (or data values).&#xD;&#xA;&#xD;&#xA;Source: ISO/DIS 25964-2&#xD;&#xA;https://www.iso.org/standard/53658.html &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;eConfidentiality - Mapping with documents and metadata in Case Management System&#xD;&#xA;Mapping between documents and metadata in eConfidentiality system with documents and metadata in Case Management System.&#xD;&#xA;N.B. Context: All documents concerning an anti-trust case are stored by case number in the case management application called &quot;CMAfx&quot;. Documents are stored in different formats: pdf format (if available in paper form only and subsequently digitised) or word, excel, tif, rtf, html, txt version (if received as such or produced by DG Competition). CMAfx contains also procedural steps and case information, such as the composition of the case team, relevant legal basis, type of case, priority, name of undertaking concerned etc. Access to CMAfx is restricted to DG Competition personnel and national experts on secondment using DG Competition IT infrastructure. The undertakings answering the queries are obliged to indicate the confidentiality status of their responses, i.e., whether their answer must be treated as confidential, and in that case the system does not allow submission of their responses until a non-confidential answer has been provided for each confidential one. The non-confidential versions of the Commission's decisions adopted pursuant to articles 7-10, 23 and 24 of Regulation 1/2003 are published on DG Competition website, after the confidentiality claims (with regard to business secrets and other confidential information) were cleared with the respective parties. &#xD;&#xA;http://ec.europa.eu/dpo-register/details.htm?id=38367 &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

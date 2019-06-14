@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Business Process"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB represents a process that a business performs. This ABB is one of the core fundamental ABBs in the SOA RA. Business process is one of the fundamental constructs of an SOA solution and analysis and design based on the service-oriented paradigm."/>
 </archimate:Resource>

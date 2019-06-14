@@ -25,4 +25,20 @@
       value="eira"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Access Management Service"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares  the functionality of allowing users to make use of i) IT services, ii) data, and/or iii) other assets. Access management helps to protect the confidentiality, integrity and availability of assets by ensuring that only authorized users are able to access or modify the assets.&#xD;&#xA;&#xD;&#xA;Based on ITIL v3&#xD;&#xA;https://www.axelos.com/Corporate/media/Files/Glossaries/AXELOS-Common-Glossary.pdf  &#xD;&#xA;&#xD;&#xA;Syn. Role Management Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Access Management Service ABB  is salient for technical interoperability because it provides the functionality of allowing user to make an authorized  and trusted use of IT Services, data and other assets as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Belgian Federal Public Service Policy and Support - Role Management service&#xD;&#xA;The Role Management service gives access managers the possibility to manage roles. A role gives access to an online government application. &#xD;&#xA;&#xD;&#xA;Characteristics:&#xD;&#xA;• A federal access management platform for public e-gov applications&#xD;&#xA;• Three separate contexts: Businesses, Officials and Independent&#xD;&#xA;• Roles that can only be attributed by a specific group of managers for a specific application within one of the three contexts&#xD;&#xA;• Two different security levels of the application depending on the sensitivity of the information: user name, password and token; and electronic identity card with associated PIN code&#xD;&#xA;• Authentication when connecting to an application&#xD;&#xA;• Support with the implementation of the service&#xD;&#xA;• Support while the service is being used&#xD;&#xA;&#xD;&#xA;Users: All public services and institutions that want a secure access management for their applications: federal public services and institutions; Communities and Regions; Provinces, municipalities and local public social welfare centres; businesses or persons implementing government contracts.&#xD;&#xA;Requirements: application with Fedict Service Desk and signing up to a user agreement.&#xD;&#xA;http://www.fedict.belgium.be/en/identificatie_beveiliging/rollenbeheer  &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationService>

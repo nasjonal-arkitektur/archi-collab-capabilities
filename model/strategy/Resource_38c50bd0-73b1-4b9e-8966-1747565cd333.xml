@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Personalization Manager"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB allows users to customize the appearance of the user interface according to personal preferences. The customization is accomplished partly through administrative set-up, which defines the default settings and access rights to user interfaces/web pages. It supports both:&#xD;&#xA;&#xD;&#xA;* Rule-based personalization to select content for the user such as a rule might display special discounts to gold customers, but only during the summer months&#xD;&#xA;* Collaborative filtering technology-based personalization to select content based on common interests or behaviors &#x9;"/>
 </archimate:Resource>

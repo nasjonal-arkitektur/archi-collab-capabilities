@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Information Metadata Manager"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for managing and maintaining metadata in a common metadata repository for the enterprise, including structured and unstructured data; for example, metadata that describes the master data taxonomies and XML schemas and rules for business logic and data validation. It stores information regarding transformation of data types and content and the ability to aggregate data from multiple sources. It is used to share canonical forms (common data models) between SOA Integration Layer elements and other layers of the SOA RA. It supports, in particular, the ability to store, retrieve, and translate metadata into forms that can be effectively consumed by repositories local to other layers in the SOA RA. It facilitates re-use for metadata assets, semantics, models, templates, rules, etc. across the enterprise. Information integration capabilities are used to support the replication of changes to metadata that is contained in systems across the enterprise."/>
 </archimate:Resource>

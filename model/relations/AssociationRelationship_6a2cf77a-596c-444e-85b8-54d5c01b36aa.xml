@@ -6,6 +6,24 @@
   <properties
       key="difi:namespace"
       value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="has been issued a"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5.xml#14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5"/>

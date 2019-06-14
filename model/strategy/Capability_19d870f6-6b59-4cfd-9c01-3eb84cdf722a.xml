@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="11. Ability to virtualize data representing actual data from the actual data repositories of various types, such as a DB2 database in the Operational Systems Layer, or an Excel file"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

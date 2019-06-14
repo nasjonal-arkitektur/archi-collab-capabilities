@@ -22,4 +22,20 @@
   <properties
       key="dct:type"
       value="eira:InteroperabilitySpecification"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Interoperability Specification"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;An Interoperability Specification is a document  containing agreed  normative statements for solution building blocks used in an information exchange context.  It  can refer to existing  standards or  specifications. &#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Information Services Gateway"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB can be thought as a service container enforcing and supporting exposure of services, with all the associated supporting capabilities. In particular, it has three main responsibilities:&#xD;&#xA;&#xD;&#xA;* To expose Information as a Service (IaaS)&#xD;&#xA;* To manipulate data entries in different services and service components&#xD;&#xA;* To control access to certain selected aspects of data; disable some data parts from outside access &#xD;&#xA;&#xD;&#xA;This ABB acts as the gateway to the Information Layer. This ABB enables the hosting and exposure of information services by the SOA RA, forming a virtual data layer. It thus supports interfacing between the Information Layer and consumers of information services and is critical to expose Information as a Service (IaaS). It provides a consistent entry point to the Information Layer through multiple mechanisms such as messaging, service calls, and batch processing. This ABB leverages capabilities and ABBs from the Integration Layer."/>
 </archimate:Resource>

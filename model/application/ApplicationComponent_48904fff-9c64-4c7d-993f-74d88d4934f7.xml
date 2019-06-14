@@ -27,4 +27,20 @@
   <properties
       key="ID"
       value="ABB233"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Interoperable European Solution Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Interoperable European Solution Component represents the encapsulation of a functionality provided by an Interoperable European Solution. &#xD;&#xA;&#xD;&#xA;Based on ArchiMate® v3&#xD;&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Interoperable European Solution Component ABB is salient for technical interoperability because it is a central element the EIF's conceptual model for integrated public services. it represents all the functionalities provided by an Interoperable European Solutionas as stated in the EIF: &quot;Technical interoperability the applications and infrastructures linking systems and services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EU Login&#xD;&#xA;EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services and websites, using a single email address and password. EU Login implements the single sign-on functionality.&#xD;&#xA;https://webgate.ec.europa.eu/cas/help.html &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

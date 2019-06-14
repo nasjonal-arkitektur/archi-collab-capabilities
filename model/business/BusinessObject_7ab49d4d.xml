@@ -22,4 +22,20 @@
   <properties
       key="ID"
       value="ABB20"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Entity"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A classification of objects found in the real world described by the Noun part of speech – persons, places, things, concepts, and events – of interest to the enterprise.&#xD;&#xA;&#xD;&#xA;Source: DAMA DM_BOK&#xD;&#xA;http://www.dama.org &#xD;&#xA;&#xD;&#xA;Syn. Coherent set of information&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Entity ABB is salient for semantic interoperability because it represents a basic component of a Data Model ABB.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EURES - Job vacancy&#xD;&#xA;Most of the jobs on the EURES Job Mobility Portal come from the job vacancies databases managed by the Public Employment Services of the countries participating in EURES. Using a technology called Web Services, the EURES search engine instantly, in real time, interrogates each national database for jobs. These jobs can be of two types:&#xD;&#xA;“EURES jobs&quot;, displayed with a blue flag, which are jobs where an employer has expressed an interest in recruiting from another country, or any other jobs advertised in the national jobs databases.&#xD;&#xA;There is, in addition, a central database where EURES advisers can manually post jobs that will all be flagged as &quot;EURES jobs&quot;. This is for the time being the only way for those few countries that are not yet fully connected to Web Services to advertise jobs on the EURES portal. This solution can, however, also be used for other specific purposes, such as when an employer wishes to publish a vacancy in several languages etc., which may not always be possible in a national database.&#xD;&#xA;https://ec.europa.eu/eures/public/en/advertise-a-job?lang=en&amp;app=1.8.1p6-build-0&amp;pageCode=advertise_job &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

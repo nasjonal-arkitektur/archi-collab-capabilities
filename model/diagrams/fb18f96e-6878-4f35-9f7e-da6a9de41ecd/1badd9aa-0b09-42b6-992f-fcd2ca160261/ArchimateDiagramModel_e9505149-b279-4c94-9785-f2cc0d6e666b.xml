@@ -570,7 +570,8 @@
       key="difi:name_no"
       value="Integration Layer Capabilitoes"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Integration Layer Capabilitoes"/>
   <properties
       key="difi:description_no"/>
   <properties

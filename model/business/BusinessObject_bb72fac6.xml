@@ -19,4 +19,20 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Business Rule"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Representation of the relationships between the inputs, controls, outputs, mechanisms and resources used by the activities performed in a business process.&#xD;&#xA;&#xD;&#xA;Based on TOGAF definitions.&#xD;&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/ &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Your Europe Advice - answer language&#xD;&#xA;Answer is given in the chosen language &#xD;&#xA;http://europa.eu/youreurope/advice/index_en.htm &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

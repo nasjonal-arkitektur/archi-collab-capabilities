@@ -9,7 +9,8 @@
       key="difi:name_no"
       value="Capabilities"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Capabilities"/>
   <properties
       key="difi:description_no"/>
   <properties

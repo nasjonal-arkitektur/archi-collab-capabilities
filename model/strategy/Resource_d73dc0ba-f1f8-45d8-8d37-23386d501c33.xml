@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Process Controller"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The ABB acts as a controller that supports all the interactions between the invocation of a business process and the building blocks supporting that invocation. It is the core of a process container and responsible for executing the process activities."/>
 </archimate:Resource>

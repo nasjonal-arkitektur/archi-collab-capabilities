@@ -25,4 +25,20 @@
   <properties
       key="dct:type"
       value="eira:ServiceRegistryComponent"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Service Registry Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionality of registering the system service within a catalogue to be discovered by other services.&#xD;&#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING back-office services.&#xD;&#xA;&#xD;&#xA;Source ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;Syn. Service Catalogue Component&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Registration Component ABB  is a key interoperability enabler because it supports to achieve technical interoperability by provisioning and consuming back-office services as stated in the EIF recommendation n°44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;jUDDI&#xD;&#xA;jUDDI is an open source Java implementation of OASIS Universal Description, Discovery, and Integration (UDDI) specification for (Web) Services.&#xD;&#xA;https://juddi.apache.org/ &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

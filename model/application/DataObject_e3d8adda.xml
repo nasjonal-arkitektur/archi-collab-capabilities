@@ -22,4 +22,20 @@
   <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Set"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A Data Set is a collection of data, published or curated by a single agent, and available for access or download in one or more formats.&#xD;&#xA;&#xD;&#xA;Source: W3C&#xD;&#xA;http://www.w3.org/TR/vocab-dcat/#class-dataset &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Set ABB is salient for semantic interoperability because it provides a collection of data to be shared or exchanged between ICT systmes as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;European Union Data Portal - The European Union Open Data Portal (EU ODP) gives you access to open data published by EU institutions and bodies. All the data you can find via this catalogue are free to use and reuse for commercial or non-commercial purposes.&#xD;&#xA;https://data.europa.eu/euodp/data/dataset&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:DataObject>

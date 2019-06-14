@@ -25,4 +25,20 @@
   <properties
       key="eira:status"
       value="[ Exists | Development planned ]"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="e-Payment Service"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of executing payment transactions where the consent of the payer to execute a payment transaction is given by means of any telecommunication, digital or IT device.&#xD;&#xA;&#xD;&#xA;Source: Directive 2007/64/EC&#xD;&#xA;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0064:EN:NOT &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Payment Service ABB is salient for technical interoperability because it enables the possibility of executing payment transactions by any means of telecommunication, digital or IT device as stated in the EIF: &quot;Public administrations need to exploit services delivered outside their organisational boundaries by third parties, such as payment services provided by financial institutions or connectivity services provided by telecommunications providers.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;SEPA&#xD;&#xA;The single euro payments area (SEPA) harmonises the way cashless euro payments are made across Europe. It allows European consumers, businesses and public administrations to make and receive the following types of transactions under the same basic conditions:&#xD;&#xA;- credit transfers&#xD;&#xA;- direct debit payments&#xD;&#xA;- card payments&#xD;&#xA;This makes all cross-border electronic payments in euro as easy as domestic payments.&#xD;&#xA;https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en &#xD;&#xA;&#xD;&#xA;UniPay Payment Gateway&#xD;&#xA;The open source payment transactions processing platform UniPay Payment Gateway is a robust, flexible and scalable payment gateway software.&#xD;&#xA;The platform has a powerful, processor-agnostic payment gateway at its foundation, which supplies numerous direct-to-processor backend integrations and includes a powerful routing engine configurable through web service calls. With unified API as your entry point (for both credit card transactions and ACH - Automated Clearing House), you gain access to numerous banks and credit card payment processors across the globe. &#xD;&#xA;http://opensourcepaymentgateway.com/&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationService>

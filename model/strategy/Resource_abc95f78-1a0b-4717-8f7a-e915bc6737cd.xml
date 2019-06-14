@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Service Implementation Binder"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB provides any bindings required to the invoking services and other layers. For example, if this were a WSDL-based service, then the invoking services or Integration Layer component would require its service request converted or mapped to an underlying Service Component call. The aspect of converting the in-bound call leverage Method Input/Output Transformer ABB is the responsibility of this ABB."/>
 </archimate:Resource>

@@ -9,7 +9,8 @@
       key="difi:name_no"
       value="TOG SOA RA"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="TOG SOA RA"/>
   <properties
       key="difi:description_no"/>
   <properties

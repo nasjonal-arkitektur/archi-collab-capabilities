@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Process State Manager"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The ABB supports the ability of the layer to retain and manage state (not status) during a business process. It manages the process state within each business process instance. This is an important capability, for example, for orchestrating a series of state transitions which might involve multiple business processes."/>
 </archimate:Resource>

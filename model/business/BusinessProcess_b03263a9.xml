@@ -19,4 +19,20 @@
       value="ABB105"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Impact Assessment"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="An Impact assessment is a key tool to ensure that the public policy process is carried out on the basis of transparent, comprehensive and balanced evidence, an Impact assessment is an aid to political decision-making.&#xA;&#xA;Source: Based on the concepts laid out in  http://ec.europa.eu/smart-regulation/impact/commission_guidelines/docs/iag_2009_en.pdf&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessProcess>

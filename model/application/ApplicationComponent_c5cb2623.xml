@@ -25,4 +25,20 @@
       value="ABB61"/>
   <properties
       key="dct:modified"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Transformation Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionality of conversion of data from one data format to another.&#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Transformation Component ABB  is salient for technical interoperability  because it enables the implementation of the functionalities to transform internal data structures to common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Eurostat SDMX converter&#xD;&#xA;Eurostat SDMX converter&#xD;&#xA;The SDMX Converter is a tool that converts statistical datasets between different formats. It is a Java application which is actively developed by Eurostat and is published as open source software.&#xD;&#xA;http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

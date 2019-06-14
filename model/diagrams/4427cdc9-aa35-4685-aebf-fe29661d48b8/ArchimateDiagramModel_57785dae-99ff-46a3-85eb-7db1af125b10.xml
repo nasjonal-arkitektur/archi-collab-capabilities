@@ -373,7 +373,8 @@
       key="difi:name_no"
       value="Dataforvaltning områder (DMBOK)"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Dataforvaltning områder (DMBOK)"/>
   <properties
       key="difi:description_no"/>
   <properties

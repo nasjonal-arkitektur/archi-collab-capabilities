@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quality of Service Layer: Access Controller"
     id="14831914-a790-4abb-9431-12b5392964a5"
-    documentation="See Access Controller ABB in the Quality of Service Layer."/>
+    documentation="See Access Controller ABB in the Quality of Service Layer.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Quality of Service Layer: Access Controller"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="See Access Controller ABB in the Quality of Service Layer."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

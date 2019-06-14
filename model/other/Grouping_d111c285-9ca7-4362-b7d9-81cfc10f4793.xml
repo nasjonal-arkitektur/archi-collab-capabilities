@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities provides the ability to maintain service invocation history and monitor and track the service invocations. "/>
 </archimate:Grouping>

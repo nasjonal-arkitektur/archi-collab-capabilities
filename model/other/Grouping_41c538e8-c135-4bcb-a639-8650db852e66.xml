@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Information Services:"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities addresses the support of information services. Information services provide a uniform way of representing, accessing, maintaining, managing, analyzing, and integrating data and content across heterogeneous information sources. There are primarily two approaches to achieving that. First approach focuses on building a single view of business-critical data for customers, products, location, and others delivered in context; i.e., single view of enterprise (MDM) approach. The second approach focuses on integrating the appropriate information in a timely and consistent manner, analyzing and attempting to improve the quality of data, and ensuring consistency and integrity of business-critical data and facts across the enterprise. This approach is known as the Information as a Service (IaaS) approach. "/>
 </archimate:Grouping>

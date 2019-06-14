@@ -28,4 +28,20 @@
   <properties
       key="dct:type"
       value="eira:PublicHostingFacility"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Public Hosting Facility"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;The equipment supporting the hosting of Interoperable European Solutions and their components, usually embodied in a building, which is owned by a third party and shared between organizations (e.g. cloud services).&#xD;&#xA;&#xD;&#xA;Based on DIGIT C Infrastructure Services Provision&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Hosting Facility ABB is salient for technical interoperability because it provides all the equipment, shared between organizations, supporting the hosting of interaoperable solutions and their components.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;&#xD;&#xA;Amazon Web Services (AWS)&#xD;&#xA;AWS provides a comprehensive suite of services and solutions to run sophisticated and scalable applications to help achieve better business outcomes. Running your applications in the AWS Cloud can help you move faster, operate more securely, and save substantial costs; all while benefitting from the agility, scale and performance of the cloud. &#xD;&#xA;https://aws.amazon.com/solutions/?nc2=h_ql_sol"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Node>

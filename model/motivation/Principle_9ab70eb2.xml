@@ -17,4 +17,20 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Administrative simplification"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="EIF Underlying principle 10: administrative simplification&#xA;&#xA;Where possible, public administrations should seek to streamline and simplify their administrative processes by improving them or eliminating any that does not provide public value. Administrative simplification can help businesses and citizens to reduce the administrative burden of complying with EU legislation or national obligations. Likewise, public administrations should introduce European public services supported by electronic means, including their interactions with other public administrations, citizens and businesses.&#xA;&#xA;Digitisation of public services should take place in accordance with the following concepts:&#xA;* digital-by-default, whenever appropriate, so that there is at least one digital channel available for accessing and using a given European public service;&#xA;* digital-first which means that priority is given to using public services via digital channels while applying the multi-channel delivery concept and the no-wrong-door policy, i.e. physical and digital channels co-exist.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Principle>

@@ -19,4 +19,20 @@
   <properties
       key="dct:type"
       value="eira:HostingService"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Hosting Service"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionalities of a hosting provider, typically a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites.&#xD;&#xA;&#xD;&#xA;Based on DIGIT C Infrastructure Services Provision&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Hosting Service ABB is salient for technical interoperability because it provides all the functionalities to host the Interoperable European Solutions  (high availability and high performance hosting infrastructure).&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;DIGIT/C Hosting Service&#xD;&#xA;DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites.&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:TechnologyService>

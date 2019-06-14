@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Solution Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB represents realization of subsystems that represent logical groupings of functionality and associated functionally cohesive services. Its bill of material contains the Service Component, Functional Components, and Technical Components from the Service Component Layer realizing services that provide well-defined interfaces for the subsystems. For example, it could be an invocation of a legacy component, or an existing or new database request, application, or a component wrapped within a Commercial Off-The-Shelf (COTS) package. Thus, it is a runtime instantiation of a group of cohesive components residing within a subsystem that collectively provide an implementation for a set of related services."/>
 </archimate:Resource>

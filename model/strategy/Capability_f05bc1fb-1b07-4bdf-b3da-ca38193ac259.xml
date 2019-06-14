@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="08. Ability to mediate services from other SOA layers such as the Business Process Layer and the Integration Layer into the Consumer Layer; it provides the ability to integrate the underlying SOA into the Consumer Layer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

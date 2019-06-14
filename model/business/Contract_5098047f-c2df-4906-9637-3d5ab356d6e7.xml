@@ -16,4 +16,20 @@
       value="eira:LegalInteroperabilityAgreement"/>
   <properties
       key="dct:modified"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Legal Interoperability Agreement"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Legal interoperability Agreement is the means through which Legal Authorities mandate specific Legal Interoperability Specifications, ensuring organisations (operating under different legal frameworks,&#xD;&#xA;policies and strategies) are able to work together. &#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;The Legal Interoperability Agreement ABB  is salient for interoperability enabler because it supports legal interoperability by providing cooperation agreements needed to allow the seamless exchange of information between different organisations, regions and countries.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Treaty of Lisbon&#xD;&#xA;The European Union is based on the rule of law. This means that every action taken by the EU is founded on treaties that have been approved voluntarily and democratically by all EU member countries. For example, if a policy area is not cited in a treaty, the Commission cannot propose a law in that area.&#xD;&#xA;A treaty is a binding agreement between EU member countries. It sets out EU objectives, rules for EU institutions, how decisions are made and the relationship between the EU and its member countries.&#xD;&#xA;The Lisbon treaty clarifies which powers:&#xD;&#xA;- belong to the EU&#xD;&#xA;- belong to EU member countries&#xD;&#xA;- are shared.&#xD;&#xA;The goals and values of the EU and are laid out in the Lisbon Treaty and the EU Charter of fundamental rights.&#xD;&#xA;https://europa.eu/european-union/law/treaties_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Contract>

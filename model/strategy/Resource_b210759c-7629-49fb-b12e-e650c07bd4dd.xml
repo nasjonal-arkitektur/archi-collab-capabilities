@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Repository"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB represents a generic storage and enables organizations to organize, govern, and manage their valuable artifacts and assets scattered throughout the enterprise and to encourage re-use of existing assets within the organization. It provides the ability to search for the artifact and asset by different perspectives such as for general description, classification, usage, and content."/>
 </archimate:Resource>

@@ -288,7 +288,8 @@
       key="difi:name_no"
       value="Layers - overview"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Layers - overview"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -22,4 +22,20 @@
   <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Public Policy Development Enabler"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A Public Policy Development Enabler is an organisation or thing that make the development and implementation of the Public Policy possible. [Oxford Dictionary]&#xA;&#xA;Source: http://www.oxforddictionaries.com/definition/english/enabler"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

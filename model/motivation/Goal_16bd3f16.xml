@@ -17,4 +17,20 @@
   <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Achieve Technical Interoperability"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="For the purpose of the EIF, interoperability is the ability of organisations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organisations, through the business processes they support, by means of the exchange of data between their ICT systems.&#xA;The interoperability model which is applicable to all digital public services and may also be considered as an integral element of the interoperability-by-design paradigm. It includes: four layers of interoperability: legal, organisational, semantic and technical.&#xA;&#xA;Technical interoperability covers the applications and infrastructures linking systems and services. Aspects of technical interoperability include interface specifications, interconnection services, data integration services, data presentation and exchange, and secure communication protocols&#xA;&#xA;Based on the New EIF&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Goal>

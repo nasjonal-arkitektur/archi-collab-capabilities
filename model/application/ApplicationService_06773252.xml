@@ -25,4 +25,20 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Conformance Testing Service"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of verifying that several solutions can interoperate at one or more layers of the interoperability stack, while conforming to one or more specifications. This type of testing is executed by operating SUTs (System Under Test) and capturing their exchanges.&#xD;&#xA;The logistics of interoperability testing is usually more costly (time, coordination, interoperability), and interoperability testing is no substitute for a conformance test suite. Experience shows that interoperability testing is more successful and less costly when conformance of implementations has been tested first.&#xD;&#xA;&#xD;&#xA;Based on CEN/CENELC GITB &#xD;&#xA;https://www.cen.eu/work/areas/ict/ebusiness/pages/ws-gitb.aspx   &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Conformance Testing Services ABB  is salient for technical interoperability because it enables the validation and verification that several solutions at one or more layers of the interoperability stack and they satisfy certain interoperability requirements. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Interoperability Testbed&#xD;&#xA;The Test Bed allows users to execute predefined test cases on their systems. Test results are provided in a standardised, machine-readable format. The Test Bed also offers a test registry and repository (TRR) to store test artefacts (assertions, test cases, validation schemas, etc.) and compile test services (validation services, simulator services, etc.). &#xD;&#xA;https://ec.europa.eu/isa2/solutions/interoperability-test-bed_en &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationService>

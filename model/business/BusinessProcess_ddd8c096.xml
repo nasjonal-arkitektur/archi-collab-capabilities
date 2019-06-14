@@ -19,4 +19,20 @@
   <properties
       key="dct:type"
       value="eira:PublicPolicyEvaluation"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Public Policy Evaluation"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A Public Policy Evaluation is an assessment of how the public policy met its objectives (according to defined criteria).&#xA;&#xA;Source: Based on the concepts laid out in http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessProcess>

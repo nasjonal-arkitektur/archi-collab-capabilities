@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Solution Platform"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB supports the software environment in which the Solution Components and Solution Building Blocks deploy and run. Examples would be Java Virtual Machines (JVMs) hosting a Service Container Solution Building Block, or a CICS environment."/>
 </archimate:Resource>

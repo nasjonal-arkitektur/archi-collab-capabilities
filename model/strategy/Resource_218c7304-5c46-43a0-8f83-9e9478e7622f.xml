@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Dynamic Assembler"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for invoking the appropriate end-point that needs to serve the request based on the context. Context provides the extra information that this ABB needs to make the intelligent decisions on which end-point is to be invoked."/>
 </archimate:Resource>

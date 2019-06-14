@@ -16,4 +16,20 @@
       key="dct:modified"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Interoperability Framework"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;An agreed approach to interoperability for organisations that wish to work together towards the joint delivery of public services. Within its scope of applicability, it specifies a set of common elements such as vocabulary, concepts, principles, policies, guidelines, recommendations, standards, specifications and practices.&#xD;&#xA;&#xD;&#xA;Source: ISA2, EIFv2&#xD;&#xA;https://ec.europa.eu/isa2/isa2_en &#xD;&#xA;&#xD;&#xA;Syn. Interoperability Supporting Structure&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Interoperability Framework ABB  is an interoperability enabler because it helps achieve organisational interoperability by defining a set of rules, practices and a commonly agreed approach to the delivery of European public services. The EIF is an instance of this building block: &quot;The European interoperability framework is a commonly agreed approach to the delivery of European public services in an interoperable manner. It defines basic interoperability guidelines in the form of common principles, models and recommendations.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;The new European Interoperability Framework (EIF)&#xD;&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.&#xD;&#xA;It offers public administrations 47 concrete recommendations on how to improve governance of their interoperability activities, establish cross-organisational relationships, streamline processes supporting end-to-end digital services, and ensure that both existing and new legislation do not compromise interoperability efforts. &#xD;&#xA;The new EIF is undertaken in the context of the Commission priority to create a Digital Single Market in Europe. The public sector, which accounts for over a quarter of total employment and represents approximately a fifth of the EU’s GDP through public procurement, plays a key role in the Digital Single Market as a regulator, services provider and employer.&#xD;&#xA;The successful implementation of the EIF will improve the quality of European public services and will create an environment where public administrations can collaborate digitally.&#xD;&#xA;https://ec.europa.eu/isa2/eif_en &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

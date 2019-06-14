@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="triggering"
     id="5657ee05-79e2-469d-ab0a-3d4aea9223f8">
   <properties
       key="difi:namespace"
@@ -11,6 +12,18 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="triggering"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_5e66bd7c-ffba-439e-bc0a-d47e426c6fa4.xml#5e66bd7c-ffba-439e-bc0a-d47e426c6fa4"/>

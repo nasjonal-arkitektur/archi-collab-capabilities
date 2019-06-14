@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Aggregator"
     id="d798ccff-f944-4fde-9f7c-58313fd225fd"
-    documentation="This ABB supports the ability to compose (aggregate) data from different services/service providers which are interacting with the Integration Layer using the Mediator ABB into one format, after they have been transformed into a consistent “enterprise” format (canonical form) by the Message Transformer ABB. It is used by the Mediator ABB."/>
+    documentation="This ABB supports the ability to compose (aggregate) data from different services/service providers which are interacting with the Integration Layer using the Mediator ABB into one format, after they have been transformed into a consistent “enterprise” format (canonical form) by the Message Transformer ABB. It is used by the Mediator ABB.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Aggregator"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB supports the ability to compose (aggregate) data from different services/service providers which are interacting with the Integration Layer using the Mediator ABB into one format, after they have been transformed into a consistent “enterprise” format (canonical form) by the Message Transformer ABB. It is used by the Mediator ABB."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Transformer"
     id="bee01f93-0d0e-408d-837d-7f2a69dc42fc"
-    documentation="This ABB is responsible for transforming data formats from source to target format; e.g., from proprietary to industry standards and vice versa. It integrates with the Information Layer to obtain metadata such as the canonical form, etc."/>
+    documentation="This ABB is responsible for transforming data formats from source to target format; e.g., from proprietary to industry standards and vice versa. It integrates with the Information Layer to obtain metadata such as the canonical form, etc.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Transformer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for transforming data formats from source to target format; e.g., from proprietary to industry standards and vice versa. It integrates with the Information Layer to obtain metadata such as the canonical form, etc."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

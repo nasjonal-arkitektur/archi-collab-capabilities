@@ -1,11 +1,31 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization"
     id="328ee8ff-6202-4b76-a87d-6674a4ed676f"
     documentation="The goal of  [Achieving Legal Interoperability] is assessed by the use of [Legislation Catalogues] that are used for provisioning/consuming legal texts.">
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="realization"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The goal of  [Achieving Legal Interoperability] is assessed by the use of [Legislation Catalogues] that are used for provisioning/consuming legal texts."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_2d6f43d3.xml#2d6f43d3"/>

@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Quality Manager"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for validating and enforcing data quality rules, standardizing the data for both value and structure, and performing data reconciliation including semantic reconciliation. It leverages the Information Integrity ABB to fulfill its responsibilities."/>
 </archimate:Resource>

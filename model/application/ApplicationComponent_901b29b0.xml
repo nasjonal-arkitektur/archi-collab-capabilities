@@ -25,4 +25,20 @@
   <properties
       key="dct:type"
       value="eira:MachineTranslationComponent"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Machine Translation Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionality of serving any current or future Digital Service Infrastructure (DSI) requiring cross-lingual functionality. The main functionality is automated translation of text, metadata and concept classes or nomenclatures.&#xD;&#xA;&#xD;&#xA;Based on CEF Automated Translation&#xD;&#xA;https://ec.europa.eu/digital-single-market/en/news/tools-and-resources-cef-automated-translation &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Machine Translation Component ABB  is salient for technical interoperability because it provides the implementation of functionalities for cross-lingual functionality by providing automated  translation of text, metadata and concept classes or nomenclatures as stated in the EIF recommendation n°16: &quot;Use information systems and technical architectures that cater for multilingualism when establishing a European public service. Decide on the level of multilingualism support based on the needs of the expected users.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;&quot;CEF Digital - eTranslation building block&#xD;&#xA;eTranslation is a Connecting Europe Facility (CEF) building block provided by the European Commission (EC). eTranslation provides a web-user interface for direct use by individuals (human-to-machine).&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eTranslation &quot;&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

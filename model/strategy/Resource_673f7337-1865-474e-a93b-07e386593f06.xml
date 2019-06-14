@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Business Rule"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB defines a business rule constraining some aspects of business such as business processes, services, and information. Business rule is one of the fundamental constructs of an SOA solution and analysis and design based on the service-oriented paradigm. The business rules may apply throughout the SOA solution and governance lifecycle."/>
 </archimate:Resource>

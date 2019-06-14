@@ -3,6 +3,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Consumes service from"
     id="6885415f-3807-443d-a3f2-b9463b8ebb49">
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Consumes service from"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_3bc2c6f8-8b43-4f5c-8dc3-8b854d362189.xml#3bc2c6f8-8b43-4f5c-8dc3-8b854d362189"/>

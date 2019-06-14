@@ -25,4 +25,20 @@
       value="eira:FormsManagementComponent"/>
   <properties
       key="dct:modified"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Forms Management Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionalities of i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;Syn. e-Forms Component&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Forms Management Component ABB  is salient for technical interoperability because it provides  the implementation of the functionalities  of dynamic creation, distribution and analysis of forms and online surveys as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Form Tools&#xD;&#xA;Form Tools is a forms framework written in PHP and MySQL. You download and install the script on your own website. At its heart, Form Tools is a web form creator, processor, data storage and access script. It was originally designed to work with any existing web form, but has since been expanded to create forms automatically as well.&#xD;&#xA;Form Tools is extremely versatile in how it integrates with your forms. You can use the bundled Form Builder module to create the forms automatically on your website (no programming or HTML skills necessary); you can use the PHP API to integrate your own custom form with the script; or you can simply POST your form to Form Tools, and just use it to store the form data. Anything goes! You can read about the different integration methods / form creation methods here.&#xD;&#xA;Form Tools works by creating custom database tables to store your unique form data. It provides a range of functionality customized to your data set, such as allowing you to view, update, cross-reference and export your submission data, create subsets of your data for viewing/editing by client accounts, data visualizations, and much more.&#xD;&#xA;https://formtools.org/ &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

@@ -19,4 +19,20 @@
   <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Organisational Policy"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Principles, rules, and guidelines formulated or adopted by an organization to reach its long-term goals and typically published in a booklet or other form that is widely accessible. Policies and procedures are designed to influence and determine all major decisions and actions, and all activities take place within the boundaries set by them. &#xD;&#xA;&#xD;&#xA;Based on BusinessDictionary.com definition of Policies and Procedures&#xD;&#xA;http://www.businessdictionary.com/definition/policies-and-procedures.html &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Inspire - re-use of public sector information&#xD;&#xA;Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the re-use of public sector information. This Directive establishes a minimum set of rules governing the re-use and the practical means of facilitating re-use of existing documents held by public sector bodies of the Member States.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32003L0098 &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

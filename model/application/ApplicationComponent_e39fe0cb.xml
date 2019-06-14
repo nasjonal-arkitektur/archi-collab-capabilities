@@ -25,4 +25,20 @@
       value="ABB70"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Access Management Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionalities of allowing users to make use of i) IT services, ii) data, and/or iii) other assets. Access management helps to protect the confidentiality, integrity and availability of assets by ensuring that only authorised users are able to access or modify the assets.&#xD;&#xA;&#xD;&#xA;Based on ITIL v3&#xD;&#xA;https://www.axelos.com/Corporate/media/Files/Glossaries/AXELOS-Common-Glossary.pdf  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Access Management Component ABB  is salient for technical interoperability because it provides the implementation the functionality of allowing user to make an authorized  and trusted use of IT Services, data and other assets as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;OpenIAM Access Manager  &#xD;&#xA;OpenIAM Access Management solution is based on a professional open source model. This is a robust, scalable solution built with Service Oriented Architecture. It integrates seamlessly with the OpenIAM Identity Manager product to provide a comprehensive solution that allows to take control of not only who can access the systems, but what they can do once they are in there. Corporate security policy is enforced across multiple points and managed centrally to improve effectiveness and reduce administrative costs.&#xD;&#xA;http://www.openiam.com/products/access-manager/overview/ &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

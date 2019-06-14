@@ -2,4 +2,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Semantic Transformer"
     id="a2583952-d741-4c5f-88bb-d614808d109f"
-    documentation="This ABB is responsible for semantic/positional mapping of data, so that it conforms to standards. What it does is dependent on the associated standard; e.g., UDEF in general scenarios or in the case of specific lines of business, ICD 10 or LOINC. For example, this ABB transforms and maps a first name and last name in the in-bound data provided by the Mediator ABB to an Integration Layer standard format where the order is reversed. As the semantic interoperability of services becomes more prevalent with the adoption of cloud computing and SaaS, this becomes more important."/>
+    documentation="This ABB is responsible for semantic/positional mapping of data, so that it conforms to standards. What it does is dependent on the associated standard; e.g., UDEF in general scenarios or in the case of specific lines of business, ICD 10 or LOINC. For example, this ABB transforms and maps a first name and last name in the in-bound data provided by the Mediator ABB to an Integration Layer standard format where the order is reversed. As the semantic interoperability of services becomes more prevalent with the adoption of cloud computing and SaaS, this becomes more important.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Semantic Transformer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for semantic/positional mapping of data, so that it conforms to standards. What it does is dependent on the associated standard; e.g., UDEF in general scenarios or in the case of specific lines of business, ICD 10 or LOINC. For example, this ABB transforms and maps a first name and last name in the in-bound data provided by the Mediator ABB to an Integration Layer standard format where the order is reversed. As the semantic interoperability of services becomes more prevalent with the adoption of cloud computing and SaaS, this becomes more important."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:Resource>

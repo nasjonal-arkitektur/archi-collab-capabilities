@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="17. Ability to address how software, systems, and services are designed, developed, tested, operated, and maintained throughout the software lifecycle including the use of technology as well as processes and procedures which are followed during all aspects of software development and deployment"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

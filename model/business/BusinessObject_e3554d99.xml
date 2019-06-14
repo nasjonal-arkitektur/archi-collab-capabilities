@@ -16,4 +16,20 @@
       value="ABB130"/>
   <properties
       key="dct:modified"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Conformance Test Scenario"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A document specifying a sequence of actions for the execution of a test. Also known as test script or manual test script.&#xD;&#xA;&#xD;&#xA;Based on ISTQB&#xD;&#xA;http://glossary.istqb.org/search/test  &#xD;&#xA;&#xD;&#xA;Syn. Test procedure&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Conformance Testing Scenario ABB  is salient for technical interoperability because it provides a document of a list of activities for the execution of interoperability tests.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;SoapUI&#xD;&#xA;SoapUI is the world's most widely-used open source API testing tool for SOAP and REST APIs. SoapUI offers SOAP Web Services functional testing, REST API functional testing, WSDL coverage, message assertion testing and test refactoring. &#xD;&#xA;Scenario-based tests should be directly tied to user stories, which were probably provided by the product owner or some business stakeholder. Under ideal circumstances, these tests should be the user stories, so that business stakeholders can both easily help the tester develop the test cases and understand the results.&#xD;&#xA;https://www.soapui.org/testing-dojo/best-practices/scenario-based-testing.html &#xD;&#xA;https://www.soapui.org/testing-dojo/world-of-api-testing/test-first.html &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

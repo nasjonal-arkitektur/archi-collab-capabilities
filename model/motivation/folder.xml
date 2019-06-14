@@ -10,7 +10,8 @@
       key="difi:name_no"
       value="Motivation"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Motivation"/>
   <properties
       key="difi:description_no"/>
   <properties

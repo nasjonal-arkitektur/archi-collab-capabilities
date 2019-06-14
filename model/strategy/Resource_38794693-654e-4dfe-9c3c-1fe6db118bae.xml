@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Governance Layer: Service Repository"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="See Service Repository ABB in the Governance Layer."/>
 </archimate:Resource>

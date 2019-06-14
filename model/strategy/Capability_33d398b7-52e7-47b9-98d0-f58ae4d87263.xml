@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="04. Ability to support the integration of the security access control descriptions for services with the runtime elements of the Governance and Quality of Service Layers of the SOA RA. Ability to support standards that are compliant to consume the security policy descriptions and convert them into assets consumable by the associated ABBs within the layer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

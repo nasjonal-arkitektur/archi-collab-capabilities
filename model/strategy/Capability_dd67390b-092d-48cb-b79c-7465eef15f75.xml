@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="02. Ability to publish the service contract/descriptions in a standards-compliant, interoperable manner for other layers of the SOA RA and design-time service repositories and runtime service registry in the Governance Layer. Ability to provide information about the services to the Services Layer "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

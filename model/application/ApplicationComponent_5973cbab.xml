@@ -27,4 +27,20 @@
       key="dct:references"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Digital Service Infrastructure"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Infrastructure which enable networked services to be delivered electronically, typically over the internet, providing trans-European interoperable services of common interest for citizens, businesses  and/or public authorities, and which are composed of core service platforms and generic services&#xD;&#xA;&#xD;&#xA;Source: Regulation (EU) No 283/2014&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0283&amp;from=EN  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Digital Infrastructure Service ABB  is salient for technical interoperability because it a central element through which interoperability is ensured and by definition, as intended in the EIRA, Digital Service Infrastructure provide trans-European interoperable services.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;CEF Digital Service Infrastructure for eHealth&#xD;&#xA;eHealth refers to tools and services using information and communication technologies (ICTs) that can improve prevention, diagnosis, treatment, monitoring and management. So far the Digital Service Infrastructure for eHealth is planned to support several services:&#xD;&#xA;- Cross-border patient summary service&#xD;&#xA;- ePrescriptions and eDispensations&#xD;&#xA;In the future, two other services, the European Reference Networks and Interoperable Patient registries might be deployed.&#xD;&#xA;https://webgate.ec.europa.eu/sanco-xmlgate/Login.jsp &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

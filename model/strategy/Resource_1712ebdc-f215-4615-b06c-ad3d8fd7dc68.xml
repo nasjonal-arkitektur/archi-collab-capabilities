@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Asset Repository"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB enables organizations to organize, govern, and manage their valuable assets scattered throughout the enterprise and to encourage re-use of existing assets within the organization. It provides the ability to search for the asset by different perspectives such as for general description, classification, usage, and content. Assets could be business processes model, service artifacts, components design and code, models, documents, etc. Standards for asset repository and management include Re-usable Asset Specification (RAS) from OMG."/>
 </archimate:Resource>

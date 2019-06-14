@@ -680,7 +680,8 @@
       key="difi:name_no"
       value="Governance Layer ABBs"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Governance Layer ABBs"/>
   <properties
       key="difi:description_no"/>
   <properties

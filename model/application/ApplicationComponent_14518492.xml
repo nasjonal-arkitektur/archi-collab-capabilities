@@ -25,4 +25,20 @@
       value="eira"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Configuration and Solution Cartography Service Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionality of documenting the configuration and architecture of solutions.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Configuration and Solution of Cartography Component ABB  is salient for technical interoperability because it provides the implementation of the functionalities which can be exploited to document the interoperabilty features of a solution or a set of solution/services. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Essential&#xD;&#xA;The EA Essential tool provides with a semantically-rich meta-model. This means accurate modelling which allows for sophisticated reporting. Essential can be configured to import data from a wide range of sources such as CMDBs, Business Process Modelling tools, PMO tools, etc. The Essential Import Utility REST API allows to schedule automated imports from external data sources to keep the repository accurate and current. Complex queries can be built on the repository using the query wizard in Essential Open Source.&#xD;&#xA;In addition to traditional the Enterprise Architecture assets, Essential also manages information about the entire organization including resources, skills, contracts, risk, security and more.&#xD;&#xA;https://www.enterprise-architecture.org/features.php &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

@@ -19,4 +19,20 @@
   <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Specification"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A Specification is  a document that states requirements. A specification can be related to activities (e.g. procedure document, process specification and test specification), or products  (e.g. product specification, performance specification and drawing). [ISO 9000:2005] &#xA;&#xA;Source : https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-3:v1:en:term:3.7.3"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

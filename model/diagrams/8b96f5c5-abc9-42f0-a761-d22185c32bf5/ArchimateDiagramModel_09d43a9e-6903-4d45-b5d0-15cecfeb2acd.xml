@@ -700,4 +700,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-2a3aea0a-83c9-11e9-27b3-44850074a0ae.xml#id-2a3aea0a-83c9-11e9-27b3-44850074a0ae"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Forslag kapabilitetsområder"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -25,4 +25,20 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Trust Service Provisioning Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionalities encapsulating the trust services functionalities.&#xD;&#xA;A ‘trust service’ means an electronic service normally provided for remuneration which consists of these functionalities:&#xD;&#xA;i) the creation, verification, and validation of electronic signatures, electronic seals or electronic time stamps, electronic registered delivery services and certificates related to those services, or&#xD;&#xA;ii) the creation, verification and validation of certificates for website authentication; or&#xD;&#xA;iii) the preservation of electronic signatures, seals or certificates related to those services.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Trust Service Provisioning Component ABB  is salient for technical interoperability  because it provides &#xD;&#xA;the implementation of the functionalities of information exchange between between administrations, businesses and citizens (e-signature and e-seal creation, verification,validation and preservation, timestamping  creation, verification and validation, identity management, etc.) as stated in the EIF recommendation n°47: &quot;Use trust services according to the Regulation on eID and Trust Services as mechanisms that ensure secure and protected data exchange in public services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;e-TrustEx&#xD;&#xA;Open e-TrustEx is a platform offered by the Directorate-General for Informatics of the European Commission to Public Administrations at European, national and regional level to set up secure exchange of natively digital documents from system to system via standardized interfaces. Open e-TrustEx provides a set of generic web services, which Public Administrations can use to connect heterogeneous applications, removing the need for complex point-to-point connections. &#xD;&#xA;http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52016SC0279 &#xD;&#xA;https://joinup.ec.europa.eu/solution/open-e-trustex &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

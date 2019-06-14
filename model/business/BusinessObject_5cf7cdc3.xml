@@ -22,4 +22,20 @@
   <properties
       key="ID"
       value="ABB116"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Financial Resource"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A stock or supply of money.&#xD;&#xA;&#xD;&#xA;Based on the Oxford Dictionary&#xD;&#xA;https://en.oxforddictionaries.com/definition/resource &#xD;&#xA;&#xD;&#xA;Syn. Funding Instrument&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;CEF Programme&#xD;&#xA;The Connecting Europe Facility (CEF) is a key EU funding instrument to promote growth, jobs and competitiveness through targeted infrastructure investment at European level. It supports the development of high performing, sustainable and efficiently interconnected trans-European networks in the fields of transport, energy and digital services. CEF investments fill the missing links in Europe's energy, transport and digital backbone.&#xD;&#xA;https://ec.europa.eu/inea/en/connecting-europe-facility &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization"
     id="2f6ab474-9c6c-447d-8074-adea4420bbeb">
   <properties
       key="dct:type"
@@ -8,6 +9,21 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="realization"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_5e66bd7c-ffba-439e-bc0a-d47e426c6fa4.xml#5e66bd7c-ffba-439e-bc0a-d47e426c6fa4"/>

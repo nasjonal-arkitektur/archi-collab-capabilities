@@ -25,4 +25,20 @@
       value="[ Exists | Development planned ]"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Validation Component"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Implements the functionality of referring to any activity aimed at verifying that the value of a data item comes from a given set of acceptable values. Data validation may be followed by corrective actions, such as data editing or data imputation. In statistics, imputation is the process of replacing missing data with substituted values.&#xD;&#xA;&#xD;&#xA;Based on Eurostat Data Validation&#xD;&#xA;http://ec.europa.eu/eurostat/data/data-validation  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Validation Component ABB  is salient for technical interoperability because it allows the implementation of the functionality to validate if data received (or to be sent) is compliant with common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Hibernate Validator&#xD;&#xA;Express validation rules in a standardized way using annotation-based constraints and benefit from transparent integration with a wide variety of frameworks.&#xD;&#xA;Application layer agnostic validation: Hibernate Validator allows to express and validate application constraints. The default metadata source are annotations, with the ability to override and extend through the use of XML. It is not tied to a specific application tier or programming model and is available for both server and client application programming.&#xD;&#xA;Hibernate Validator presents the following characteristics:&#xD;&#xA;&#xD;&#xA;• Extendable: Hibernate Validator offers a configurable bootstrap API as well as a range of built-in constraints. The latter can easily be extended by creating custom constraints.&#xD;&#xA;• Rich metadata API: Hibernate Validator gives access to constraint configuration via a metadata API facilitating, for example, tooling integration.&#xD;&#xA;• Reference implementation: Hibernate Validator 6.x is the reference implementation Bean Validation 2.0.&#xD;&#xA;• Added value: Hibernate Validator offers additional value on top of the features required by Bean Validation. For example, a programmatic constraint configuration API as well as an annotation processor which plugs into the build process and raises compilation errors whenever constraint annotations are incorrectly used.&#xD;&#xA;&#xD;&#xA;http://hibernate.org/validator/ &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

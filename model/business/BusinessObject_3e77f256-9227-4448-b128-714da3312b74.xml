@@ -22,4 +22,20 @@
       value="ABB231"/>
   <properties
       key="dct:modified"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Syntax"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Data Syntax is a set of rules defining the way in which data is put together with appropriate identifiers, delimiters, separator character(s), and other non-data characters to form messages.&#xD;&#xA;&#xD;&#xA;Source: reference: https://www.iso.org/obp/ui/#iso:std:iso:14817:-1:ed-1:v1:en:term:4.59&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Syntax ABB is salient for semantic interoperability because it provides the rules establishing how data have to to be written. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;XML syntax&#xD;&#xA;XML syntax refers to the rules that determine how an XML application can be written. The XML syntax is very straight forward, and this makes XML very easy to learn. Below are the main points to remember when creating XML documents.&#xD;&#xA;https://www.quackit.com/xml/tutorial/xml_syntax.cfm"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>

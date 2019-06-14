@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Policy"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB defines a policy describing principles to guide decisions to drive to desired outcomes. Policy is one of the fundamental constructs of an SOA solution and analysis and design based on the service-oriented paradigm. Policies may apply throughout the SOA solution and governance lifecycle. Policies could be at multiple levels, such as business level, architectural level, and/or operational level. It is important to capture the policy-related decisions and rules and policy information and its sources while defining policies such that the policies can be evaluated during policy enforcement by the Policy Enforcer in the Quality of Service Layer."/>
 </archimate:Resource>

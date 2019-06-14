@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Command and Control Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities provides the command center for security management as well as the operational security capabilities for non-IT assets and services to ensure protection, response, continuity, and recovery. It also supports security of physical assets such as locations, facilities, services, inventory, physical access control, human identity, etc."/>
 </archimate:Grouping>

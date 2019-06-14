@@ -248,7 +248,8 @@
       key="difi:name_no"
       value="SOA RA Metamodel"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="SOA RA Metamodel"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -72,4 +72,20 @@
   <properties
       key="eira:reusability"
       value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Interoperable European Solution"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;A solution, developed by Public Administrations that facilitate the delivery of electronic Public Services and cross-border exchange of information between Public Administrations (or Citizens) in support to the implementation and advancement of EU, national or local Public Policies.&#xD;&#xA;&#xD;&#xA;Based on ISA TES definition&#xD;&#xA;https://joinup.ec.europa.eu/node/149889  &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;eDelivery&#xD;&#xA;Supporting secure and reliable exchange of data and documents&#xD;&#xA;eDelivery is a network of nodes for digital communications. It is based on a distributed model where every participant becomes a node using standard transport protocols and security policies. eDelivery helps public administrations to exchange electronic data and documents with other public administrations, businesses and citizens, in an interoperable, secure, reliable and trusted way. eDelivery is one of the building blocks of the European Commission's Connecting Europe Facility (CEF). These building blocks are reusable specifications, software and services that will form part of a wide variety of IT systems in different policy domains of the EU. The CEF eDelivery building block is based on the AS4 messaging protocol, open and free for all, developed by the OASIS standards development organisation. To ease its adoption in Europe, eDelivery uses the AS4 implementation guidelines defined by the Member States in the e-SENS Large Scale Pilot. Organisations must install an Access Point, or use a Service Provider, to exchange information with the AS4 messaging protocol.&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:ApplicationComponent>

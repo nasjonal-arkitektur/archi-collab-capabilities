@@ -11,4 +11,16 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="06. Ability to provide the Consumer Layer with the ability to support customer-specific information (enabled by the Information Layer) and personalization and customer-specific preferences to be used by the presentation controller for navigation and content presentation purposes"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

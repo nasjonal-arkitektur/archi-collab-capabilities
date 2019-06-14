@@ -22,4 +22,20 @@
   <properties
       key="dct:type"
       value="eira:MasterData"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Master Data"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;The authoritative, most accurate data that is available about key business entities, used to establish the context for business transactions and transactional data.&#xD;&#xA;&#xD;&#xA;Source: DAMA DM_BOK &#xD;&#xA;http://www.dama.org &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Master Data ABB is salient for semantic interoperability because it is used to establish the context for business transactions and transactional data by providing accurate data usually stored and available for reuse by other parties. Its management should be prioritised as stated in the EIF recommendation n° 31: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;INSPIRE code list register&#xD;&#xA;The INSPIRE code list register contains the code lists and their values, as defined in the INSPIRE implementing rules on interoperability of spatial data sets and services (Commission Regulation (EU) No 1089/2010). &#xD;&#xA;http://inspire.ec.europa.eu/codelist &#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:DataObject>

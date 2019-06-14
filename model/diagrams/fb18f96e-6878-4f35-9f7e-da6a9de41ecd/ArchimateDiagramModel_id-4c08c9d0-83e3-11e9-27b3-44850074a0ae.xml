@@ -1665,7 +1665,8 @@
       key="difi:name_no"
       value="Layers and level 1 capabilities"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Layers and level 1 capabilities"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Consolidator"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB is responsible for extracting relevant information from sources, transforming the information into the appropriate integrated form, and loading the information into the target repository. This ABB supports Extract-Transform-Load (ETL) from one or more source systems into a target system. It is also responsible for supporting real-time ETL capabilities with the initial or incremental ETL of volume data into a target repository (e.g., data warehouse or master data repository)."/>
 </archimate:Resource>

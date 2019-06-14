@@ -1339,7 +1339,8 @@
       key="difi:name_no"
       value="Quality of Service Layer Capabilitoes"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Quality of Service Layer Capabilitoes"/>
   <properties
       key="difi:description_no"/>
   <properties

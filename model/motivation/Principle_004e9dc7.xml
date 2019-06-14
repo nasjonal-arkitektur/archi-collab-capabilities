@@ -17,4 +17,20 @@
   <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Transparency"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="EIF Underlying principle 3: transparency&#xA;&#xA;Transparency in the EIF context refers to:&#xA;1. Enabling visibility inside the administrative environment of a public administration. This is about allowing other public administrations, citizens and businesses to view and understand administrative rules, processes11, data, services and decision-making.&#xA;2. Ensuring availability of interfaces with internal information systems. Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates reuse of systems and data, and enables these to be integrated into larger systems.&#xA;3. Securing the right to the protection of personal data, by respecting the applicable legal framework for the large volumes of personal data of citizens, held and managed by Public administrations.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
 </archimate:Principle>

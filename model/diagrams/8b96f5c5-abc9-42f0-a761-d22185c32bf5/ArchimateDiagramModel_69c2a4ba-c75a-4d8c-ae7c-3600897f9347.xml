@@ -798,4 +798,16 @@
         xsi:type="archimate:Capability"
         href="Capability_d14fffdd-1451-42c7-98e8-dee0d035f483.xml#d14fffdd-1451-42c7-98e8-dee0d035f483"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Mapping mot eOppslag"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -3,6 +3,27 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is represented by"
     id="d4dd650e-8451-413e-bc9c-61dcb1b7400c">
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="is represented by"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_5f7980ad-a400-4b53-b5bb-372cd7ac4030.xml#5f7980ad-a400-4b53-b5bb-372cd7ac4030"/>

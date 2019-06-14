@@ -12,4 +12,17 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Integrated Development Environment (IDE) for Service Development"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB helps define and develop Service Components and associated Functional and Technical Components. This includes service contracts and any other associated service metadata."/>
 </archimate:Resource>
