@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="14. Ability to handle exceptions raised in the process of service invocation and message passing  [ns:togsoara]"
+    name="14. Ability to handle exceptions raised in the process of service invocation and message passing "
     id="0c94350d-8823-4072-947a-d6aa66bae395">
   <properties
       key="difi:namespace"

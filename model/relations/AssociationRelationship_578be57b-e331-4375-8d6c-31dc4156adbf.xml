@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:toopra]"
     id="578be57b-e331-4375-8d6c-31dc4156adbf">
   <properties
       key="difi:namespace"

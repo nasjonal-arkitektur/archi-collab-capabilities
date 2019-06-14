@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Management [ns:toopra]"
+    name="User Management"
     id="d0bdc74a-b9a8-4b9a-9fc8-5d03974287c1">
   <properties
       key="difi:namespace"

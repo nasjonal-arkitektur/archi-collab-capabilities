@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03. Ability to realize and deploy the business processes in a runtime environment [ns:togsoara]"
+    name="03. Ability to realize and deploy the business processes in a runtime environment"
     id="4204f9ab-ba57-4ed2-8006-f8e0eaed9d0b">
   <properties
       key="difi:namespace"

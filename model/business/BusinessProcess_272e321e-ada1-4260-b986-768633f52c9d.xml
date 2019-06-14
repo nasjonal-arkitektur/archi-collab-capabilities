@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Extract Data of User [ns:toopra]"
+    name="Extract Data of User"
     id="272e321e-ada1-4260-b986-768633f52c9d">
   <properties
       key="difi:namespace"

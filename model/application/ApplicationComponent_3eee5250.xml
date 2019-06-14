@@ -1,28 +1,28 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Audit Component [ns:eira]"
+    name="Audit Component"
     id="3eee5250"
     documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of providing support for the principle of accountability, which is holding users of a system accountable for their actions within the system, and detection of policy violations. The audit policy defines the elements of an information system which need to be traced, for example to assure traceability of actions: what, how, when, where and with what.&#xD;&#xA;&#xD;&#xA;Based on The Open Group&#xD;&#xA;http://www.opengroup.org/security/das/xdas_int.htm  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Audit Component ABB  is salient for technical interoperability because it allows the implementation of audit policies as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Activiti audit feature&#xD;&#xA;The audit feature of Activiti archives all process instances, activity instances, keeps variable values continuously in sync and all form properties that are submitted so that all user interaction through forms is traceable and can be audited.&#xD;&#xA;Authenticated users who submitted the forms are accessible in the history as well as for start forms and task forms.&#xD;&#xA;https://www.activiti.org/userguide/#historyFormAuditPurposes &#xD;&#xA;">
   <properties
-      key="eira:reusability"
-      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
-      key="eira:actual_reuse"
-      value="[ Already reused | Reused planned | No]"/>
+      key="ID"
+      value="ABB71"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="eira:status"
-      value="[ Exists | Development planned ]"/>
+      key="dct:modified"/>
   <properties
       key="dct:type"
       value="eira:AuditAndLoggingComponent"/>
   <properties
-      key="dct:modified"/>
+      key="dct:publisher"/>
   <properties
-      key="ID"
-      value="ABB71"/>
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
 </archimate:ApplicationComponent>

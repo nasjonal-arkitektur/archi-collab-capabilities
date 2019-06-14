@@ -1,22 +1,22 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Impact Assessment [ns:eira]"
+    name="Impact Assessment"
     id="b03263a9"
     documentation="An Impact assessment is a key tool to ensure that the public policy process is carried out on the basis of transparent, comprehensive and balanced evidence, an Impact assessment is an aid to political decision-making.&#xA;&#xA;Source: Based on the concepts laid out in  http://ec.europa.eu/smart-regulation/impact/commission_guidelines/docs/iag_2009_en.pdf&#xA;">
-  <properties
-      key="eira:ABB_Status"
-      value="Obsolete"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="ID"
-      value="ABB105"/>
+      key="dct:type"
+      value="eira:ImpactAssessment"/>
   <properties
       key="dct:modified"/>
   <properties
-      key="dct:publisher"/>
+      key="eira:ABB_Status"
+      value="Obsolete"/>
   <properties
-      key="dct:type"
-      value="eira:ImpactAssessment"/>
+      key="ID"
+      value="ABB105"/>
+  <properties
+      key="dct:publisher"/>
 </archimate:BusinessProcess>

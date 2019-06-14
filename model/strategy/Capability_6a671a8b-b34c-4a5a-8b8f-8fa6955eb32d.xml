@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03. Ability to ensure that physical and operational security is maintained for locations, assets, humans, environment, and utilities [ns:togsoara]"
+    name="03. Ability to ensure that physical and operational security is maintained for locations, assets, humans, environment, and utilities"
     id="6a671a8b-b34c-4a5a-8b8f-8fa6955eb32d">
   <properties
       key="difi:namespace"

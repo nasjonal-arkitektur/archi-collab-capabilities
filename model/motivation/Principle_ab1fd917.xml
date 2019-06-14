@@ -1,8 +1,11 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Subsidiarity and proportionality [ns:eira]"
+    name="Subsidiarity and proportionality"
     id="ab1fd917"
     documentation="EIF Underlying principle 1: subsidiarity and proportionality&#xA;&#xA;The subsidiarity principle requires EU decisions to be taken as closely as possible to the citizen. In other words, the EU does not take action unless this is more effective than the same action taken at national level. The proportionality principle limits EU actions to what is necessary to achieve the objectives of the Treaties.&#xA;&#xA;Concerning interoperability, a European framework is justified to overcome differences in policies that result in heterogeneity and lack of interoperability and that put at risk the digital single market.&#xA;&#xA;The EIF is envisaged as the ‘common denominator’ of interoperability policies in Member States. Member States should enjoy sufficient freedom to develop their NIFs with respect to EIF recommendations. NIFs are expected to be tailored and extended in such a way that national specificities are properly addressed.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
   <properties
       key="dct:type"
       value="eira:EIFPrinciple"/>
@@ -11,9 +14,6 @@
       value="ABB301"/>
   <properties
       key="dct:modified"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
   <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>

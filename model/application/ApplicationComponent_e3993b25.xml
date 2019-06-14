@@ -1,28 +1,28 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Exchange Component [ns:eira]"
+    name="Data Exchange Component"
     id="e3993b25"
     documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality that enables the secure exchange of messages, records, forms and other kinds of data between different ICT systems. This includes data routing, except endpoint discovery. &#xD;&#xA;&#xD;&#xA;Based on EIFv2&#xD;&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Exchange Component ABB is salient for technical interoperability because it provides the implementation of the functionalities to enable a secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Open e-TrustEx&#xD;&#xA;Open e-TrustEx is a secure document exchange platform. Solution for European public administration that needs to electronically exchange information with other entities in a secure way. Open e-TrustEx is a cross-sector, open source tool that helps administrations to exchange structured and unstructured documents and to connect to pan-European e-delivery infrastructures with reduced investment. For Commission services, DG Informatics operates the e-TrustEx platform for a fee.&#xD;&#xA;https://ec.europa.eu/isa2/solutions/open-e-trustex_en &#xD;&#xA;">
-  <properties
-      key="ID"
-      value="ABB64"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
-      key="dct:type"
-      value="eira:DataExchangeComponent"/>
   <properties
       key="eira:status"
       value="[ Exists | Development planned ]"/>
   <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
   <properties
       key="eira:actual_reuse"
       value="[ Already reused | Reused planned | No]"/>
   <properties
+      key="ID"
+      value="ABB64"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
       key="eira:reusability"
       value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
   <properties
-      key="dct:modified"/>
+      key="dct:type"
+      value="eira:DataExchangeComponent"/>
 </archimate:ApplicationComponent>

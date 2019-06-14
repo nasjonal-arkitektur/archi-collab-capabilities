@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="18. Ability to maintain the security status through proactive changes to the system, reacting to identified vulnerabilities and new threats, and through responding to detected incidents and reported problems [ns:togsoara]"
+    name="18. Ability to maintain the security status through proactive changes to the system, reacting to identified vulnerabilities and new threats, and through responding to detected incidents and reported problems"
     id="df0ce784-3f50-450c-b546-c9afbf20cc91">
   <properties
       key="difi:namespace"

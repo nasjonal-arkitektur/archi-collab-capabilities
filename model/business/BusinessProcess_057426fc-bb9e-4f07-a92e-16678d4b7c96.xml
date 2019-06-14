@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Validate Service Offering [ns:toopra]"
+    name="Validate Service Offering"
     id="057426fc-bb9e-4f07-a92e-16678d4b7c96">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ability to compose service function from underlying services and implementation of services [ns:togsoara]"
+    name="Ability to compose service function from underlying services and implementation of services"
     id="id-5928cc4b-83c6-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

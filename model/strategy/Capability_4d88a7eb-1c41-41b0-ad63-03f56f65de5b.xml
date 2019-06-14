@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reference Data Management (RDM) [ns:dmbok2]"
+    name="Reference Data Management (RDM)"
     id="4d88a7eb-1c41-41b0-ad63-03f56f65de5b">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Service Broker [ns:toopra]"
+    name="Evidence Service Broker"
     id="bb3e4c62-0b8b-4875-8f14-81b02213293e">
   <properties
       key="difi:namespace"

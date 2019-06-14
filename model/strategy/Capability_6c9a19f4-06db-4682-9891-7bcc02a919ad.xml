@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="37. Ability to change configuration and policy to ensure meeting SLAs [ns:togsoara]"
+    name="37. Ability to change configuration and policy to ensure meeting SLAs"
     id="6c9a19f4-06db-4682-9891-7bcc02a919ad">
   <properties
       key="difi:namespace"

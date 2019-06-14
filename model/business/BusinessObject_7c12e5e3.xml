@@ -1,30 +1,30 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Public Policy [ns:eira]"
+    name="Public Policy"
     id="7c12e5e3"
     documentation="Designated name for grouping legal acts with a common scope to be implemented by a public authority. It is based on certain values and objectives and is implemented using a variety of resources. It applies on the territory within which the public authority has delegated powers by the legislative authority.&#xD;&#xA;&#xD;&#xA;Based on EuroVoc&#xD;&#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en &#xD;&#xA;&#xD;&#xA;The policies; overview of EU activities in all areas, from agriculture to transport: http://ec.europa.eu/policies/index_en.htm&#xD;&#xA;&#xD;&#xA;Syn. Policy Action&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Common Agricultural Policy (CAP)&#xD;&#xA;The common agricultural policy (CAP) – one of Europe’s oldest policies – has evolved along with the EU. Today's CAP supports a modern, market-oriented farming sector ensuring the provision of safe, affordable, high quality food, produced sustainably and respecting strict standards (environmental, animal welfare, food safety, etc.), as well as supporting investment in the broader rural economy. &#xD;&#xA;https://ec.europa.eu/info/strategy/agriculture_en &#xD;&#xA;">
-  <properties
-      key="dct:spatial"
-      value="[ EU | National | Sub-national ]"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
       key="dct:modified"/>
   <properties
-      key="ID"
-      value="ABB9"/>
+      key="eira:synonym"
+      value="Policy Action"/>
+  <properties
+      key="eira:status"
+      value="[ Currently supported | Future extension ]"/>
+  <properties
+      key="eira:specific_policy_issue"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
   <properties
       key="dct:type"
       value="eira:PublicPolicy"/>
   <properties
-      key="eira:specific_policy_issue"/>
-  <properties
-      key="eira:synonym"
-      value="Policy Action"/>
+      key="ID"
+      value="ABB9"/>
   <properties
       key="dct:publisher"/>
-  <properties
-      key="eira:status"
-      value="[ Currently supported | Future extension ]"/>
 </archimate:BusinessObject>

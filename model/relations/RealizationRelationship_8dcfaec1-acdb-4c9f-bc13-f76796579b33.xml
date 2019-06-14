@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="8dcfaec1-acdb-4c9f-bc13-f76796579b33"
     documentation="The goal of [Achieving Semantic Interoperability] is assessed by the use of [Representations] that ensure compatible interpretation.">
   <properties

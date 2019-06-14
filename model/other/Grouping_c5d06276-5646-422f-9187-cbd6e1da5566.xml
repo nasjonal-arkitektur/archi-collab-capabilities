@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virtualization and Infrastructure Services [ns:togsoara]"
+    name="Virtualization and Infrastructure Services"
     id="c5d06276-5646-422f-9187-cbd6e1da5566"
     documentation="This category of capabilities provides underlying infrastructure such as computing power, network, storage, etc. in native or a virtualized manner.">
   <properties

@@ -1,20 +1,20 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Security and privacy [ns:eira]"
+    name="Security and privacy"
     id="84792b74"
     documentation="EIF Underlying principle 8: security and privacy&#xA;&#xA;Citizens and businesses must be confident that when they interact with public authorities they are doing so in a secure and trustworthy environment and in full compliance with relevant regulations, e.g. the Regulation and Directive on data protection, and the Regulation on electronic identification and trust services. Public administrations must guarantee the citizens’ privacy, and the confidentiality, authenticity, integrity and non-repudiation of information provided by citizens and businesses.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.&#xA;&#xA;">
   <properties
-      key="dct:modified"/>
+      key="ID"
+      value="ABB308"/>
   <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
   <properties
-      key="dct:type"
-      value="eira:EIFPrinciple"/>
+      key="dct:modified"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="ID"
-      value="ABB308"/>
+      key="dct:type"
+      value="eira:EIFPrinciple"/>
 </archimate:Principle>

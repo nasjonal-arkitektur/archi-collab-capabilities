@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="5f8ab733-4834-4e5f-8995-589ca86d56bb"
     documentation="The goal of [Achieving Semantic Interoperability] is assessed by the use of [Data Set Catalogues] that provision/consume data.">
   <properties

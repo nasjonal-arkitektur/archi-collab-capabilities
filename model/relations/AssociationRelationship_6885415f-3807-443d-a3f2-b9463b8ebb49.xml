@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumes service from"
+    id="6885415f-3807-443d-a3f2-b9463b8ebb49">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_3bc2c6f8-8b43-4f5c-8dc3-8b854d362189.xml#3bc2c6f8-8b43-4f5c-8dc3-8b854d362189"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_9a2055bf-e604-4a14-8273-c22f5f016ae7.xml#9a2055bf-e604-4a14-8273-c22f5f016ae7"/>
+</archimate:AssociationRelationship>

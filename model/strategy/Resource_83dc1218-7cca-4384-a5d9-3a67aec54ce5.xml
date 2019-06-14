@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Development Tools [ns:togsoara]"
+    name="Development Tools"
     id="83dc1218-7cca-4384-a5d9-3a67aec54ce5"
     documentation="This ABB represents a set of tools used in the plan, define, implement phases of SOA governance to document governance policies and implement SOA governance metrics, checkpoints, and processes.">
   <properties

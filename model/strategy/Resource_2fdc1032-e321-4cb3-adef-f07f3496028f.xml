@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy Manager [ns:togsoara]"
+    name="Policy Manager"
     id="2fdc1032-e321-4cb3-adef-f07f3496028f"
     documentation="This ABB is responsible for defining, authoring, distributing, and maintaining policies using policy management tools. Sophisticated policy managers may also check for and resolve policy conflicts. This ABB represents the primary Policy Administration Point in the SOA RA. This ABB is responsible for the distribution of the policies to one or more Policy Enforcement Points (PEPs) represented by the Policy Enforcer ABB in the Quality of Service Layer and its intersection with the other layers of the SOA RA for evaluation and enforcement purposes.&#xD;&#xA;&#xD;&#xA;It is important to note that this ABB supports the management of policies needed to support security and logically includes all the responsibilities of a Security Policy Manager. A key tenant of an effective security program is management of security based on well-defined policies.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Implementation Controller [ns:togsoara]"
+    name="Implementation Controller"
     id="e1907f6a-f41f-4e8c-83b3-a268e5e0527b"
     documentation="This ABB receives a request to invoke an underlying Solution Component and delegates it to the appropriate Solution Component. It also incorporates logic for composition and decomposition of legacy applications into Solution Components. This is required because historically most legacy applications have not been written with the intent of being elements in an SOA and the service Solution Components within them need to be exposed through service composition and decomposition.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Master Data [ns:dmbok2]"
+    name="Master Data"
     id="71ac6879-3173-4452-a5b8-db26c03106de">
   <properties
       key="difi:namespace"

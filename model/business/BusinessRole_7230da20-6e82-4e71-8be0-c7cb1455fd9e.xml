@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Certificate Authority [ns:toopra]"
+    name="Certificate Authority"
     id="7230da20-6e82-4e71-8be0-c7cb1455fd9e">
   <properties
       key="difi:namespace"

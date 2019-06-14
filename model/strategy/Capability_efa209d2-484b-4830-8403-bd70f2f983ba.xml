@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="26. Ability to coordinate overall QoS requirements for the SOA solution [ns:togsoara]"
+    name="26. Ability to coordinate overall QoS requirements for the SOA solution"
     id="efa209d2-484b-4830-8403-bd70f2f983ba">
   <properties
       key="difi:namespace"

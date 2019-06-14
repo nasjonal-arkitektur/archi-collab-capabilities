@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Provider Lookup Service [ns:toopra]"
+    name="Data Provider Lookup Service"
     id="45c09b95-f4ee-4b41-a7ce-52061cffcf09">
   <properties
       key="difi:namespace"

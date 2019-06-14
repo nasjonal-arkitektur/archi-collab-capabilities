@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DC's MS eIDAS Node [ns:toopra]"
+    name="DC's MS eIDAS Node"
     id="73a54ed3-8b9d-41c0-807b-07200929bbce">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LAN [ns:toopra]"
+    name="LAN"
     id="d44c1390-187e-48df-b5f6-fe04b07295d4">
   <properties
       key="difi:namespace"

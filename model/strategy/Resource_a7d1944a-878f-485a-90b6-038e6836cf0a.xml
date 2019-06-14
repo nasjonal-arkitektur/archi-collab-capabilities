@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mediator [ns:null]"
+    name="Mediator"
     id="a7d1944a-878f-485a-90b6-038e6836cf0a"
     documentation="This ABB is responsible for handling the service request/response interaction. It also supports the transformation between message formats, conversion of protocols, and routing of service call/messages to the service provider. It uses the Data Transformer ABB and optionally the Semantic Transformer ABB for the transformations. Finally, it supports static service composition to orchestrate and chain services or system calls or messages together in order to compose services statically. It uses ABBs such as Router, Message Transformer, and the Data Aggregator to do this"/>

@@ -1,16 +1,11 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Definition of Public Policy Objectives [ns:eira]"
+    name="Definition of Public Policy Objectives"
     id="a5129109"
     documentation="A Definition of Public Policy Objectives is a stage where public policy objectives are defined.&#xA;&#xA;Source: Based on the concepts laid out in http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf&#xA;">
   <properties
-      key="difi:namespace"
-      value="eira"/>
-  <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
-  <properties
-      key="dct:publisher"/>
   <properties
       key="dct:type"
       value="eira:DefinitionOfPublicPolicyObjectives"/>
@@ -19,4 +14,9 @@
   <properties
       key="ID"
       value="ABB103"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
 </archimate:BusinessProcess>

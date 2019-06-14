@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Publication Component [ns:eira]"
+    name="Data Publication Component"
     id="21a17efa"
     documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of making data available for common use.&#xD;&#xA;&#xD;&#xA;Based on DAMA&#xD;&#xA;http://www.dama.org/  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Pubblication Component ABB  is salient for technical interoperability because it provides the implementation of the functionalities to make public data freely available for use and reuse by others unless restriction aoply as stated in the EIF recommendation n.2: &quot;Publish the data you own as open data unless certain restrictions apply.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;CKAN &#xD;&#xA;CKAN is a data management system that makes data accessible by providing tools to streamline publishing, sharing, finding and using data.&#xD;&#xA;This is a tool for making open data websites. It helps you manage and publish collections of data. It is used by national and local governments, research institutions, and other organizations who collect a lot of data.&#xD;&#xA;Once your data is published, users can use its faceted search features to browse and find the data they need, and preview it using maps, graphs and tables – whether they are developers, journalists, researchers, NGOs, citizens, or even your own staff.&#xD;&#xA;CKAN is open source and free software, with an active community of contributors who develop and maintain its core technology. CKAN is modified and extended by an even larger community of developers who contribute to a growing library of CKAN extensions.&#xD;&#xA;https://ckan.org/  &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Globus&#xD;&#xA;Globus is a leading provider of research data management software application and platform services.&#xD;&#xA;Globus publication capabilities are delivered through a hosted service. Published data is stored on campus, institutional, and group resources that are often managed and operated by different administrators. To associate storage resources with a data collection simply use Globus shared endpoints and associate them with the data repository to publish. Published datasets are organized by &quot;communities&quot; and their member &quot;collections&quot;. Globus users can create and manage their own communities and collections through the data publication service. A collection enables the submission of datasets with policies regarding access.&#xD;&#xA;A dataset comprises data and metadata. Policies can be set on communities or collections to manage:&#xD;&#xA;- Metadata (schema, requirements)&#xD;&#xA;- Access control (user and group based)&#xD;&#xA;- Curation workflow&#xD;&#xA;- Submission and distribution licenses&#xD;&#xA;- Storage&#xD;&#xA;Datasets undergo curation based on a workflow defined by the community that will publish the data. Workflows may be customized by each community to capture their specific metadata and to reflect the community's review process. After the dataset is published, it is discoverable using a faceted search that allows the researcher to progressively filter results and rapidly focus in on the data of interest. The data may then be transferred to a Globus endpoint where the investigator can inspect and further process the data.&#xD;&#xA;Data publication is a premium feature available with a Globus Subscription&#xD;&#xA;https://www.globus.org/data-publication &#xD;&#xA;">
   <properties
@@ -10,19 +10,19 @@
       key="ID"
       value="ABB209"/>
   <properties
-      key="dct:modified"/>
-  <properties
       key="eira:status"
       value="[ Exists | Development planned ]"/>
-  <properties
-      key="eira:reusability"
-      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
   <properties
       key="eira:actual_reuse"
       value="[ Already reused | Reused planned | No]"/>
   <properties
-      key="dct:publisher"/>
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
   <properties
       key="dct:type"
       value="eira:DataPublicationComponent"/>
+  <properties
+      key="dct:publisher"/>
 </archimate:ApplicationComponent>

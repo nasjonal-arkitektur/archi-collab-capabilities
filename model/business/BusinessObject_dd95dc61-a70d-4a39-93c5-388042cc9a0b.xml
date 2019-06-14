@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architecture Building Block [ns:eira]"
+    name="Architecture Building Block"
     id="dd95dc61-a70d-4a39-93c5-388042cc9a0b">
   <properties
       key="difi:namespace"

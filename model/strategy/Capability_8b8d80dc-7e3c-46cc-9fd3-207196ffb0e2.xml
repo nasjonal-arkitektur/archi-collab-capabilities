@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06. Ability to transform protocol formats; e.g., from SOAP/HTTP to SOAP/Message Queue or SOAP/JMS [ns:togsoara]"
+    name="06. Ability to transform protocol formats; e.g., from SOAP/HTTP to SOAP/Message Queue or SOAP/JMS"
     id="8b8d80dc-7e3c-46cc-9fd3-207196ffb0e2">
   <properties
       key="difi:namespace"

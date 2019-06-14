@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ability to locate components implementing services [ns:togsoara]"
+    name="Ability to locate components implementing services"
     id="id-5926a960-83c6-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

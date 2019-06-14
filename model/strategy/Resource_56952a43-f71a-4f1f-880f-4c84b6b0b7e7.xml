@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integrated Development Environment (IDE) for Service Development [ns:togsoara]"
+    name="Integrated Development Environment (IDE) for Service Development"
     id="56952a43-f71a-4f1f-880f-4c84b6b0b7e7"
     documentation="This ABB helps define and develop Service Components and associated Functional and Technical Components. This includes service contracts and any other associated service metadata.">
   <properties

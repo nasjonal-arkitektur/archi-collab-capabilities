@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AP Provider (DC) Certificate [ns:toopra]"
+    name="AP Provider (DC) Certificate"
     id="6cf29ac0-58e8-489c-b030-0b44f741fed1">
   <properties
       key="difi:namespace"

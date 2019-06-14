@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="mandates [ns:eira]"
+    name="mandates"
     id="da82db71-2ada-4ba2-8ea3-17fe08052ad8">
   <properties
       key="difi:namespace"

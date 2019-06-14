@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="05. Ability to cluster services which are contained by the service provider to invoke layers such as the Integration Layer; this capability enables the Services Layer to support the QoS requirements with regard to response and reliability. Ability to distribute services which are contained by the service provider to invoke layers such as the Integration Layer  [ns:togsoara]"
+    name="05. Ability to cluster services which are contained by the service provider to invoke layers such as the Integration Layer; this capability enables the Services Layer to support the QoS requirements with regard to response and reliability. Ability to distribute services which are contained by the service provider to invoke layers such as the Integration Layer "
     id="76fba19d-c5d0-4384-8451-6dde313f5c25">
   <properties
       key="difi:namespace"

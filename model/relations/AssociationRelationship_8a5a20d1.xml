@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is signed by [ns:eira]"
+    name="is signed by"
     id="8a5a20d1"
     documentation="An [Interoperability Agreement] is signed by a [Public Service Provider]">
   <properties

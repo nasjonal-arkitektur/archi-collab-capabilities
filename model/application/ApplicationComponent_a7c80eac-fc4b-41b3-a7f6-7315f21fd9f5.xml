@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eSignature [ns:toopra]"
+    name="eSignature"
     id="a7c80eac-fc4b-41b3-a7f6-7315f21fd9f5">
   <properties
       key="difi:namespace"

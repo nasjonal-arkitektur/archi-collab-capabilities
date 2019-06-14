@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eDelivery [ns:toopra]"
+    name="eDelivery"
     id="53fb8f8c-1dba-4778-9c48-bc91ad325d7a">
   <properties
       key="difi:namespace"

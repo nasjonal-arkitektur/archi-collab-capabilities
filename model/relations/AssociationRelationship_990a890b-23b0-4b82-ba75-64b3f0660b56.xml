@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="influences [ns:eira]"
+    name="influences"
     id="990a890b-23b0-4b82-ba75-64b3f0660b56">
   <properties
       key="difi:namespace"

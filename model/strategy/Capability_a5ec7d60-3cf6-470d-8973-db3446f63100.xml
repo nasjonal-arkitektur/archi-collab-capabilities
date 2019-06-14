@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="77. Ability to check QoS requirements for valid configurations [ns:togsoara]"
+    name="77. Ability to check QoS requirements for valid configurations"
     id="a5ec7d60-3cf6-470d-8973-db3446f63100">
   <properties
       key="difi:namespace"

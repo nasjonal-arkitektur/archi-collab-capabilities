@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Provider [ns:dmbok2]"
+    name="Data Provider"
     id="6efaf649-35f9-4d99-b19d-a7c640286cd1">
   <properties
       key="difi:namespace"

@@ -1,28 +1,28 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Syntax Encoding Scheme [ns:eira]"
+    name="Syntax Encoding Scheme"
     id="f2bd293b"
     documentation="A set of strings and an associated set of rules that describe a mapping between that set of strings and a set of resources. The mapping rules may define how the string is structured or they may simply enumerate all the strings and the corresponding resources.&#xD;&#xA;&#xD;&#xA;Source: W3C&#xD;&#xA;http://www.w3.org/2000/01/rdf-schema#Datatype  &#xD;&#xA;&#xD;&#xA;Syn. Encoding format&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Guidelines for Dublin Core Application Profiles : date and language&#xD;&#xA;date: Because we want to perform automated operations like sorting on the date, we can select the Dublin Core property dcterms:date. This property can take a string value. We can indicate that the value string is formatted in accordance with the W3C Date and Time Formats specification by using syntax encoding scheme dcterms:W3CDTF.&#xD;&#xA;language: The language needs to be selected from a controlled list. We achieve this by requiring the use of three-letter codes listed in the international standard ISO 639-3 for the representation of names of languages (such as &quot;&quot;eng&quot;&quot; for &quot;&quot;English&quot;&quot;) together with the syntax encoding scheme dcterms:ISO639-3 as a datatype. For this, we can use the DCMI property dcterms:language, which can accommodate either an identifier for the language term or a string.&#xD;&#xA;http://dublincore.org/documents/profile-guidelines/  &#xD;&#xA;https://www.w3.org/TR/NOTE-datetime &#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="dct:modified"/>
-  <properties
-      key="eira:body"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
-  <properties
-      key="ID"
-      value="ABB184"/>
-  <properties
-      key="eira:identifier"/>
-  <properties
-      key="eira:url"/>
   <properties
       key="dct:type"
       value="eira:SyntaxEncodingScheme"/>
   <properties
-      key="dct:publisher"/>
+      key="eira:body"/>
+  <properties
+      key="ID"
+      value="ABB184"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
   <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:identifier"/>
 </archimate:BusinessObject>

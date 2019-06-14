@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Competent Authority [ns:toopra]"
+    name="Competent Authority"
     id="07f5d8ea-ed0d-4d61-9251-4a581edab47b">
   <properties
       key="difi:namespace"

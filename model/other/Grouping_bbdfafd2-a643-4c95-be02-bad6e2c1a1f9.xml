@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Message Processing [ns:togsoara]"
+    name="Message Processing"
     id="bbdfafd2-a643-4c95-be02-bad6e2c1a1f9"
     documentation="This category of capabilities provides the ability to perform the necessary message transformation to connect the service requestor to the service provider and to publish and subscribe messages and events asynchronously. ">
   <properties

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virtualized Infrastructure [ns:togsoara]"
+    name="Virtualized Infrastructure"
     id="e27fc5ed-4a8b-4e06-88cb-5555ed915548"
     documentation="This ABB supports the utilization of infrastructure in a virtualized manner by the operational and hosting runtime environment. Thus, the use of shared disk space in a cloud environment would be an example.">
   <properties

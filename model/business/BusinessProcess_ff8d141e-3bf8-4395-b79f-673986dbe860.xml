@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Update Service Offering [ns:toopra]"
+    name="Update Service Offering"
     id="ff8d141e-3bf8-4395-b79f-673986dbe860">
   <properties
       key="difi:namespace"

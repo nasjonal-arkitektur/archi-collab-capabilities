@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Extraction [ns:toopra]"
+    name="Evidence Extraction"
     id="75452608-5d5e-4fe8-8207-70cc6eaefa83">
   <properties
       key="difi:namespace"

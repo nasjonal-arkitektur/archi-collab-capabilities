@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="e32145ef-a1a5-4ba0-abd2-16ab48da0ba1"
     documentation="A [Public Service] implements a [Public Policy]">
   <properties

@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Identity [ns:toopra]"
+    name="User Identity"
     id="49b50319-f324-4994-827f-a0ab2bd894ae">
   <properties
       key="difi:namespace"

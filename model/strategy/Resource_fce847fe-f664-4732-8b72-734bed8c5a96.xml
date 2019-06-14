@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Solution Component [ns:togsoara]"
+    name="Solution Component"
     id="fce847fe-f664-4732-8b72-734bed8c5a96"
     documentation="This ABB represents realization of subsystems that represent logical groupings of functionality and associated functionally cohesive services. Its bill of material contains the Service Component, Functional Components, and Technical Components from the Service Component Layer realizing services that provide well-defined interfaces for the subsystems. For example, it could be an invocation of a legacy component, or an existing or new database request, application, or a component wrapped within a Commercial Off-The-Shelf (COTS) package. Thus, it is a runtime instantiation of a group of cohesive components residing within a subsystem that collectively provide an implementation for a set of related services.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06. Ability to validate records against defined business rules [ns:togsoara]"
+    name="06. Ability to validate records against defined business rules"
     id="513767f1-8e4b-4f73-8e6b-a8b69f7e1082">
   <properties
       key="difi:namespace"

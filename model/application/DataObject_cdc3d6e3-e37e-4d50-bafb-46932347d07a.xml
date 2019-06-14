@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP Routing Metadata [ns:toopra]"
+    name="DP Routing Metadata"
     id="cdc3d6e3-e37e-4d50-bafb-46932347d07a">
   <properties
       key="difi:namespace"

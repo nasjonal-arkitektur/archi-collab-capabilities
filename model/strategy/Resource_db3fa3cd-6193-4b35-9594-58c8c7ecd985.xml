@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Auditor [ns:null]"
+    name="Auditor"
     id="db3fa3cd-6193-4b35-9594-58c8c7ecd985"
     documentation="This ABB is responsible for tracking and monitoring the message routing and service invocation activities. It supports the capture of audit data, the conversion to standard formats such as XDAS and CBE, the encryption of that data during transport, and the obfuscation of sensitive data."/>

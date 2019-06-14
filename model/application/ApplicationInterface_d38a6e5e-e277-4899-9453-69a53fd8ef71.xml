@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Legal Entity Authentication Interface [ns:toopra]"
+    name="Legal Entity Authentication Interface"
     id="d38a6e5e-e277-4899-9453-69a53fd8ef71">
   <properties
       key="difi:namespace"

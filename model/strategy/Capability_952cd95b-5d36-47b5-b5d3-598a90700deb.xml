@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Architecture [ns:dmbok2]"
+    name="Data Architecture"
     id="952cd95b-5d36-47b5-b5d3-598a90700deb"
     documentation="Data Architecture defines the blueprint for managing data assets by aligning with organizational strategy to establish strategic data requirements and designs to meet these requirements&#x9;">
   <properties

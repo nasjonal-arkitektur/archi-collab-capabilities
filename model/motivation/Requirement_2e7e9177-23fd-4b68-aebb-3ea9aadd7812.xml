@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP checks legal conformity [ns:toopra]"
+    name="DP checks legal conformity"
     id="2e7e9177-23fd-4b68-aebb-3ea9aadd7812">
   <properties
       key="difi:namespace"

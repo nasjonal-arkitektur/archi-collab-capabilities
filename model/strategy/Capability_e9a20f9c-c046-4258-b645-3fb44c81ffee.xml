@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="14. Ability to encapsulate/isolate the decisions and rules affecting those decisions associated with the execution of a business process from the actual process flow itself  [ns:togsoara]"
+    name="14. Ability to encapsulate/isolate the decisions and rules affecting those decisions associated with the execution of a business process from the actual process flow itself "
     id="e9a20f9c-c046-4258-b645-3fb44c81ffee">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Approval [ns:toopra]"
+    name="User Approval"
     id="940da01b-7e00-4bd0-a91b-050cff2a07ae">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SMP [ns:toopra]"
+    name="SMP"
     id="45c246e9-0865-4e20-a1e1-32e5724c56f2">
   <properties
       key="difi:namespace"

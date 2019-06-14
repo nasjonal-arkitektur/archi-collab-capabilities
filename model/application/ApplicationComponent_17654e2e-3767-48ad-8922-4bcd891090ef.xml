@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Provider System [ns:toopra]"
+    name="Data Provider System"
     id="17654e2e-3767-48ad-8922-4bcd891090ef">
   <properties
       key="difi:namespace"

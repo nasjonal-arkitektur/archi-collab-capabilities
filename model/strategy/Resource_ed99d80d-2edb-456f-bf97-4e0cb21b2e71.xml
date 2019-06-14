@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Runtime Hosting Environment [ns:togsoara]"
+    name="Runtime Hosting Environment"
     id="ed99d80d-2edb-456f-bf97-4e0cb21b2e71"
     documentation="This ABB provides support for operational and runtime services. These include software services such as the operating system instance on which the Solution Platforms run, as well as underlying infrastructural services such as hardware support, memory, storage, networks, etc.">
   <properties

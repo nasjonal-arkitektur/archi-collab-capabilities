@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Archiving data [ns:dmbok2]"
+    name="Archiving data"
     id="5cf87329-b195-4935-9014-367709fbccbc">
   <properties
       key="difi:namespace"

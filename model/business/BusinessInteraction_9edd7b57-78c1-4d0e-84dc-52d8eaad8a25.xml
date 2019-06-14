@@ -1,6 +1,6 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Request Exchange [ns:toopra]"
+    name="Evidence Request Exchange"
     id="9edd7b57-78c1-4d0e-84dc-52d8eaad8a25">
   <properties
       key="difi:namespace"

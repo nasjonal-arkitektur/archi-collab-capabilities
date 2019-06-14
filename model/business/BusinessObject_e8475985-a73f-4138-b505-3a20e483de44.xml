@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Directory of OOP Data Producers [ns:toopra]"
+    name="Directory of OOP Data Producers"
     id="e8475985-a73f-4138-b505-3a20e483de44">
   <properties
       key="difi:namespace"

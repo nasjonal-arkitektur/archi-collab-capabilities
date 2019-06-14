@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="10. Ability to ensure appropriate authorization based on proper roles [ns:togsoara]"
+    name="10. Ability to ensure appropriate authorization based on proper roles"
     id="4bfdce3d-5769-4803-ac4b-fe62bb2584ed">
   <properties
       key="difi:namespace"

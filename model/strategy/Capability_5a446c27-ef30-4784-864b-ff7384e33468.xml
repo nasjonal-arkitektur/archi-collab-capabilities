@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="12. Ability to handle data transformation (including transformation of data types and contents) and to aggregate data from multiple data sources [ns:togsoara]"
+    name="12. Ability to handle data transformation (including transformation of data types and contents) and to aggregate data from multiple data sources"
     id="5a446c27-ef30-4784-864b-ff7384e33468">
   <properties
       key="difi:namespace"

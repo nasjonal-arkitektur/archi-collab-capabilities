@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AS Access Point (DP) [ns:toopra]"
+    name="AS Access Point (DP)"
     id="cc12d8d6-c823-446d-88e2-122f2f0817c8">
   <properties
       key="difi:namespace"

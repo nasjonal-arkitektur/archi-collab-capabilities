@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Process [ns:togsoara]"
+    name="Business Process"
     id="a0acb8ee-09a6-4325-a0ff-4ce820f227e2"
     documentation="This ABB represents a process that a business performs. This ABB is one of the core fundamental ABBs in the SOA RA. Business process is one of the fundamental constructs of an SOA solution and analysis and design based on the service-oriented paradigm.">
   <properties

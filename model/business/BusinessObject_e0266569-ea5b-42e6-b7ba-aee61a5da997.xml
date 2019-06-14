@@ -1,30 +1,30 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Binding Instrument [ns:eira]"
+    name="Binding Instrument"
     id="e0266569-ea5b-42e6-b7ba-aee61a5da997"
     documentation="DESCRIPTION:&#xD;&#xA;Legal means, involving an obligation, which are available to the European institutions to carry out their tasks. The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are:&#xA;• regulations: these are binding in their entirety and directly applicable in all EU countries;&#xA;• directives: these bind the EU countries as to the results to be achieved; they have to be transposed into the national legal framework and thus leave margin for manoeuvre as to the form and means of implementation;&#xA;• decisions: these are fully binding on those to whom they are addressed.&#xA;&#xA;Based on EUR-Lex&#xA;http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html &#xA;&#xD;&#xA;The binding legal instruments that make up the secondary legislation of the EU are Regulations, Directives and Decisions.  As set out in Article 288 of the Treaty on the Functioning of the European Union:&#xD;&#xA;- A Regulation shall have general application. It shall be binding in its entirety and directly applicable in&#xD;&#xA;all Member States.&#xD;&#xA;- A Directive shall be binding, as to the result to be achieved, upon each Member State to which it is&#xD;&#xA;addressed, but shall leave to the national authorities the choice of form and methods.&#xD;&#xA;- A Decision shall be binding in its entirety. A Decision which specifies those to whom it is addressed&#xD;&#xA;shall be binding only on them.&#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://ox.libguides.com/c.php?g=422926&amp;p=2888217&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Binding Instrument ABB is a key interoperability enabler as a specialisation of the Legal Act.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xA;&#xA;Decision No 922/2009/EC of the European Parliament and of the Council of 16 September 2009 on interoperability solutions for European public administrations (ISA) &#xA; 1. This Decision establishes, for the period 2010-2015, a programme on interoperability solutions for European public administrations, including local and regional administrations and Community institutions and bodies, providing common and   shared solutions facilitating interoperability (the ISA programme).&#xA; 2. The objective of the ISA programme is to support cooperation between European public administrations by facilitating the efficient and effective electronic cross-border and cross-sectoral interaction between such administrations, including   bodies performing public functions on their behalf, enabling the delivery of electronic public services supporting the implementation of Community policies and activities.&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32009D0922 &#xA;">
   <properties
-      key="ID"
-      value="ABB17"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
-  <properties
-      key="dct:publisher"/>
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
   <properties
       key="dct:type"
       value="eira:BindingInstrument"/>
   <properties
-      key="dct:spatial"
-      value="[ EU | National | Sub-national ]"/>
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="dct:publisher"/>
   <properties
       key="dct:description"/>
   <properties
       key="eira:implementation_supported_by_a_TES"
       value="[ Yes | No ]"/>
   <properties
-      key="eira:supporting_a_TES"
-      value="[ Yes | No ]"/>
+      key="ID"
+      value="ABB17"/>
   <properties
       key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
 </archimate:BusinessObject>

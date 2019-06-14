@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technical Component [ns:togsoara]"
+    name="Technical Component"
     id="4e0a5978-2e3b-4625-9eb5-096389cb9d23"
     documentation="This ABB provides abstraction of infrastructure to support Functional Components.">
   <properties

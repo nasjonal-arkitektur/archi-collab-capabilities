@@ -1,20 +1,20 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reusability [ns:eira]"
+    name="Reusability"
     id="46032c1a"
     documentation="EIF Underlying principle 4: reusability&#xA;&#xA;Reuse means that public administrations confronted with a specific problem seek to benefit from the work of others by looking at what is available, assessing its usefulness or relevance to the problem at hand, and where appropriate, adopting solutions that have proven their value elsewhere. This requires the public administration to be open to sharing its interoperability solutions, concepts, frameworks, specifications, tools and components with others.&#xA;&#xA;Reusability of IT solutions (e.g. software components, Application Programming Interfaces, standards), information and data, is an enabler of interoperability and improves quality because it extends operational use, as well as saving money and time. This makes it a major contributor to the development of a digital single market in the EU. Some EU standards and specifications also exist in the DIFs and should be applied more widely. For example, the INSPIRE Directive sets out interoperability standards for addresses, cadastres, roads and many other data topics of relevance to many public administrations. These existing standards and specifications can and should be used more widely beyond the domain for which they were originally developed.&#xA;&#xA;Several public administrations and governments across the EU already promote sharing and reuse of IT solutions by adopting new business models, promoting the use of open source software for key ICT services and when deploying digital service infrastructure.&#xA;&#xA;There are some key challenges that limit the sharing and reuse of IT solutions, at technical, organisational, legal and communication levels. The ISA² sharing and reuse framework for IT solutions12 provides recommendations for public administrations to help them overcome these challenges and share/reuse common IT solutions. Reuse and sharing can be effectively supported by collaborative platforms.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.">
   <properties
-      key="ID"
-      value="ABB304"/>
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"
+      value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
   <properties
       key="dct:type"
       value="eira:EIFPrinciple"/>
   <properties
-      key="dct:modified"/>
+      key="ID"
+      value="ABB304"/>
   <properties
       key="difi:namespace"
       value="eira"/>
-  <properties
-      key="dct:publisher"
-      value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
 </archimate:Principle>

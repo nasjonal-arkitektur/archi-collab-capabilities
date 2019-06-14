@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Quality [ns:dmbok2]"
+    name="Data Quality"
     id="3ec7d16b-e53e-4bc3-b11f-c59334f02bca"
     documentation="Data Quality includes the planning and implementation of quality management techniques to measure, assess, and improve the fitness of data for use within an organization.">
   <properties

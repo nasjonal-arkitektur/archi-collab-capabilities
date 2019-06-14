@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Offering Management Service [ns:toopra]"
+    name="Offering Management Service"
     id="33dd7813-ebe0-4cab-9d16-b121cc6381a3">
   <properties
       key="difi:namespace"

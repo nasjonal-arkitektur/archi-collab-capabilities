@@ -1,20 +1,20 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User-centricity [ns:eira]"
+    name="User-centricity"
     id="02986314"
     documentation="EIF Underlying principle 6: user-centricity&#xA;&#xA;Users of European public services are meant to be any public administration, citizen or businesses accessing and benefiting from the use of these services. Users’ needs should be considered when determining which public services should be provided and how they should be delivered.&#xA;Therefore, as far as possible, user needs and requirements should guide the design and development of public services, in accordance with the following expectations:&#xA;* A multi-channel service delivery approach, meaning the availability of alternative channels, physical and digital, to access a service, is an important part of public service design, as users may prefer different channels depending on the circumstances and their needs;&#xA;* A single point of contact should be made available to users, to hide internal administrative complexity and facilitate access to public services, e.g. when multiple bodies have to work together to provide a public service;&#xA;* Users’ feedback should be systematically collected, assessed and used to design new public services and to further improve existing ones;&#xA;* As far as possible, under the legislation in force, users should be able to provide data once only, and administrations should be able to retrieve and share this data to serve the user, in accordance with data protection rules;&#xA;* Users should be asked to provide only the information that is absolutely necessary to obtain a given public service.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.">
   <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="ID"
+      value="ABB306"/>
+  <properties
+      key="dct:modified"/>
   <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
   <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
       key="dct:type"
       value="eira:EIFPrinciple"/>
-  <properties
-      key="dct:modified"/>
-  <properties
-      key="ID"
-      value="ABB306"/>
 </archimate:Principle>

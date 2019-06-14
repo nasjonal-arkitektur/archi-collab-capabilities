@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Publisher [ns:togsoara]"
+    name="Service Publisher"
     id="ad43cfc1-2e24-487c-a68b-d9277b4c15d5"
     documentation="This ABB publishes Service Component design-time metadata and description to a design-time Service Repository ABB in the Governance Layer.">
   <properties

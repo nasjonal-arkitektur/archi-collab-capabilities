@@ -1,30 +1,30 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digital Service Infrastructure [ns:eira]"
+    name="Digital Service Infrastructure"
     id="5973cbab"
     documentation="DESCRIPTION:&#xD;&#xA;Infrastructure which enable networked services to be delivered electronically, typically over the internet, providing trans-European interoperable services of common interest for citizens, businesses  and/or public authorities, and which are composed of core service platforms and generic services&#xD;&#xA;&#xD;&#xA;Source: Regulation (EU) No 283/2014&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0283&amp;from=EN  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Digital Infrastructure Service ABB  is salient for technical interoperability because it a central element through which interoperability is ensured and by definition, as intended in the EIRA, Digital Service Infrastructure provide trans-European interoperable services.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;CEF Digital Service Infrastructure for eHealth&#xD;&#xA;eHealth refers to tools and services using information and communication technologies (ICTs) that can improve prevention, diagnosis, treatment, monitoring and management. So far the Digital Service Infrastructure for eHealth is planned to support several services:&#xD;&#xA;- Cross-border patient summary service&#xD;&#xA;- ePrescriptions and eDispensations&#xD;&#xA;In the future, two other services, the European Reference Networks and Interoperable Patient registries might be deployed.&#xD;&#xA;https://webgate.ec.europa.eu/sanco-xmlgate/Login.jsp &#xD;&#xA;">
-  <properties
-      key="dct:modified"/>
-  <properties
-      key="dct:references"/>
-  <properties
-      key="dct:publisher"/>
   <properties
       key="eira:status"
       value="[ Exists | Development planned ]"/>
   <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:modified"/>
+  <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
-  <properties
-      key="dct:type"
-      value="eira:DigitalServiceInfrastructure"/>
-  <properties
-      key="ID"
-      value="ABB188"/>
   <properties
       key="eira:reusability"
       value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
   <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="ID"
+      value="ABB188"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalServiceInfrastructure"/>
+  <properties
+      key="dct:references"/>
+  <properties
+      key="dct:publisher"/>
 </archimate:ApplicationComponent>

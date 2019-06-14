@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Aggregator [ns:togsoara]"
+    name="Data Aggregator"
     id="fb723ab1-a178-4a99-9c18-450a5184b490"
     documentation="This ABB is responsible for efficiently joining information – for example, structured and unstructured data – from multiple sources without creating data redundancy to help form a unified data view/model supported by the Data Virtualization Manager ABB.&#xD;&#xA;&#xD;&#xA;Its responsibilities include:&#xD;&#xA;&#xD;&#xA;* Dispatching requests to other ABBs in the Information Layer&#xD;&#xA;* Invoking the Data Virtualization Manager ABB for handling data transformation (including transformation of data types and contents); and aggregating data from multiple data sources to provide a unified format and model to other ABBs and consumers of information services&#xD;&#xA;* Invoking the Data Validator ABB to validate against business rules&#xD;&#xA;* Invoking the Data Quality Manager ABB for enforcing data quality rules&#xD;&#xA;* Invoking the Event Manager ABB in the Quality of Service Layer for triggering event notification based on data ">
   <properties

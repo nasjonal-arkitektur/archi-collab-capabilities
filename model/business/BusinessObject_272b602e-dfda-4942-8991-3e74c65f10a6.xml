@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Public Service Manifestation [ns:eira]"
+    name="Public Service Manifestation"
     id="272b602e-dfda-4942-8991-3e74c65f10a6"
     documentation="A behavioural EIRA Architecture Building Block">
   <properties

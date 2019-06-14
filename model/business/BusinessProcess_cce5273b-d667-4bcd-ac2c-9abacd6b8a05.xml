@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Execute Once Only Principle [ns:toopra]"
+    name="Execute Once Only Principle"
     id="cce5273b-d667-4bcd-ac2c-9abacd6b8a05">
   <properties
       key="difi:namespace"

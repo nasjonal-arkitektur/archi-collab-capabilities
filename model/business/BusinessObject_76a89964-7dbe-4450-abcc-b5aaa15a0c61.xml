@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EIRA Architecture Building Block [ns:eira]"
+    name="EIRA Architecture Building Block"
     id="76a89964-7dbe-4450-abcc-b5aaa15a0c61"
     documentation="A component or agent salient for the interoperability of a public service.">
   <properties

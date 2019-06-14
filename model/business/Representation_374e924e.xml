@@ -1,19 +1,19 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Representation [ns:eira]"
+    name="Representation"
     id="374e924e"
     documentation="DESCRIPTION:&#xD;&#xA;The perceptible form of the information carried by a business object. If relevant, representations can be classified in various ways; for example, in terms of medium (electronic, paper, audio, etc.) or format (HTML, ASCII, PDF, RTF, etc.). &#xD;&#xA;This ABB is a key interoperability enabler (*) for assessing compatible interpretations of Data. &#xD;&#xA;&#xD;&#xA;Source: ArchiMate® v3&#xD;&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap08.html  &#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ESPD data - XML representation&#xD;&#xA;European Single Procurement Document (ESPD) is a self-declaration of the businesses' financial status, abilities and suitability for a public procurement procedure. It is available in all EU languages and used as a preliminary evidence of fulfilment of the conditions required in public procurement procedures across the EU. Thanks to the ESPD, the tenderers no longer have to provide full documentary evidence and different forms previously used in the EU procurement, which means a significant simplification of access to cross-border tendering opportunities. [...] The online form can be filled in, printed and then sent to the buyer together with the rest of the bid.&#xD;&#xA;https://ec.europa.eu/tools/espd/filter?lang=en &#xD;&#xA;">
   <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="dct:type"
+      value="eira:Representation"/>
   <properties
       key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
   <properties
       key="ID"
       value="ABB182"/>
   <properties
-      key="dct:modified"/>
-  <properties
-      key="dct:type"
-      value="eira:Representation"/>
+      key="difi:namespace"
+      value="eira"/>
 </archimate:Representation>

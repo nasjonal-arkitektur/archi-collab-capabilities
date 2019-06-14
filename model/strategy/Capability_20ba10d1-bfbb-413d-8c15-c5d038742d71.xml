@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Acquisition [ns:dmbok2]"
+    name="Data Acquisition"
     id="20ba10d1-bfbb-413d-8c15-c5d038742d71">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Ontology [ns:toopra]"
+    name="Evidence Ontology"
     id="9d724955-2516-456f-9d6d-6081235215fe">
   <properties
       key="difi:namespace"

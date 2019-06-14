@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="07. Ability to validate and enforce data quality rules [ns:togsoara]"
+    name="07. Ability to validate and enforce data quality rules"
     id="b7117b82-579e-44aa-9cd3-db77aa941e6f">
   <properties
       key="difi:namespace"

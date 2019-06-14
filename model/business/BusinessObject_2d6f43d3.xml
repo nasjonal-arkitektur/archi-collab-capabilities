@@ -1,22 +1,22 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Legislation Catalogue [ns:eira]"
+    name="Legislation Catalogue"
     id="2d6f43d3"
     documentation="DESCRIPTION:&#xD;&#xA;Inventory of legal documents. &#xD;&#xA;This ABB is a key interoperability enabler (*) enabling sharing/PROVISIONING and reusing/CONSUMPTION LEGAL documents &#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015  establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xD;&#xA;&#xD;&#xA;Based on IATE (definition of catalogue, entry Documentation [COM])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;Syn. Official Journal &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Legislation Catalogue ABB  is a key interoperability enabler because it helps achieve legal interoperability by ensuring  the provision/consumption of legal texts. Catalogues are also key element of the EIF &quot;Integrated Public Service Governance&quot; conceptual model. According to the EIF Recommendation n. 44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUR-Lex &#xD;&#xA;EUR-Lex provides free access, in the 24 official EU languages, to:&#xD;&#xA;&#xD;&#xA;• the authentic Official Journal of the European Union&#xD;&#xA;• EU law (EU treaties, directives, regulations, decisions, consolidated legislation, etc.)&#xD;&#xA;• preparatory acts (legislative proposals, reports, green and white papers, etc.)&#xD;&#xA;• EU case-law (judgments, orders, etc.)&#xD;&#xA;• international agreements&#xD;&#xA;• EFTA documents&#xD;&#xA;• summaries of EU legislation, which put legal acts into a policy context, explained in plain language&#xD;&#xA;• other public documents.&#xD;&#xA;&#xD;&#xA;It also allows you to follow the procedures leading to the adoption of legal acts. &#xD;&#xA;http://eur-lex.europa.eu/ &#xD;&#xA;">
-  <properties
-      key="eira:synonym"
-      value="Official Journal"/>
-  <properties
-      key="dct:type"
-      value="eira:LegislationCatalogue"/>
   <properties
       key="dct:modified"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="dct:publisher"/>
-  <properties
       key="ID"
       value="ABB165"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:synonym"
+      value="Official Journal"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationCatalogue"/>
 </archimate:BusinessObject>

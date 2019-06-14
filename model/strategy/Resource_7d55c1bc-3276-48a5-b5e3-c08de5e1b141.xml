@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Factory [ns:togsoara]"
+    name="Process Factory"
     id="7d55c1bc-3276-48a5-b5e3-c08de5e1b141"
     documentation="This ABB is responsible for creating instances of deployed processes in the process container.">
   <properties

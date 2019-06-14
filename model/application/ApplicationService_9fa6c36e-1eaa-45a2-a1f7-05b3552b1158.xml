@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seal the AS4 message [ns:toopra]"
+    name="Seal the AS4 message"
     id="9fa6c36e-1eaa-45a2-a1f7-05b3552b1158">
   <properties
       key="difi:namespace"

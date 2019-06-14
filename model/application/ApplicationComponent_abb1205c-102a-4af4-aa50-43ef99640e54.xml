@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Semantic Service [ns:toopra]"
+    name="Semantic Service"
     id="abb1205c-102a-4af4-aa50-43ef99640e54">
   <properties
       key="difi:namespace"

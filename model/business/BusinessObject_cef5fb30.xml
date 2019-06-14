@@ -1,22 +1,22 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Specification [ns:eira]"
+    name="Specification"
     id="cef5fb30"
     documentation="A Specification is  a document that states requirements. A specification can be related to activities (e.g. procedure document, process specification and test specification), or products  (e.g. product specification, performance specification and drawing). [ISO 9000:2005] &#xA;&#xA;Source : https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-3:v1:en:term:3.7.3">
   <properties
-      key="dct:type"
-      value="eira:Specification"/>
-  <properties
       key="dct:publisher"/>
-  <properties
-      key="dct:modified"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="eira:ABB_Status"
-      value="Obsolete"/>
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:Specification"/>
   <properties
       key="ID"
       value="ABB163"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
 </archimate:BusinessObject>

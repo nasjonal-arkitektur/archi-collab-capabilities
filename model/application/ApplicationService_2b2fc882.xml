@@ -1,13 +1,14 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forms Management Service [ns:eira]"
+    name="Forms Management Service"
     id="2b2fc882"
     documentation="DESCRIPTION:&#xD;&#xA;Shares the functionalities of i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;Syn. e-Forms Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Forms Management Service ABB  is salient for technical interoperability because it provides and shares the functionalities  of dynamic creation, distribution and analysis of forms and online surveys as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EACEA e-Forms&#xD;&#xA;Electronic Application Forms - eForms&#xD;&#xA;This page contains the resources and information required by applicants who wish to complete and submit an electronic application form (eForm) for a funding opportunity or for an accreditation.&#xD;&#xA;The programmes and actions are listed for which electronic application forms are currently available. The Application eForm homepage is where applicants for funding and applicants for accreditation must follow a series of steps in order to create their new application.&#xD;&#xA;https://eacea.ec.europa.eu/about-eacea/electronic-application-forms-eforms_en &#xD;&#xA;">
   <properties
-      key="eira:reusability"
-      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
   <properties
-      key="dct:modified"/>
+      key="difi:namespace"
+      value="eira"/>
   <properties
       key="ID"
       value="ABB49"/>
@@ -15,14 +16,13 @@
       key="dct:type"
       value="eira:FormsManagementService"/>
   <properties
-      key="difi:namespace"
-      value="eira"/>
-  <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
   <properties
-      key="dct:publisher"/>
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
   <properties
-      key="eira:status"
-      value="[ Exists | Development planned ]"/>
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
 </archimate:ApplicationService>

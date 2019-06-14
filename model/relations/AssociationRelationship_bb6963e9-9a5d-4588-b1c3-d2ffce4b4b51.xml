@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="sealed using [ns:toopra]"
+    name="sealed using"
     id="bb6963e9-9a5d-4588-b1c3-d2ffce4b4b51">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capability Registration [ns:toopra]"
+    name="Capability Registration"
     id="63cbf999-827c-4c8c-9fec-dd3dd4251173">
   <properties
       key="difi:namespace"

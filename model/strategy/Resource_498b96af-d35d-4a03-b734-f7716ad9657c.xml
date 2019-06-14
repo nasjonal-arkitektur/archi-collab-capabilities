@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applications (Packaged and Custom) [ns:togsoara]"
+    name="Applications (Packaged and Custom)"
     id="498b96af-d35d-4a03-b734-f7716ad9657c"
     documentation="This ABB represents the applications that are running as units of execution within the runtime environment.">
   <properties

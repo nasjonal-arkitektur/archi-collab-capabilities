@@ -1,19 +1,19 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Key Interoperability Enablers [ns:eira]"
+    name="Key Interoperability Enablers"
     id="10bbd820">
   <properties
-      key="ID"
-      value="ABB331"/>
+      key="dct:modified"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="dct:publisher"
-      value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
+      key="ID"
+      value="ABB331"/>
   <properties
       key="dct:type"
       value="eira:Assessment"/>
   <properties
-      key="dct:modified"/>
+      key="dct:publisher"
+      value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
 </archimate:Assessment>

@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:toopra]"
     id="6e3f49a2-dbb1-4fdd-9bfd-6f490dd4dc00">
   <properties
       key="difi:namespace"

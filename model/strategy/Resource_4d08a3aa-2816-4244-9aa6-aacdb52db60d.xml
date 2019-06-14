@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integration Layer: Event Producer [ns:togsoara]"
+    name="Integration Layer: Event Producer"
     id="4d08a3aa-2816-4244-9aa6-aacdb52db60d"
     documentation="See Event Producer ABB in the Integration Layer.">
   <properties

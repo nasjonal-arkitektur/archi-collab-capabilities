@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integration Layer: Data Transformer [ns:togsoara]"
+    name="Integration Layer: Data Transformer"
     id="7dc25b64-a4dd-4739-b70d-bbbbb8bf644b"
     documentation="See Data Transformer ABB in the Integration Layer.">
   <properties

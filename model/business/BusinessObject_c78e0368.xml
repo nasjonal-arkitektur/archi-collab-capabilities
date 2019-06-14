@@ -1,28 +1,28 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identifier Scheme [ns:eira]"
+    name="Identifier Scheme"
     id="c78e0368"
     documentation="Defines the values of an identifier.&#xD;&#xA;&#xD;&#xA;Source: CEN BII&#xD;&#xA;http://spec.cenbii.eu/ &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;UUID&#xD;&#xA;A UUID is an identifier that is unique across both space and time, with respect to the space of all UUIDs. Since a UUID is a fixed size and contains a time field, it is possible for values to rollover.  A UUID can be used for multiple purposes, from tagging objects with an extremely short lifetime, to reliably identifying very persistent objects across a network. The internal representation of a UUID is a specific sequence of bits in memory, as described in Section 4.  To accurately represent a UUID as a URN, it is necessary to convert the bit sequence to a string representation. Each field is treated as an integer and has its value printed as a zero-filled hexadecimal digit string with the most significant digit first.  The hexadecimal values &quot;a&quot; through &quot;f&quot; are output as lower case characters and are case insensitive on input.&#xD;&#xA;https://tools.ietf.org/html/rfc4122 &#xD;&#xA;">
-  <properties
-      key="eira:url"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
-  <properties
-      key="eira:body"/>
   <properties
       key="dct:modified"/>
   <properties
       key="dct:type"
       value="eira:IdentifierScheme"/>
   <properties
-      key="ID"
-      value="ABB29"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
   <properties
+      key="dct:publisher"/>
+  <properties
+      key="ID"
+      value="ABB29"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:url"/>
+  <properties
       key="eira:identifier"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
 </archimate:BusinessObject>

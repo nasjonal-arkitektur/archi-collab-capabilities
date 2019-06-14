@@ -1,32 +1,32 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Public Policy [ns:eira]"
+    name="Public Policy"
     id="31a9b3c6-84c4-4916-96fd-6a1bbb2ef707"
     documentation="DESCRIPTION:&#xD;&#xA;Action taken by a public authority to bring about social change in the medium and long term. It is based on certain values and objectives and is implemented using a variety of methods. It applies on the territory within which the authority is authorised to act.&#xA;&#xA;Based on EuroVoc&#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en &#xA;&#xA;The policies; overview of EU activities in all areas, from agriculture to transport: http://ec.europa.eu/policies/index_en.htm&#xA;&#xA;Syn. Policy Action&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Policy ABB  is salient for legal interoperability because it drives the production and formulation of legislation, and it is one of the main context elements to be taken into account when organisation need to work together, as stated in the EIF: &quot;Legal interoperability is about ensuring that organisations operating under different legal frameworks, policies and strategies are able to work together&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xA;&#xA;Common Agricultural Policy (CAP)&#xA;The common agricultural policy (CAP) – one of Europe’s oldest policies – has evolved along with the EU. Today's CAP supports a modern, market-oriented farming sector ensuring the provision of safe, affordable, high quality food, produced sustainably and respecting strict standards (environmental, animal welfare, food safety, etc.), as well as supporting investment in the broader rural economy. &#xA;https://ec.europa.eu/info/strategy/agriculture_en &#xA;">
   <properties
-      key="dct:modified"/>
-  <properties
-      key="ID"
-      value="ABB9"/>
-  <properties
-      key="dct:spatial"
-      value="[ EU | National | Sub-national ]"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
-      key="eira:synonym"
-      value="Policy Action"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="eira: policy area"/>
   <properties
       key="dct:type"
       value="eira:PublicPolicy"/>
   <properties
-      key="eira:status"
-      value="[ Currently supported | Future extension ]"/>
+      key="eira:synonym"
+      value="Policy Action"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
   <properties
       key="eira:specific_policy_issue"/>
   <properties
-      key="eira: policy area"/>
+      key="dct:publisher"/>
+  <properties
+      key="ID"
+      value="ABB9"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="eira:status"
+      value="[ Currently supported | Future extension ]"/>
 </archimate:CourseOfAction>

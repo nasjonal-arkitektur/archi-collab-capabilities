@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BDXL [ns:toopra]"
+    name="BDXL"
     id="c27c7d63-4421-47d3-b909-179d2ebd199d">
   <properties
       key="difi:namespace"

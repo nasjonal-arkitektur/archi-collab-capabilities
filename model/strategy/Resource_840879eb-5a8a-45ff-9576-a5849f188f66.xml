@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Implementation Adapter [ns:togsoara]"
+    name="Service Implementation Adapter"
     id="840879eb-5a8a-45ff-9576-a5849f188f66"
     documentation="This ABB interfaces with the Operational Systems Layer and passes on the service call to the Operational Systems Layer in a form that is compliant with the Solutions Platform in the Operational Systems Layer, where the underlying Solution Components for the service are housed.">
   <properties

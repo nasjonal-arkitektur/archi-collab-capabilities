@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="328ee8ff-6202-4b76-a87d-6674a4ed676f"
     documentation="The goal of  [Achieving Legal Interoperability] is assessed by the use of [Legislation Catalogues] that are used for provisioning/consuming legal texts.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="01. Ability to take a service call and messages to the end-point; i.e., to enable a service consumer to connect/interact with service providers [ns:togsoara]"
+    name="01. Ability to take a service call and messages to the end-point; i.e., to enable a service consumer to connect/interact with service providers"
     id="dd214249-6a25-4b64-9b0f-35f13fa9b8b5">
   <properties
       key="difi:namespace"

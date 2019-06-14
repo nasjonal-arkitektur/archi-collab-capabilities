@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ask User Confirmation for Evidence Retrieval [ns:toopra]"
+    name="Ask User Confirmation for Evidence Retrieval"
     id="5784b50a-20f4-422a-8ada-fa411ec90f3b">
   <properties
       key="difi:namespace"

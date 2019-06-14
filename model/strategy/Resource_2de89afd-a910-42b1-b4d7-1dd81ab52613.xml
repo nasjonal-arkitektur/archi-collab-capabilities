@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Analytics Visualization Engine [ns:togsoara]"
+    name="Analytics Visualization Engine"
     id="2de89afd-a910-42b1-b4d7-1dd81ab52613"
     documentation="This ABB is responsible for providing interactive visualization of analytics results and data analysis leading to better analyses, faster decisions, and more effective presentation of analytic results. It provides charting and graphing functionality, spatial dashboard reporting such as for scorecard reporting, spatial analysis, and rendering for interaction with components that provide user presentation.">
   <properties

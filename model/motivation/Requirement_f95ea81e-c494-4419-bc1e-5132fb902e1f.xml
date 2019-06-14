@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DC processes retrieved Evidence [ns:toopra]"
+    name="DC processes retrieved Evidence"
     id="f95ea81e-c494-4419-bc1e-5132fb902e1f">
   <properties
       key="difi:namespace"

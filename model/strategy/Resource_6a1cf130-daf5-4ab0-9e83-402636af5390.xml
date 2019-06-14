@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Federator [ns:togsoara]"
+    name="Data Federator"
     id="6a1cf130-daf5-4ab0-9e83-402636af5390"
     documentation="This ABB is responsible for providing Enterprise Information Integration (EII) capabilities for federated query access to structured and unstructured data.">
   <properties

@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is provided by [ns:eira]"
+    name="is provided by"
     id="a77e62a8"
     documentation="A [Human Interface] provides [Representations] of data.">
   <properties

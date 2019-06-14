@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="32. Ability to access control and apply security policies for governance processes [ns:togsoara]"
+    name="32. Ability to access control and apply security policies for governance processes"
     id="e4302c47-5386-42a0-901d-c23082752c29">
   <properties
       key="difi:namespace"

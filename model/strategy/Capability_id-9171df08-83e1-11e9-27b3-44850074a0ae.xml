@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="21. Ability to provide a single point of control for security of the Operational Systems Layer [ns:togsoara]"
+    name="21. Ability to provide a single point of control for security of the Operational Systems Layer"
     id="id-9171df08-83e1-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

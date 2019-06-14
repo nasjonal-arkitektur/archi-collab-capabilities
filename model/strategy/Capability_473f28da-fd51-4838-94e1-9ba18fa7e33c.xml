@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="14. Ability to monitor and audit access to resources for unauthorized or unacceptable use [ns:togsoara]"
+    name="14. Ability to monitor and audit access to resources for unauthorized or unacceptable use"
     id="473f28da-fd51-4838-94e1-9ba18fa7e33c">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IdP Organisation [ns:toopra]"
+    name="IdP Organisation"
     id="f17c8556-ff99-4c02-8c3a-4cca01c663be">
   <properties
       key="difi:namespace"

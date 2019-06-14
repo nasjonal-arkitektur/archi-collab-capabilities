@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="accesses [ns:eira]"
+    name="accesses"
     id="8484be5a-16b2-4ac5-b203-1d9b96b3fd09">
   <properties
       key="difi:namespace"

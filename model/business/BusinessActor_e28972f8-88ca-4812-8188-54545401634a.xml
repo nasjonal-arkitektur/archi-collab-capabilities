@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Network Management Agency [ns:toopra]"
+    name="Network Management Agency"
     id="e28972f8-88ca-4812-8188-54545401634a">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="18. Ability to control access to a process flow at design or runtime [ns:togsoara]"
+    name="18. Ability to control access to a process flow at design or runtime"
     id="94dabd26-6540-47c1-8567-5454ee748a56">
   <properties
       key="difi:namespace"

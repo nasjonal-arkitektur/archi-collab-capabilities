@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="9b79b5f2-8163-41cb-a3d0-89fa7e0fce71"
     documentation="The goal of [Achieving Organisational Interoperability] is assessed by the use of [Public Service catalogues] that provision/consume front-office public services.">
   <properties

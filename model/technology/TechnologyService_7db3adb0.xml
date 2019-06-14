@@ -1,16 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hosting Service [ns:eira]"
+    name="Hosting Service"
     id="7db3adb0"
     documentation="DESCRIPTION:&#xD;&#xA;Shares the functionalities of a hosting provider, typically a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites.&#xD;&#xA;&#xD;&#xA;Based on DIGIT C Infrastructure Services Provision&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Hosting Service ABB is salient for technical interoperability because it provides all the functionalities to host the Interoperable European Solutions  (high availability and high performance hosting infrastructure).&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;DIGIT/C Hosting Service&#xD;&#xA;DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites.&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xD;&#xA;">
-  <properties
-      key="dct:modified"/>
-  <properties
-      key="ID"
-      value="ABB151"/>
-  <properties
-      key="dct:type"
-      value="eira:HostingService"/>
   <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
@@ -18,5 +10,13 @@
       key="difi:namespace"
       value="eira"/>
   <properties
+      key="dct:modified"/>
+  <properties
+      key="ID"
+      value="ABB151"/>
+  <properties
       key="dct:publisher"/>
+  <properties
+      key="dct:type"
+      value="eira:HostingService"/>
 </archimate:TechnologyService>

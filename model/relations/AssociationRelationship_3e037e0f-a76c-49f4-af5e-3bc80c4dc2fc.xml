@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Consumes service from [ns:eira]"
+    name="Consumes service from"
     id="3e037e0f-a76c-49f4-af5e-3bc80c4dc2fc">
   <properties
       key="difi:namespace"

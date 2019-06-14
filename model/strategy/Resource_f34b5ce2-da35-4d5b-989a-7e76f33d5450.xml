@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Presentation Controller [ns:togsoara]"
+    name="Presentation Controller"
     id="f34b5ce2-da35-4d5b-989a-7e76f33d5450"
     documentation="This ABB is responsible for handling the orchestration, decomposition, and composition of the view rendered by the client. It uses the Presentation Flow Manager ABB, Composite View ABB, and other ABBs to create the view and to submit requests to retrieve data from other layers in the SOA RA.">
   <properties

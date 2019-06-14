@@ -1,20 +1,20 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inclusion and accessibility [ns:eira]"
+    name="Inclusion and accessibility"
     id="61e292b8"
     documentation="EIF Underlying principle 7: inclusion and accessibility&#xA;&#xA;Inclusion is about enabling everyone to take full advantage of the opportunities offered by new technologies to access and make use of European public services, overcoming social and economic divides and exclusion.&#xA;Accessibility ensures that people with disabilities, the elderly and other disadvantaged groups can use public services at service levels comparable to those provided to other citizens.&#xA;&#xA;Inclusion and accessibility must be part of the whole development lifecycle of a European public service in terms of design, information content and delivery. It should comply with e-accessibility specifications widely recognised at European or international level.&#xA;&#xA;Inclusion and accessibility usually involve multi-channel delivery. Traditional paper-based or face-to-face service delivery may need to co-exist with electronic delivery.&#xA;&#xA;Inclusion and accessibility can also be improved by an information system’s ability to allow third parties to act on behalf of citizens who are unable, either permanently or temporarily, to make direct use of public services.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.">
-  <properties
-      key="ID"
-      value="ABB307"/>
-  <properties
-      key="dct:type"
-      value="eira:EIFPrinciple"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:EIFPrinciple"/>
+  <properties
       key="dct:publisher"
       value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
   <properties
-      key="dct:modified"/>
+      key="ID"
+      value="ABB307"/>
 </archimate:Principle>

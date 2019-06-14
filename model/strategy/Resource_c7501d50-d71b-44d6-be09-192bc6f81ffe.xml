@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hierarchy and Relationship Manager [ns:togsoara]"
+    name="Hierarchy and Relationship Manager"
     id="c7501d50-d71b-44d6-be09-192bc6f81ffe"
     documentation="This ABB is responsible for managing the data hierarchies, groupings, relationships such as parent-child relationships, and relationships between enterprise data. This ABB is leveraged by the Data Virtualization Manager to build the relationships.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Provisioning [ns:toopra]"
+    name="Evidence Provisioning"
     id="efb2dd55-c805-4cb0-ab04-9d406f5229af">
   <properties
       key="difi:namespace"

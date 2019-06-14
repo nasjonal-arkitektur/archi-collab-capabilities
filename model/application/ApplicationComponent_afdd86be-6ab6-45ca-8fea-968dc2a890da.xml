@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eDocument [ns:toopra]"
+    name="eDocument"
     id="afdd86be-6ab6-45ca-8fea-968dc2a890da">
   <properties
       key="difi:namespace"

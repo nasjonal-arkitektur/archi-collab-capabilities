@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Consumer/User Profile Manager [ns:togsoara]"
+    name="Consumer/User Profile Manager"
     id="150edadf-42bc-4185-b669-1eb9b846617a"
     documentation="This ABB is responsible for supporting the personalization of the interface and the presentation to a particular consumer’s wants and needs. It will be used both by the Client ABB and Presentation Controller ABB. It can be used for controlling individual consumer features or the creation of profiles based on roles.">
   <properties

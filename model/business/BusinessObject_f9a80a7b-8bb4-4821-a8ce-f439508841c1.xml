@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CA Info Request [ns:toopra]"
+    name="CA Info Request"
     id="f9a80a7b-8bb4-4821-a8ce-f439508841c1">
   <properties
       key="difi:namespace"

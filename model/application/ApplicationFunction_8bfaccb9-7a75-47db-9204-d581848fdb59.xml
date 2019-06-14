@@ -1,6 +1,6 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Identification [ns:toopra]"
+    name="User Identification"
     id="8bfaccb9-7a75-47db-9204-d581848fdb59">
   <properties
       key="difi:namespace"

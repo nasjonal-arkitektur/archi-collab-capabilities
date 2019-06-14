@@ -1,7 +1,6 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:null]"
     id="1c8bbe09-eacd-4357-98d2-2befd6309304">
   <source
       xsi:type="archimate:Grouping"

@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manage Evidence Provisioning Service [ns:toopra]"
+    name="Manage Evidence Provisioning Service"
     id="ca2aff4d-9ec4-4f9d-af1c-6b15511f4155">
   <properties
       key="difi:namespace"

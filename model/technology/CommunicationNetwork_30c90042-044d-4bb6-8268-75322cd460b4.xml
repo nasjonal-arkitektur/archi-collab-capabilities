@@ -1,6 +1,6 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Internet [ns:toopra]"
+    name="Internet"
     id="30c90042-044d-4bb6-8268-75322cd460b4">
   <properties
       key="difi:namespace"

@@ -1,19 +1,19 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperability  Principle [ns:eira]"
+    name="Interoperability  Principle"
     id="0fcbd31e"
     documentation="DESCRIPTION:&#xD;&#xA;The interoperability principles are fundamental behavioural aspects to drive interoperability actions.  They describe the context in which European public services are designed and implemented.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.">
-  <properties
-      key="dct:type"
-      value="eira:InteroperabilityPrinciple"/>
   <properties
       key="ID"
       value="ABB300"/>
   <properties
-      key="dct:modified"/>
-  <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityPrinciple"/>
   <properties
       key="dct:publisher"/>
 </archimate:Principle>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="52. Ability to log events and business messages [ns:togsoara]"
+    name="52. Ability to log events and business messages"
     id="d4d0de83-9663-45a5-bf2b-a38fb6ead2ad">
   <properties
       key="difi:namespace"

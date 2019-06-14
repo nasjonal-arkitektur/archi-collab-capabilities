@@ -1,19 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Governance content [ns:eira]"
+    name="Governance content"
     id="9649f14a"
     documentation="That which allows how organisations cooperate to achieve their mutually agreed goals. It can be capabilities, forces, or resources.&#xD;&#xA;&#xD;&#xA;Source: Based on the Black's Law Dictionary definition of enablers and the EIRA definition of organisational interoperability.&#xD;&#xA;https://joinup.ec.europa.eu/asset/eia/document/how-does-eira-support-interoperability &#xD;&#xA;http://thelawdictionary.org/enablers/ &#xD;&#xA;&#xD;&#xA;The following implementations are examples on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;RAPEX - Semantic Web Gate&#xD;&#xA;Public set of RAPEX notifications are available via the Semantic Web Gate in the Open Data portal&#xD;&#xA;http://ec.europa.eu/semantic_webgate/query/dataset=rapex &#xD;&#xA;&#xD;&#xA;e-Justice Portal - Commission's approach on the security of communication and information systems in the European Commission&#xD;&#xA;Commission Decision (EU, Euratom) 2017/46 of 10 January 2017 on the security of communication and information systems in the European Commission. The Commission's approach should take into account EU policy initiatives and legislation on network and information security, industry standards and good practices, to comply with all relevant legislation and to allow interoperability and compatibility.  This decision applies to all communication and information systems (CISs) which are owned, procured, managed or operated by or on behalf of the Commission and all usage of those CISs by the Commission.&#xD;&#xA;This decision sets out the basic principles, objectives, organisation and responsibilities regarding the security of those CISs, and in particular for Commission departments owning, procuring, managing or operating CISs and including CISs provided by an internal IT service provider. &#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.006.01.0040.01.ENG  &#xD;&#xA;">
-  <properties
-      key="dct:type"
-      value="eira:OrganisationalInteroperabilityEnabler"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="dct:publisher"/>
-  <properties
       key="ID"
       value="ABB171"/>
   <properties
+      key="dct:publisher"/>
+  <properties
       key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalInteroperabilityEnabler"/>
 </archimate:BusinessObject>

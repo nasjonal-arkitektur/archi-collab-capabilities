@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="09. Ability to support the storage and dissemination of information supporting these capabilities: service contract definition (e.g., WSDL); service policy management; service version 10. information management; service dependencies (e.g., the ability to integrate with a CMDB tool); service management descriptions; canonical form and domain model specification for integration with the Information Layer [ns:togsoara]"
+    name="09. Ability to support the storage and dissemination of information supporting these capabilities: service contract definition (e.g., WSDL); service policy management; service version 10. information management; service dependencies (e.g., the ability to integrate with a CMDB tool); service management descriptions; canonical form and domain model specification for integration with the Information Layer"
     id="b5a43e0d-b951-4ed4-a8dd-4b61806eb34c">
   <properties
       key="difi:namespace"

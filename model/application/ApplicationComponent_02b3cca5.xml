@@ -1,28 +1,28 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Discovery Component [ns:eira]"
+    name="Service Discovery Component"
     id="02b3cca5"
     documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of locating a machine-processable description of a service-related resource that may have been previously unknown and that meets certain functional criteria. It involves matching a set of functional and other criteria with a set of resource descriptions. The goal is to find an appropriate service-related resource.&#xD;&#xA;&#xD;&#xA;Based on W3C&#xD;&#xA;https://www.w3.org/TR/2004/NOTE-ws-gloss-20040211/&#xD;&#xA; &#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Discovery Component ABB  is salient for technical interoperability because it allows to implement the funcionality of sharing services available for reuse as stated in the EIF recommendation n°36: &quot;Develop a shared infrastructure of reusable services and information sources that can be used by all public administrations&quot;. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Consul&#xD;&#xA;Consul has multiple components, but as a whole, it is a tool for discovering and configuring services in an infrastructure. It provides several key features:&#xD;&#xA;&#xD;&#xA;• Service Discovery: Clients of Consul can provide a service, such as api or mysql, and other clients can use Consul to discover providers of a given service. Using either DNS or HTTP, applications can easily find the services they depend upon.&#xD;&#xA;• Health Checking: Consul clients can provide any number of health checks, either associated with a given service (&quot;is the webserver returning 200 OK&quot;), or with the local node (&quot;is memory utilization below 90%&quot;). This information can be used by an operator to monitor cluster health, and it is used by the service discovery components to route traffic away from unhealthy hosts.&#xD;&#xA;• KV Store: Applications can make use of Consul's hierarchical key/value store for any number of purposes, including dynamic configuration, feature flagging, coordination, leader election, and more. The simple HTTP API makes it easy to use.&#xD;&#xA;• Multi Datacenter: Consul supports multiple datacenters out of the box. This means users of Consul do not have to worry about building additional layers of abstraction to grow to multiple regions.&#xD;&#xA;https://www.consul.io/ &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
   <properties
       key="eira:reusability"
       value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
   <properties
-      key="dct:modified"/>
+      key="dct:type"
+      value="eira:ServiceDiscoveryComponent"/>
   <properties
       key="ID"
       value="ABB221"/>
   <properties
+      key="dct:modified"/>
+  <properties
       key="dct:publisher"/>
-  <properties
-      key="dct:type"
-      value="eira:ServiceDiscoveryComponent"/>
-  <properties
-      key="eira:status"
-      value="[ Exists | Development planned ]"/>
   <properties
       key="eira:actual_reuse"
       value="[ Already reused | Reused planned | No]"/>
   <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
 </archimate:ApplicationComponent>

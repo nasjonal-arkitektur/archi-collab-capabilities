@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="78. Ability to change configuration to comply with QoS requirements [ns:togsoara]"
+    name="78. Ability to change configuration to comply with QoS requirements"
     id="7e7cfb3a-94a7-43fe-bc29-a161fb0cb611">
   <properties
       key="difi:namespace"

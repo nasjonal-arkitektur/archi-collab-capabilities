@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cache [ns:togsoara]"
+    name="Cache"
     id="fb3e90c6-6b29-49b5-a81a-f5018a776ed7"
     documentation="This ABB is responsible for supporting the scalability of the layer and supporting the caching of interaction data to improve performance.">
   <properties

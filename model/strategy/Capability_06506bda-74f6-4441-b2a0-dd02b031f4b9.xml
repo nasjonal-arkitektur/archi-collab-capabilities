@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="24. Ability to monitor, manage, and configure IT network hardware systems which are part of an SOA solution [ns:togsoara]"
+    name="24. Ability to monitor, manage, and configure IT network hardware systems which are part of an SOA solution"
     id="06506bda-74f6-4441-b2a0-dd02b031f4b9">
   <properties
       key="difi:namespace"

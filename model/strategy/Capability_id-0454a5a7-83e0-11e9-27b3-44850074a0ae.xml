@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04. Ability to host legacy systems needed for service implementation [ns:togsoara]"
+    name="04. Ability to host legacy systems needed for service implementation"
     id="id-0454a5a7-83e0-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

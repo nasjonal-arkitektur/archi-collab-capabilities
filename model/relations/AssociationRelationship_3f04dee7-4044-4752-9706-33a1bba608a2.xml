@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="has been issued a [ns:toopra]"
+    name="has been issued a"
     id="3f04dee7-4044-4752-9706-33a1bba608a2">
   <properties
       key="difi:namespace"

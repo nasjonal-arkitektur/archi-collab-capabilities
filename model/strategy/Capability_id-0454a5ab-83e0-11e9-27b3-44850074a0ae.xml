@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06. Ability to map service functional requirements to underlying or legacy solution [ns:togsoara]"
+    name="06. Ability to map service functional requirements to underlying or legacy solution"
     id="id-0454a5ab-83e0-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

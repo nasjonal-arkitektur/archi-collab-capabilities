@@ -1,7 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is source of [ns:eira]"
+    name="is source of"
     id="7e9ab0ef-18c7-45f5-af82-bfc3590ef196">
   <properties
       key="difi:namespace"

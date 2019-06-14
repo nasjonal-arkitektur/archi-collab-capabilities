@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="acts on behalf of"
+    id="92dcd6f4-95d1-45f2-8342-50bdab8e6038"
+    documentation="A [Public Service Delivery Agent] acts on behalf of [Public Service Provider]">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_3fa89161-7a3a-402b-aa3d-c4b825702318.xml#3fa89161-7a3a-402b-aa3d-c4b825702318"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_3bc2c6f8-8b43-4f5c-8dc3-8b854d362189.xml#3bc2c6f8-8b43-4f5c-8dc3-8b854d362189"/>
+</archimate:AssociationRelationship>

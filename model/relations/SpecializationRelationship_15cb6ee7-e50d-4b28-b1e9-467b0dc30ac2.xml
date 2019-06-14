@@ -1,7 +1,6 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="15cb6ee7-e50d-4b28-b1e9-467b0dc30ac2">
   <properties
       key="difi:namespace"

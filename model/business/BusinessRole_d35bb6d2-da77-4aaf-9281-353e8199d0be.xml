@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Security Administrator [ns:dmbok2]"
+    name="Data Security Administrator"
     id="d35bb6d2-da77-4aaf-9281-353e8199d0be"
     documentation="Data Security Administrator: Responsible for ensuring controlled access to data requiring different levels of protection.">
   <properties

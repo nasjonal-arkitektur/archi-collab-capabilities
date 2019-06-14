@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Backend Interface [ns:toopra]"
+    name="Backend Interface"
     id="5946291f-bfdd-4bd2-9a46-63e112b91ba3">
   <properties
       key="difi:namespace"

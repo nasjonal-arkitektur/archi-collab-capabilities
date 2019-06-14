@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Governance Gateway [ns:togsoara]"
+    name="Governance Gateway"
     id="ef19211d-f64e-43cc-9961-fdbedf70b87a"
     documentation="This ABB is the gateway of all the ABBs in the Governance Layer to the other layers. In other words, it provides a focal point for processing both outgoing and incoming requests for governance management to and from the other eight layers.">
   <properties

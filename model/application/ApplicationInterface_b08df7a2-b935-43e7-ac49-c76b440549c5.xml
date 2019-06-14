@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Provider Lookup Interface [ns:toopra]"
+    name="Data Provider Lookup Interface"
     id="b08df7a2-b935-43e7-ac49-c76b440549c5">
   <properties
       key="difi:namespace"

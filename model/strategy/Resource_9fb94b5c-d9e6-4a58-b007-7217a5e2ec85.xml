@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Solution Building Block [ns:togsoara]"
+    name="Solution Building Block"
     id="9fb94b5c-d9e6-4a58-b007-7217a5e2ec85"
     documentation="This ABB represents the runtime component of ABBs from other layers in the SOA RA. Thus, for example, a Mediation ABB from the Integration Layer runs as a Solution Building Block.">
   <properties

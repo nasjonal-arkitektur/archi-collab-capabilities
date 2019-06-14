@@ -1,22 +1,22 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Public Network [ns:eira]"
+    name="Public Network"
     id="28d47042"
     documentation="DESCRIPTION:&#xD;&#xA;A network that can be accessed by the public (public administrations, businesses and citizens) without specific authorisations. Interoperable European Solutions can rely on Public Networks (e.g. the Internet) to realise the physical communication between nodes.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Network ABB is salient for technical interoperability because it provides  the public network where can operate interoperable solutions. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;World-Wide-Web (WWW)&#xD;&#xA;The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents.&#xD;&#xA;http://info.cern.ch/hypertext/WWW/TheProject.html &#xD;&#xA;">
   <properties
-      key="ID"
-      value="ABB94"/>
-  <properties
-      key="dct:modified"/>
+      key="dct:publisher"/>
   <properties
       key="dct:type"
       value="eira:PublicNetwork"/>
   <properties
-      key="dct:publisher"/>
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:modified"/>
   <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
   <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="ID"
+      value="ABB94"/>
 </archimate:CommunicationNetwork>

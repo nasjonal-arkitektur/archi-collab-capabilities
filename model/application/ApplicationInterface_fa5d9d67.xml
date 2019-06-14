@@ -1,22 +1,22 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Human Interface [ns:eira]"
+    name="Human Interface"
     id="fa5d9d67"
     documentation="DESCRIPTION:&#xD;&#xA;A boundary set of means enabling the exchange of data between an individual and a service.&#xD;&#xA;This ABB is a key interoperability enabler (*) for assessing compatible interfaces.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector. &#xD;&#xA;&#xD;&#xA;Syn. User interface, UI, Graphical User Interface, GUI&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Human interface ABB  is a key interoperability enabler / manifestation because it supports to achieve technical interoperability exchanging data allowing users to access services through multiple channels as stated in the EIF recommendation n°10:  &quot;Use multiple channels to provide the European public service, to ensure that users can select the channel that best suits their needs.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;GrapesJS&#xD;&#xA;GrapesJS is an open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. It's a perfect solution to replace the common WYSIWYG editors, which are good for content editing but inappropriate for creating HTML structures. You can see it in action with the official demos, but using its API you're able to build your own editors. &#xD;&#xA;https://grapesjs.com/&#xD;&#xA;">
   <properties
-      key="difi:namespace"
-      value="eira"/>
-  <properties
-      key="dct:modified"/>
-  <properties
-      key="dct:type"
-      value="eira:HumanInterface"/>
-  <properties
-      key="ID"
-      value="ABB37"/>
+      key="dct:publisher"/>
   <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
   <properties
-      key="dct:publisher"/>
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="eira:HumanInterface"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="ID"
+      value="ABB37"/>
 </archimate:ApplicationInterface>

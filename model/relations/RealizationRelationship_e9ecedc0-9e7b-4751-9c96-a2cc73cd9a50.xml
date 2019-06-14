@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" [ns:eira]"
     id="e9ecedc0-9e7b-4751-9c96-a2cc73cd9a50"
     documentation="The goal of [Achieving Technical Interoperability] is assessed by the use of [Service Registries] that provision/consume back-office services.">
   <properties

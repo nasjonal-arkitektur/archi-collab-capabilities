@@ -1,22 +1,22 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organisational Procedure [ns:eira]"
+    name="Organisational Procedure"
     id="5e404822"
     documentation="The specific methods employed to express organisational policies in action in day-to-day operations of the organization. Together, policies and procedures ensure that a point of view held by the governing body of an organization is translated into steps that result in an outcome compatible with that view.&#xD;&#xA;&#xD;&#xA;Based on BusinessDictionary.com definition of Policies and Procedures&#xD;&#xA;http://www.businessdictionary.com/definition/policies-and-procedures.html &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;TRACES - Listing procedures&#xD;&#xA;Describe how to approve or register establishments and operators on the European portal.&#xD;&#xA;https://ec.europa.eu/food/sites/food/files/animals/docs/ah-traces-info-mat-toolkit_en.pdf &#xD;&#xA;">
   <properties
-      key="dct:publisher"/>
-  <properties
-      key="eira:ABB_Status"
-      value="Obsolete"/>
-  <properties
-      key="ID"
-      value="ABB207"/>
+      key="dct:modified"/>
   <properties
       key="dct:type"
       value="eira:OrganisationalProcedure"/>
   <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="dct:modified"/>
+      key="ID"
+      value="ABB207"/>
 </archimate:BusinessObject>

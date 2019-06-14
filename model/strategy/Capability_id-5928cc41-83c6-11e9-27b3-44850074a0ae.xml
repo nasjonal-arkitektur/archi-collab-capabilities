@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ability to host applications and functionality to deliver service features [ns:togsoara]"
+    name="Ability to host applications and functionality to deliver service features"
     id="id-5928cc41-83c6-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

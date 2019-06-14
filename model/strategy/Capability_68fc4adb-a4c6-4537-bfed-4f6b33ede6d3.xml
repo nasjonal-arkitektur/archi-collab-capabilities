@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04. Ability to manage the lifecycle of business entities [ns:togsoara]"
+    name="04. Ability to manage the lifecycle of business entities"
     id="68fc4adb-a4c6-4537-bfed-4f6b33ede6d3">
   <properties
       key="difi:namespace"

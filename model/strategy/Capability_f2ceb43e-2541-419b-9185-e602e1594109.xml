@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="26. Ability to review and assess inbound service activity in the form of event information and determine responses or issue alerts/notifications [ns:togsoara]"
+    name="26. Ability to review and assess inbound service activity in the form of event information and determine responses or issue alerts/notifications"
     id="f2ceb43e-2541-419b-9185-e602e1594109">
   <properties
       key="difi:namespace"

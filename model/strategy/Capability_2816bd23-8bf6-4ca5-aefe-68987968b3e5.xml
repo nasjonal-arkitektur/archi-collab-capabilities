@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="30. Ability to store operational and reshaped information (structured and unstructured) that adds business value including common model of data; used to share canonical forms (common data models) between SOA Integration Layer elements and also other SOA layer elements – typically invoked by other components (including information virtualization capabilities) [ns:togsoara]"
+    name="30. Ability to store operational and reshaped information (structured and unstructured) that adds business value including common model of data; used to share canonical forms (common data models) between SOA Integration Layer elements and also other SOA layer elements – typically invoked by other components (including information virtualization capabilities)"
     id="2816bd23-8bf6-4ca5-aefe-68987968b3e5">
   <properties
       key="difi:namespace"

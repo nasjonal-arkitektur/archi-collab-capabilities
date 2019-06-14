@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02. Ability to detect, emit, and listen to business events in the context of business processes [ns:togsoara]"
+    name="02. Ability to detect, emit, and listen to business events in the context of business processes"
     id="8aa9cee0-1f75-47b1-8aa2-bb909cd8c88e">
   <properties
       key="difi:namespace"

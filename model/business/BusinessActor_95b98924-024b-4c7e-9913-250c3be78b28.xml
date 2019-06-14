@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="National OOP Layer Provider [ns:toopra]"
+    name="National OOP Layer Provider"
     id="95b98924-024b-4c7e-9913-250c3be78b28">
   <properties
       key="difi:namespace"

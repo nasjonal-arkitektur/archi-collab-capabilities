@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User previews Evidence [ns:toopra]"
+    name="User previews Evidence"
     id="faaeedb5-772b-4823-bef0-a4cfa7f5b435">
   <properties
       key="difi:namespace"

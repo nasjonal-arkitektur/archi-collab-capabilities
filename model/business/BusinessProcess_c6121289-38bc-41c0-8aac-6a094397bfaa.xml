@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Check Legitimacy of Evidence Request [ns:toopra]"
+    name="Check Legitimacy of Evidence Request"
     id="c6121289-38bc-41c0-8aac-6a094397bfaa">
   <properties
       key="difi:namespace"

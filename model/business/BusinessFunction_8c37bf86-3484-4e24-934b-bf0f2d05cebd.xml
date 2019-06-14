@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Offering Publication [ns:toopra]"
+    name="Service Offering Publication"
     id="8c37bf86-3484-4e24-934b-bf0f2d05cebd">
   <properties
       key="difi:namespace"

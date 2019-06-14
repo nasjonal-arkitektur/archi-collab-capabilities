@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Service Manager [ns:toopra]"
+    name="Evidence Service Manager"
     id="85e79489-707f-477d-a3ae-94a4a950cc50">
   <properties
       key="difi:namespace"

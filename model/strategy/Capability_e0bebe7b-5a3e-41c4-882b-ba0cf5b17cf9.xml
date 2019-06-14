@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="31. Ability to capture the metric for percentage of time that the solution is invokable [ns:togsoara]"
+    name="31. Ability to capture the metric for percentage of time that the solution is invokable"
     id="e0bebe7b-5a3e-41c4-882b-ba0cf5b17cf9">
   <properties
       key="difi:namespace"

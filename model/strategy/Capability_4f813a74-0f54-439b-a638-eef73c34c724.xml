@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="09. Ability to perform Extract-Transform-Load (ETL capabilities) data from one source to other; ability to extract relevant information from sources, transform the information into the appropriate integrated form, and load the information into the target repository [ns:togsoara]"
+    name="09. Ability to perform Extract-Transform-Load (ETL capabilities) data from one source to other; ability to extract relevant information from sources, transform the information into the appropriate integrated form, and load the information into the target repository"
     id="4f813a74-0f54-439b-a638-eef73c34c724">
   <properties
       key="difi:namespace"

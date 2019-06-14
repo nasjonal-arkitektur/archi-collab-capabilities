@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperability Aspect [ns:eira]"
+    name="Interoperability Aspect"
     id="55519e3b-eb6b-44b0-99de-16aabd2c4fdd"
     documentation="An Interoperability aspect is an externally observable characteristic or a set of characteristics to be provided/supported by the solution that fulfills partially or internally a stakeholder interoperability need. (Source: PM2) ">
   <properties

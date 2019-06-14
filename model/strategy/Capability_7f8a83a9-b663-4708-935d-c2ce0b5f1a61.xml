@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="16. Ability to capture and record message routing and service invocation history [ns:togsoara]"
+    name="16. Ability to capture and record message routing and service invocation history"
     id="7f8a83a9-b663-4708-935d-c2ce0b5f1a61">
   <properties
       key="difi:namespace"

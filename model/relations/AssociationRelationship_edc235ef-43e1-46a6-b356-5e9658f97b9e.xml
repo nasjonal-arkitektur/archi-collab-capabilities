@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="has its interoperability aspects defined by [ns:eira]"
+    name="has its interoperability aspects defined by"
     id="edc235ef-43e1-46a6-b356-5e9658f97b9e">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Providing meta-data [ns:toopra]"
+    name="Providing meta-data"
     id="a0ae3e82-2db9-498c-9a9f-517014e04083">
   <properties
       key="difi:namespace"

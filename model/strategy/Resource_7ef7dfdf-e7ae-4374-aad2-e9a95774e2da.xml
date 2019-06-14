@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Client (Channel) [ns:togsoara]"
+    name="Client (Channel)"
     id="7ef7dfdf-e7ae-4374-aad2-e9a95774e2da"
     documentation="This ABB interacts with the Presentation Controller ABB to use the underlying services, integrating the consumer of services supported by the SOA RA. It is the element in the SOA which the consumer interacts with. As such, it provides the point interaction for the consumer. The key responsibilities include dealing with the nature of interaction that the client has with the consumer in terms of:&#xD;&#xA;&#xD;&#xA;* What data is provided?&#xD;&#xA;* What will be the format?&#xD;&#xA;* What will be the interaction? &#xD;&#xA;&#xD;&#xA;Examples of clients may be IVRs, rich-clients (JSF, Ajax), mobile applications, etc. It will be where Web 2.0 client support will go (for example, the ability to create mashups). It is also the component that renders the view to the consumer.">
   <properties

@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is under the responsibility of [ns:eira]"
+    name="is under the responsibility of"
     id="8701ffcc"
     documentation="An [Interoperability Organisation Authority] is responsible for [Interoperability Governance]">
   <properties

@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EIRA Solution Building Block [ns:eira]"
+    name="EIRA Solution Building Block"
     id="0e458823-539c-456e-a7d3-165d49a201a9">
   <properties
       key="difi:namespace"

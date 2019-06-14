@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="54. Ability to check QoS requirements for valid rules [ns:togsoara]"
+    name="54. Ability to check QoS requirements for valid rules"
     id="2569d0e5-f016-42f0-be34-9c88ef423c57">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Information Integrity Manager [ns:togsoara]"
+    name="Information Integrity Manager"
     id="4f0e1b67-96b1-41f8-bb76-9b1e438069e8"
     documentation="This ABB is responsible for data profiling, analysis, cleansing, data standardization, and matching. Data profiling and analysis services are critical for understanding the quality of data across enterprise systems, and for defining data validation, data cleansing, matching, and standardization logic required to improve data quality and consistency.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Validate SMP [ns:toopra]"
+    name="Validate SMP"
     id="d91d54a6-4867-437e-9985-d56e9b5ecdcb">
   <properties
       key="difi:namespace"

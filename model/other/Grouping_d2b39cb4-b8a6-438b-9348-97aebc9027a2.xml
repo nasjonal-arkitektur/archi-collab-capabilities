@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Security Management [ns:togsoara]"
+    name="Security Management"
     id="d2b39cb4-b8a6-438b-9348-97aebc9027a2"
     documentation="This category of capabilities manages and monitors security and secure solutions. This provides the ability to manage roles and identities, access rights and entitlements, protect unstructured and structured data from unauthorized access and data loss, address how software, systems, and services are developed and maintained throughout the software lifecycle, maintain the security status through proactive changes reacting to identified vulnerabilities and new threats, enable the IT organization to manage IT-related risks and compliance, and provide the automation basis for security management.">
   <properties

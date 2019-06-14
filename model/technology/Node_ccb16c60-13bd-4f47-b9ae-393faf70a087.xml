@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DNS Server [ns:toopra]"
+    name="DNS Server"
     id="ccb16c60-13bd-4f47-b9ae-393faf70a087">
   <properties
       key="difi:namespace"

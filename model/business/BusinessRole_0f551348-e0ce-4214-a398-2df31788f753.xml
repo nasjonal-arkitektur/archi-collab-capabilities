@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Help Desk Administrator [ns:dmbok2]"
+    name="Help Desk Administrator"
     id="0f551348-e0ce-4214-a398-2df31788f753"
     documentation="Help Desk Administrator: Responsible for handling, tracking, and resolving issues related to use of information, information systems, or the IT infrastructure.">
   <properties

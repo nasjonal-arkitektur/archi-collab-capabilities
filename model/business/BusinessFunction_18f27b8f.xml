@@ -1,29 +1,29 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Capability [ns:eira]"
+    name="Business Capability"
     id="18f27b8f"
     documentation="DESCRIPTION:&#xD;&#xA;A particular ability or capacity that an organisation may possess or exchange to achieve a specific purpose or outcome.&#xD;&#xA;Defining a business capability involves identifying and describing what needs to be done by the business in support of its overall mission. Business capabilities provide an abstraction of the business reality in a way that helps to simplify conversations between interested stakeholders.&#xD;&#xA;&#xD;&#xA;Based on TOGAF definition and description of business capability.&#xD;&#xA;https://www2.opengroup.org/ogsys/catalog/g161 &#xD;&#xA;&#xD;&#xA;Syn. Business Ability&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Business Capability ABB  is salient for organisational interoperability because it defines the main business reason for exchanging business information with other business capabilities in another organisation or in the same organisation.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Surveillance3 reporting and generation of data sets&#xD;&#xA;The reporting and generation of data sets business capability brought by Surveillance3 enables the reporting and analysis of data by the end users, through integration mechanisms to other applications. Surveillance3 aggregates the declaration data and additional data such as Binding Tariff Information (BTI) decisions and Surveillance definitions in order to produce consolidated reports about:&#xD;&#xA;1. The BTI usage for the DG TAXUD BTI sector users and for Member State users and &#xD;&#xA;2. Surveillance statistical data&#xD;&#xA;&#xD;&#xA;http://ec.europa.eu/taxation_customs/dds2/surv/surv_consultation.jsp?Lang=en &#xD;&#xA;">
-  <properties
-      key="difi:namespace"
-      value="eira"/>
   <properties
       key="dct:publisher"/>
   <properties
       key="dct:modified"/>
   <properties
-      key="dct:description"/>
-  <properties
-      key="ID"
-      value="ABB12"/>
+      key="difi:namespace"
+      value="eira"/>
   <properties
       key="dct:type"
       value="eira:BusinessCapability"/>
   <properties
       key="eira:owner"/>
   <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
       key="eira:reuse_status"
       value="[ Reuse planned | Already reused ]"/>
   <properties
-      key="eira:reusability"
-      value="[ Reusable | Not reusable ]"/>
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:description"/>
 </archimate:BusinessFunction>

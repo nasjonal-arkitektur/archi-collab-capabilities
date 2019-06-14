@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP transmits requested Evidence [ns:toopra]"
+    name="DP transmits requested Evidence"
     id="53ec9a04-026a-4158-b143-9c533442ea78">
   <properties
       key="difi:namespace"

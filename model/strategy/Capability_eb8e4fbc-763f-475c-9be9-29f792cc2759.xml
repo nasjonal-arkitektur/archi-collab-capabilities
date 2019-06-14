@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="80. Ability to track and record changes, configuration, metadata, policy, etc., happening in the solution [ns:togsoara]"
+    name="80. Ability to track and record changes, configuration, metadata, policy, etc., happening in the solution"
     id="eb8e4fbc-763f-475c-9be9-29f792cc2759">
   <properties
       key="difi:namespace"

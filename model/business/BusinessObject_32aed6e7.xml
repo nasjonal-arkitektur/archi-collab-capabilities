@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organisational Structure [ns:eira]"
+    name="Organisational Structure"
     id="32aed6e7"
     documentation="The hierarchical arrangement of lines of authority, communications, rights and duties of an organization. Organizational structure determines how the roles, power and responsibilities are assigned, controlled, and coordinated, and how information flows between the different levels of management. &#xD;&#xA;&#xD;&#xA;Based on BusinessDictionary.com definition of Organizational Structure&#xD;&#xA;http://www.businessdictionary.com/definition/organizational-structure.html &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EUCARIS - registry network&#xD;&#xA;EUCARIS is an initiative of several European countries and can be described as a cooperation between several national registration authorities. Formalised in a multilateral treaty, this cooperation is focused on the data-exchange regarding vehicle registration, driving licences, and the accompanying personal data. For this exchange, a system is used which was especially developed for this purpose: EUCARIS II. It is essential to note that EUCARIS makes no use of a central European database. Each country is responsible for its own registry of vehicle and driving licence information and its own registration procedures. Through their national registration authority other government institutions can request information on e.g. vehicles from another country. The national registration authority becomes a central hub in EUCARIS.&#xD;&#xA;https://joinup.ec.europa.eu/document/eucaris-european-car-and-driving-licence-information-system-eucaris-0 &#xD;&#xA;">
   <properties
@@ -9,14 +9,14 @@
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="dct:type"
-      value="eira:OrganisationalStructure"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
       key="eira:ABB_Status"
       value="Obsolete"/>
   <properties
       key="ID"
       value="ABB14"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalStructure"/>
+  <properties
+      key="dct:publisher"/>
 </archimate:BusinessObject>

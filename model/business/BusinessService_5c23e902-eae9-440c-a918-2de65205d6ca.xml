@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Request Processing [ns:toopra]"
+    name="Evidence Request Processing"
     id="5c23e902-eae9-440c-a918-2de65205d6ca">
   <properties
       key="difi:namespace"

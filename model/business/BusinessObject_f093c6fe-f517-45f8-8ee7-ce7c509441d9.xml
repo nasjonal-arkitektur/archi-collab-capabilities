@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Key Interoperability Enabler [ns:eira]"
+    name="Key Interoperability Enabler"
     id="f093c6fe-f517-45f8-8ee7-ce7c509441d9"
     documentation="A capability or configuration that is necessary for the efficient and effective delivery and consumption of public services across legal, organizational, semantic and technical landscapes">
   <properties

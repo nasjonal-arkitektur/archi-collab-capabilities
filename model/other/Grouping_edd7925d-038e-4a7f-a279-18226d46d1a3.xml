@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy Monitoring and Enforcement [ns:togsoara]"
+    name="Policy Monitoring and Enforcement"
     id="edd7925d-038e-4a7f-a279-18226d46d1a3"
     documentation="This category of capabilities provides a mechanism to monitor and enforce a multitude of policies and corresponding business rules including business-level policies, security policies, access privileges, and data access policies. This provides the ability to find and access policies, evaluate and enforce policies at checkpoints or on metrics captured, signal and record compliance status or metrics, send notification and log of non-compliance and change rules, policies, configuration, and status.">
   <properties

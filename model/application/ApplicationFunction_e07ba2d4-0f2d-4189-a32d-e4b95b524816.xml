@@ -1,6 +1,6 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document Packaging [ns:toopra]"
+    name="Document Packaging"
     id="e07ba2d4-0f2d-4189-a32d-e4b95b524816">
   <properties
       key="difi:namespace"

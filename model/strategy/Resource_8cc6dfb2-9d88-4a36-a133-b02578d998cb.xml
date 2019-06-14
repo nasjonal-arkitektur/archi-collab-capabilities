@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Matcher [ns:togsoara]"
+    name="Data Matcher"
     id="8cc6dfb2-9d88-4a36-a133-b02578d998cb"
     documentation="This ABB is responsible for matching inbound records to existing data. It supports deterministic matching and probabilistic matching of records.">
   <properties

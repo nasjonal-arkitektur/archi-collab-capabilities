@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="07. Ability to secure physical assets, such as locations, facilities, services, inventory, physical access control, human identity, etc. [ns:togsoara]"
+    name="07. Ability to secure physical assets, such as locations, facilities, services, inventory, physical access control, human identity, etc."
     id="672ff940-c5e2-449f-b482-296d4c025e0f">
   <properties
       key="difi:namespace"

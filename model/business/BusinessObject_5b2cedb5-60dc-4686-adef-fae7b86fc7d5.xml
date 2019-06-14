@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Public Service Agent [ns:eira]"
+    name="Public Service Agent"
     id="5b2cedb5-60dc-4686-adef-fae7b86fc7d5"
     documentation="An EIRA ABB that represents a participant involved in the delivery or consumption of a public service. Public Service Agents are can be citizens, businesses, organisations, or systems.">
   <properties

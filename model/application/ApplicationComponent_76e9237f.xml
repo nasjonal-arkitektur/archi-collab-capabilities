@@ -1,28 +1,28 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identity Management Component [ns:eira]"
+    name="Identity Management Component"
     id="76e9237f"
     documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of user authentication.&#xD;&#xA;‘Electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person;&#xD;&#xA;‘Authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. Authentication Component, eID&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Identity Management Component ABB  is salient for technical interoperability because it provides the functionalities of user authentication. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;OpenIAM Identity Manager&#xD;&#xA;The OpenIAM Identity Manager automates the task of managing identities across the various devices and applications used by the enterprise. This includes applications within the enterprise such as Active Directory and Exchange, and cloud based applications such as Google Apps.&#xD;&#xA;OpenIAM Identity Manager provides capabilities such as:&#xD;&#xA;• Provisioning, De-provisioning, Workflow&#xD;&#xA;• Password Management, Password Policies, Synchronization&#xD;&#xA;• Self-Service, allowing locked users to reset their accounts, manage their profiles, challenge response security questions&#xD;&#xA;• Audit, Attestation, Reporting&#xD;&#xA;• Delegated Administration&#xD;&#xA;http://www.openiam.com/products/identity-manager/idm-overview/ &#xD;&#xA;">
   <properties
-      key="ID"
-      value="ABB158"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="dct:modified"/>
   <properties
       key="eira:status"
       value="[ Exists | Development planned ]"/>
   <properties
+      key="ID"
+      value="ABB158"/>
+  <properties
       key="eira:actual_reuse"
       value="[ Already reused | Reused planned | No]"/>
   <properties
-      key="dct:modified"/>
+      key="dct:publisher"/>
   <properties
       key="dct:type"
       value="eira:IdentityManagementComponent"/>
   <properties
       key="eira:reusability"
       value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
 </archimate:ApplicationComponent>

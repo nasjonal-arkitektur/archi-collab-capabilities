@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Traceability Enabler/Auditor [ns:togsoara]"
+    name="Traceability Enabler/Auditor"
     id="e90bfd89-8c20-471c-93ae-e41902934c76"
     documentation="This ABB is responsible for monitoring and managing data usage using a log-like facility. It interprets log information and stores it in databases to analyze the data and initiate threat alerts. This ABB supports the ability to know who has accessed data, when it has been accessed, and what has been accessed and also supports data privacy through the obfuscation of sensitive data.">
   <properties

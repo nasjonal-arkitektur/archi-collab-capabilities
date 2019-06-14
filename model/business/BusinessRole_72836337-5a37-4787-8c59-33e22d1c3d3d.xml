@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Access Point Provider (DC) [ns:toopra]"
+    name="Access Point Provider (DC)"
     id="72836337-5a37-4787-8c59-33e22d1c3d3d">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ability to run supporting ABBs and Solution Building Blocks from other layers of the SOA RA [ns:togsoara]"
+    name="Ability to run supporting ABBs and Solution Building Blocks from other layers of the SOA RA"
     id="id-5928cc5d-83c6-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

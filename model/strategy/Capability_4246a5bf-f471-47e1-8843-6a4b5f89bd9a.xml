@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="48. Ability to interface with the Integration Layer and obtain events from the Integration Layer [ns:togsoara]"
+    name="48. Ability to interface with the Integration Layer and obtain events from the Integration Layer"
     id="4246a5bf-f471-47e1-8843-6a4b5f89bd9a">
   <properties
       key="difi:namespace"

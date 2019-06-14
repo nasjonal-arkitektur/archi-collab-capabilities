@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="proposes [ns:eira]"
+    name="proposes"
     id="340e1894"
     documentation="A [Public Service Provider] proposes a [Service Delivery Model]">
   <properties

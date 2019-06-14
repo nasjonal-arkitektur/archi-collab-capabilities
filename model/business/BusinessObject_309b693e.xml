@@ -1,24 +1,24 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperability Specification [ns:eira]"
+    name="Interoperability Specification"
     id="309b693e"
     documentation="DESCRIPTION:&#xD;&#xA;An Interoperability Specification is a document  containing agreed  normative statements for solution building blocks used in an information exchange context.  It  can refer to existing  standards or  specifications. &#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action">
   <properties
-      key="eira:identifier"/>
+      key="dct:publisher"/>
   <properties
-      key="eira:url"/>
+      key="eira:identifier"/>
   <properties
       key="ID"
       value="ABB162"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="dct:modified"/>
   <properties
       key="difi:namespace"
       value="eira"/>
   <properties
       key="eira:body"/>
-  <properties
-      key="dct:publisher"/>
-  <properties
-      key="dct:modified"/>
   <properties
       key="dct:type"
       value="eira:InteroperabilitySpecification"/>

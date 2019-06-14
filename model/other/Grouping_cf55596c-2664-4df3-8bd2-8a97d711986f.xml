@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Runtime Enablement [ns:togsoara]"
+    name="Process Runtime Enablement"
     id="cf55596c-2664-4df3-8bd2-8a97d711986f"
     documentation="This category of capabilities enables BPM and helps to realize the business processes in the runtime environment using standards such as BPEL, SCA, etc. ">
   <properties

@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Public Service Component [ns:eira]"
+    name="Public Service Component"
     id="7e1bcb9c-134b-49af-a21e-77b0437e6976"
     documentation="A structural EIRA Architecture Building Block">
   <properties

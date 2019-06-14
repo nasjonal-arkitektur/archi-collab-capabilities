@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Repository [ns:togsoara]"
+    name="Service Repository"
     id="72aefe2f-074d-48da-9be9-ad555f8c55da"
     documentation="This ABB integrates with the Service Performance Manager ABB to support the runtime information collection and storage in order for users to evaluate service performance.&#xD;&#xA;&#xD;&#xA;It acts as a design-time repository to store and locate metadata about services, including descriptions of the service contract, information about the QoS policies and security, versioning information, and runtime information such as end-points.&#xD;&#xA;&#xD;&#xA;It is responsible for storing and accessing governance artifacts and best practices for SOA solutions and governance of SOA solutions from various perspectives, including organizational aspect, development aspect, runtime operational aspect, and lifecycle management aspect. Artifacts stored to guide governance may include service registrations, policy, guidelines, and governance processes.&#xD;&#xA;&#xD;&#xA;This ABB integrates with the Service Registry ABB to support the runtime binding and service virtualization needs of SOA.">
   <properties

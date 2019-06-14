@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Authentication Service [ns:toopra]"
+    name="User Authentication Service"
     id="6d146e6c-83be-44ba-89f1-84cacc6b549c">
   <properties
       key="difi:namespace"

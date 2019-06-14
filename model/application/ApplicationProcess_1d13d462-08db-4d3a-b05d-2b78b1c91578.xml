@@ -1,6 +1,6 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deliver Message [ns:toopra]"
+    name="Deliver Message"
     id="1d13d462-08db-4d3a-b05d-2b78b1c91578">
   <properties
       key="difi:namespace"

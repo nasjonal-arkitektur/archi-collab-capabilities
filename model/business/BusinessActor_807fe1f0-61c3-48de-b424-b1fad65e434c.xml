@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS-EST [ns:toopra]"
+    name="MS-EST"
     id="807fe1f0-61c3-48de-b424-b1fad65e434c">
   <properties
       key="difi:namespace"

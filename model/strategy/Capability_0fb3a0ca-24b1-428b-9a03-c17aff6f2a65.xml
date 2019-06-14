@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="15. Ability to protect unstructured and structured data from unauthorized access and data loss, according to the nature and business value of information [ns:togsoara]"
+    name="15. Ability to protect unstructured and structured data from unauthorized access and data loss, according to the nature and business value of information"
     id="0fb3a0ca-24b1-428b-9a03-c17aff6f2a65">
   <properties
       key="difi:namespace"

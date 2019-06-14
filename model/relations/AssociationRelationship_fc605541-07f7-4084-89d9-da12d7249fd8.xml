@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="agrees on [ns:eira]"
+    name="agrees on"
     id="fc605541-07f7-4084-89d9-da12d7249fd8">
   <properties
       key="difi:namespace"

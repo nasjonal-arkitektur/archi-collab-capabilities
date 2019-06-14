@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Consent Request [ns:toopra]"
+    name="Consent Request"
     id="4495574b-a391-4150-8c3d-5f01cc459e1d">
   <properties
       key="difi:namespace"

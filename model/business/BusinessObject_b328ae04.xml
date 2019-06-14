@@ -1,28 +1,28 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Schema Level Mapping [ns:eira]"
+    name="Schema Level Mapping"
     id="b328ae04"
     documentation="A Schema-level Mapping is a mapping between related classes and properties. &#xD;&#xA;&#xD;&#xA;Source: ISO/DIS 25964-2&#xD;&#xA;https://www.iso.org/standard/53658.html &#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Open Contracting Data Standard schema-level mapping - Template and guidance&#xD;&#xA;This guide details an example of using the OCDS 1.1 Field Level Mapping Template to map the fields from a single table in a fictional e-GP system to OCDS. &#xD;&#xA;&#xD;&#xA;Step 1: Source System Details&#xD;&#xA;OCDS data may originate in multiple source systems, therefore it is important to record the details of the source system we are mapping from. &#xD;&#xA;Step 2: Source Field Details&#xD;&#xA;Using the (Source) Fields sheet, populate the following information for each field in the source table: the system the field is from (as recorded in step 1); the table in which the field is located; the field title.&#xD;&#xA;Where additional context is required you may also record a narrative description of the source field in the description field and it might also be useful to add an example of the value that the field takes alongside further technical information on the type and multiplicity of the field.&#xD;&#xA;Step 3: Mapping&#xD;&#xA;The mapping template has a sheet for each stage of the contracting process, from (OCDS) 2. Planning through to (OCDS) 6. Implementation, with details of the relevant fields from the OCDS schema, in addition to the (OCDS) 1. General (all stages) sheet which contains fields relevant to all stages of the contracting process. Review each of the (OCDS) sheets in the mapping template to identify fields in the OCDS schema to which a field in the source system can be mapped. &#xD;&#xA;Step 4: Review&#xD;&#xA;Repeat steps 1-3 for all tables and all source systems to complete the mapping.&#xD;&#xA;Gaps in currently held data: if you identify data OCDS requests, but that you do not hold, engage with data users to consider whether this additional data could and should be provided.&#xD;&#xA;Gaps in OCDS: you might have data which is not covered by OCDS. In these cases, talk with the OCDS helpdesk to see whether this should be included in an extension to the standard. Additional fields can be documented at the bottom of each mapping sheet in the template.&#xD;&#xA;&#xD;&#xA;https://www.open-contracting.org/resources/ocds-field-level-mapping-template/  &#xD;&#xA;https://docs.google.com/document/d/1YwDLVIhiVgKCWVJDeL2lDSKNUX1qfO1Rccxxk1n2bcU/edit#heading=h.i2ififc8i9k4 &#xD;&#xA;">
   <properties
-      key="dct:modified"/>
-  <properties
-      key="eira:ABB_Status"
-      value="Obsolete"/>
+      key="difi:namespace"
+      value="eira"/>
   <properties
       key="dct:type"
       value="eira:Schema-levelMapping"/>
   <properties
-      key="eira:identifier"/>
+      key="eira:url"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="dct:modified"/>
   <properties
       key="ID"
       value="ABB212"/>
   <properties
-      key="dct:publisher"/>
-  <properties
-      key="eira:url"/>
-  <properties
-      key="eira:body"/>
-  <properties
-      key="difi:namespace"
-      value="eira"/>
+      key="eira:identifier"/>
 </archimate:BusinessObject>
