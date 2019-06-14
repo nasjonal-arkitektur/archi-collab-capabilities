@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Invoker"
+    name="Service Invoker [ns:togsoara]"
     id="1cf7c606-4cc4-4829-9fe1-cfef640f7b4f"
     documentation="This ABB supports the invocation of the Service Components by the Services Layer. This includes invoking the Service Container to bind to and load the Service Component into the Service Container (a Services Layer ABB described in the Services Layer).">
   <properties

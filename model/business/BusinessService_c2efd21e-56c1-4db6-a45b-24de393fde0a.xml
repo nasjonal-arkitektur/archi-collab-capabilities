@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public eService [ns:toopra]"
+    id="c2efd21e-56c1-4db6-a45b-24de393fde0a">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessService>

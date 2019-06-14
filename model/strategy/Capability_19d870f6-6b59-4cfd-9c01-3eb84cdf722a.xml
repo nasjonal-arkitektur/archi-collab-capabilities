@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="11. Ability to virtualize data representing actual data from the actual data repositories of various types, such as a DB2 database in the Operational Systems Layer, or an Excel file"
+    name="11. Ability to virtualize data representing actual data from the actual data repositories of various types, such as a DB2 database in the Operational Systems Layer, or an Excel file [ns:togsoara]"
     id="19d870f6-6b59-4cfd-9c01-3eb84cdf722a">
   <properties
       key="difi:namespace"

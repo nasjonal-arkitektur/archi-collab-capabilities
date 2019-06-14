@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant Directory [ns:toopra]"
+    id="7b703102-91e7-4788-b8a8-ebbe967b6785">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationComponent>

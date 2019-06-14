@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="23. Ability to manage solution-level system status according to predefined governance policies and plans"
+    name="23. Ability to manage solution-level system status according to predefined governance policies and plans [ns:togsoara]"
     id="a292ddba-3549-4274-ab7e-319a3687fd22">
   <properties
       key="difi:namespace"

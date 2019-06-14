@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperable European Solution Component [ns:eira]"
+    id="48904fff-9c64-4c7d-993f-74d88d4934f7"
+    documentation="DESCRIPTION:&#xD;&#xA;Interoperable European Solution Component represents the encapsulation of a functionality provided by an Interoperable European Solution. &#xD;&#xA;&#xD;&#xA;Based on ArchiMate® v3&#xD;&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Interoperable European Solution Component ABB is salient for technical interoperability because it is a central element the EIF's conceptual model for integrated public services. it represents all the functionalities provided by an Interoperable European Solutionas as stated in the EIF: &quot;Technical interoperability the applications and infrastructures linking systems and services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EU Login&#xD;&#xA;EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services and websites, using a single email address and password. EU Login implements the single sign-on functionality.&#xD;&#xA;https://webgate.ec.europa.eu/cas/help.html &#xD;&#xA;">
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableEuropeanSolutionComponent"/>
+  <properties
+      key="dct:references"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="ID"
+      value="ABB233"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+</archimate:ApplicationComponent>

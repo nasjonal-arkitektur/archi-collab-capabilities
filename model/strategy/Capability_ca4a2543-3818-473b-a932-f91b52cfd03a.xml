@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="12. Ability to advertise/query for governance artifacts"
+    name="12. Ability to advertise/query for governance artifacts [ns:togsoara]"
     id="ca4a2543-3818-473b-a932-f91b52cfd03a">
   <properties
       key="difi:namespace"

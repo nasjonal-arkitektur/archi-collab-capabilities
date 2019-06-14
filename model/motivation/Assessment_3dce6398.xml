@@ -1,0 +1,19 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Sharing and Reuse Enablers [ns:eira]"
+    id="3dce6398">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:Assessment"/>
+  <properties
+      key="ID"
+      value="ABB332"/>
+  <properties
+      key="dct:publisher"
+      value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
+</archimate:Assessment>

@@ -1,0 +1,8 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Offering Exchange [ns:toopra]"
+    id="1b8e2b0b-5dd5-4c13-84a7-795358d8a5f5">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessInteraction>

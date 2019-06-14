@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOOP eDelivery Access Point (DC) [ns:toopra]"
+    id="2cf4c97d-66ce-4c15-a8d1-87ebe75e988a">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationComponent>

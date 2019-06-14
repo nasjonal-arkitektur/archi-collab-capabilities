@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" Chief Data Officer"
+    name=" Chief Data Officer [ns:dmbok2]"
     id="faeb7fb5-2836-4d5a-bf59-4aa78f4bd8df">
   <properties
       key="difi:namespace"

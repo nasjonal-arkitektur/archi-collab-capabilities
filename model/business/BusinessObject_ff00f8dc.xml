@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Information [ns:eira]"
+    id="ff00f8dc"
+    documentation="DESCRIPTION:&#xD;&#xA;Represents the business facts, data, or opinions, in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audio-visual forms that the capability exchanges with other capabilities to support the execution of value streams. Examples include information about public service consumers, products and services, policies and rules, reports and metrics.&#xD;&#xA;&#xD;&#xA;Based on TOGAF guide about business capabilities and TOGAF definition of information.&#xD;&#xA;https://www2.opengroup.org/ogsys/catalog/g161 &#xD;&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/   &#xD;&#xA;&#xD;&#xA;Syn. Business Facts, Business Data, Business Opinions&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Business Information ABB  is salient for organisational interoperability because it represents the entity being exchanged between organisations. Its interoperability needs to be guaranteed by means of organisational and semantic interoperability specifications.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Surveillance3 - Surveillance information  &#xD;&#xA;Published Surveillance information (Business Information) on Europa: Textile category 1 - Cotton yarn, not put up for retail sale [Council Regulation (EEC) No 3030/93] from Belarus in 2015: see URL for details.&#xD;&#xA;http://ec.europa.eu/taxation_customs/dds2/surv/surv_data_list.jsp?Lang=en&amp;survNumber=670010&amp;survType=1&amp;startDate=20150101&amp;originCode=BY &#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:BusinessInformation"/>
+  <properties
+      key="ID"
+      value="ABB13"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:publisher"/>
+</archimate:BusinessObject>

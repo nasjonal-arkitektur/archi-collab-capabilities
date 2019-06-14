@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Functional Component "
+    name="Functional Component  [ns:togsoara]"
     id="eab05504-4fca-430b-a299-83a686c5bc2e"
     documentation="This ABB provides business functionality and aids in the realization of the Service Component. A Functional Component may be composed of other Functional Components and/or domain objects.">
   <properties

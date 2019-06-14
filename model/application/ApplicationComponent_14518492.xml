@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration and Solution Cartography Service Component [ns:eira]"
+    id="14518492"
+    documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of documenting the configuration and architecture of solutions.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Configuration and Solution of Cartography Component ABB  is salient for technical interoperability because it provides the implementation of the functionalities which can be exploited to document the interoperabilty features of a solution or a set of solution/services. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Essential&#xD;&#xA;The EA Essential tool provides with a semantically-rich meta-model. This means accurate modelling which allows for sophisticated reporting. Essential can be configured to import data from a wide range of sources such as CMDBs, Business Process Modelling tools, PMO tools, etc. The Essential Import Utility REST API allows to schedule automated imports from external data sources to keep the repository accurate and current. Complex queries can be built on the repository using the query wizard in Essential Open Source.&#xD;&#xA;In addition to traditional the Enterprise Architecture assets, Essential also manages information about the entire organization including resources, skills, contracts, risk, security and more.&#xD;&#xA;https://www.enterprise-architecture.org/features.php &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB213"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
+  <properties
+      key="dct:type"
+      value="eira:ConfigurationAndCartographyServiceComponent"/>
+</archimate:ApplicationComponent>

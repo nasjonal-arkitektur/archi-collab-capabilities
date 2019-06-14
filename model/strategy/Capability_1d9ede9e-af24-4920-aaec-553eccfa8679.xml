@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Validation, Standardization and Enrichment"
+    name="Data Validation, Standardization and Enrichment [ns:dmbok2]"
     id="1d9ede9e-af24-4920-aaec-553eccfa8679">
   <properties
       key="difi:namespace"

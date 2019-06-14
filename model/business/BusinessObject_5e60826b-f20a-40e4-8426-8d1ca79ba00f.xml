@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Consumer Identity [ns:toopra]"
+    id="5e60826b-f20a-40e4-8426-8d1ca79ba00f">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessObject>

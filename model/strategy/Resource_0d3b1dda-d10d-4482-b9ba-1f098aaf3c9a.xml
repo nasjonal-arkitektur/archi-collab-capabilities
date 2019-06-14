@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Information Lifecycle Manager"
+    name="Information Lifecycle Manager [ns:togsoara]"
     id="0d3b1dda-d10d-4482-b9ba-1f098aaf3c9a"
     documentation="This ABB is responsible to providing lifecycle management support for data; e.g., CRUD and to apply business logic based upon the context of that data.">
   <properties

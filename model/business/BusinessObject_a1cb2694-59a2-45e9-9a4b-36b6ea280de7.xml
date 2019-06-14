@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence [ns:toopra]"
+    id="a1cb2694-59a2-45e9-9a4b-36b6ea280de7">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessObject>

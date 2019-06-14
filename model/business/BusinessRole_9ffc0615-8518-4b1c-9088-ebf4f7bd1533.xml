@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT Auditor"
+    name="IT Auditor [ns:dmbok2]"
     id="9ffc0615-8518-4b1c-9088-ebf4f7bd1533"
     documentation="IT Auditor: An internal or external auditor of IT responsibilities, including data quality and data security.">
   <properties

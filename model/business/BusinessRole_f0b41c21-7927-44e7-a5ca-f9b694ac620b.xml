@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadata Specialist"
+    name="Metadata Specialist [ns:dmbok2]"
     id="f0b41c21-7927-44e7-a5ca-f9b694ac620b"
     documentation="Metadata Specialist: Responsible for integration, control, and delivery of Metadata, including administration of Metadata repositories.">
   <properties

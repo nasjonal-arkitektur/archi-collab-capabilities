@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Content [ns:eira]"
+    id="41e80adb"
+    documentation="Placeholder">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessObject>

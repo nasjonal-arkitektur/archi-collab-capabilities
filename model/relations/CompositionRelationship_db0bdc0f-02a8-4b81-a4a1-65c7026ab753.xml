@@ -1,0 +1,15 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="db0bdc0f-02a8-4b81-a4a1-65c7026ab753">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_78e54f9b-2c5b-4761-b60a-426e8f05aec8.xml#78e54f9b-2c5b-4761-b60a-426e8f05aec8"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7bd1db6c.xml#7bd1db6c"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Consumer System [ns:toopra]"
+    id="37b18a1e-8003-4f02-a790-e237c195757c">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Node>

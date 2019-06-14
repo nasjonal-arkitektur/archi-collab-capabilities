@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DMBOK2 Document and Content Management"
+    id="b80b7350-3ce7-43fa-97a6-5a10f4150a02">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a6c11948-d10c-4766-9fa2-3752a188dc42">
+    <bounds
+        x="176"
+        y="196"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_e8db6b12-a566-482a-ace2-2ea76c03517c.xml#e8db6b12-a566-482a-ace2-2ea76c03517c"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Document and Content Management"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

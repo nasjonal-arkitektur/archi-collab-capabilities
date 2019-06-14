@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Provider Discovery [ns:toopra]"
+    id="f0c8d3b8-a62a-4df1-97b8-09538e8a22b4">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessFunction>

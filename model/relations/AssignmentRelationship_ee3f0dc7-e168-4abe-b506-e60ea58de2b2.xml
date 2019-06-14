@@ -1,0 +1,15 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:toopra]"
+    id="ee3f0dc7-e168-4abe-b506-e60ea58de2b2">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_bb3e4c62-0b8b-4875-8f14-81b02213293e.xml#bb3e4c62-0b8b-4875-8f14-81b02213293e"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_29dbd66f-0ce0-4a7c-b2ab-770e1cd36767.xml#29dbd66f-0ce0-4a7c-b2ab-770e1cd36767"/>
+</archimate:AssignmentRelationship>

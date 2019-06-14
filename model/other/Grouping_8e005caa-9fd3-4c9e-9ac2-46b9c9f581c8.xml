@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated Public Services [ns:eira]"
+    id="8e005caa-9fd3-4c9e-9ac2-46b9c9f581c8">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Grouping>

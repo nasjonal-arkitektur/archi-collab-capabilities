@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadata"
+    name="Metadata [ns:dmbok2]"
     id="ade10bd8-69f8-4602-97fe-b29f7c576c7b"
     documentation="Metadata includes planning, implementation, and control activities to enable access to high quality, integrated Metadata, including definitions, models, data flows, and other information critical to understanding data and the systems through which it is created, maintained, and accessed.">
   <properties

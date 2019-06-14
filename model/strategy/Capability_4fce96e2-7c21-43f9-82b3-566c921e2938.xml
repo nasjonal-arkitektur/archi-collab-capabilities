@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="85. Ability to store QoS policies and rules"
+    name="85. Ability to store QoS policies and rules [ns:togsoara]"
     id="4fce96e2-7c21-43f9-82b3-566c921e2938">
   <properties
       key="difi:namespace"

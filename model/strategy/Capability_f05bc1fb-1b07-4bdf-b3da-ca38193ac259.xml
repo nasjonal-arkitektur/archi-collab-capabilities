@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="08. Ability to mediate services from other SOA layers such as the Business Process Layer and the Integration Layer into the Consumer Layer; it provides the ability to integrate the underlying SOA into the Consumer Layer"
+    name="08. Ability to mediate services from other SOA layers such as the Business Process Layer and the Integration Layer into the Consumer Layer; it provides the ability to integrate the underlying SOA into the Consumer Layer [ns:togsoara]"
     id="f05bc1fb-1b07-4bdf-b3da-ca38193ac259">
   <properties
       key="difi:namespace"

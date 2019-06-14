@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Provider [ns:toopra]"
+    id="ea6c3741-a555-4381-8580-730ebb39136b">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessRole>

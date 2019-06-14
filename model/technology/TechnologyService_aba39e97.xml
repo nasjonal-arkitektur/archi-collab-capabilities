@@ -1,0 +1,28 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting and Networking Infrastructure [ns:eira]"
+    id="aba39e97"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionalities for i) hosting Interoperable European Solutions and ii) providing the necessary networks for operating these solutions.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Hosting and Infrastructure ABB is salient for technical interoperability because it provides all the functionalities to host the Interoperable European Solutions  (high availability and high performance hosting infrastructure) and the network where can operate these solutions (public and private network). Hosting and networking represent the lower level of the technical layer, but to be taken into account when design an interoperable solution, as it can create interoperability barriers. Interoperability technical specifications need to be used at this level to ensure interoperability of the levels above.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;DIGIT Hosting and Networking Infrastructure Service&#xD;&#xA;The mission of the Directorate General for Informatics (DIGIT) is to deliver digital services to enable EU policies and to support the Commission's internal administration.&#xD;&#xA;Mission statement&#xD;&#xA;With this goal in mind, DIGIT as trusted partner has the responsibility to:&#xD;&#xA;• Provide the EC, and whenever appropriate other European Institutions and bodies, with high quality and innovative:&#xD;&#xA;o Workplace solutions – creating new ways of working and collaboration for staff;&#xD;&#xA;o Business solutions – delivering information systems supporting rationalised business processes within the framework of the corporate IT Governance strategy;&#xD;&#xA;o Infrastructure solutions – providing reliable, cost-effective and secure infrastructure and services;&#xD;&#xA;o Effective solutions – aligning IT investments with business priorities, facilitating relationships with our strategic partners, balancing risk with business value for the Institution.&#xD;&#xA;• Support the modernisation of public administrations by promoting and facilitating interoperability so that European public administrations can work seamlessly together and with businesses and citizens across boundaries.&#xD;&#xA;https://ec.europa.eu/info/sites/info/files/strategic-plan-2016-2020-dg-digit_march2016_en.pdf &#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:HostingAndNetworkingInfrastructureService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="ID"
+      value="ABB190"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

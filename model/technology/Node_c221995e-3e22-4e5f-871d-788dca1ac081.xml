@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DC's MS Trust List Server [ns:toopra]"
+    id="c221995e-3e22-4e5f-871d-788dca1ac081">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Node>

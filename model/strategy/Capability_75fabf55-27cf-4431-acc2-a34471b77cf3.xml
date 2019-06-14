@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="44. Ability to issue events for non-compliance to QoS requirements"
+    name="44. Ability to issue events for non-compliance to QoS requirements [ns:togsoara]"
     id="75fabf55-27cf-4431-acc2-a34471b77cf3">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="07. Ability to link a variety of systems that do not directly support service-style interactions so that a variety of services can be offered in a heterogeneous environment"
+    name="07. Ability to link a variety of systems that do not directly support service-style interactions so that a variety of services can be offered in a heterogeneous environment [ns:togsoara]"
     id="2cf6a5ad-bc00-4203-99d9-076b178576f3">
   <properties
       key="difi:namespace"

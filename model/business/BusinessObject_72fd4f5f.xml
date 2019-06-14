@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal interoperabiliity content [ns:eira]"
+    id="72fd4f5f"
+    documentation="Placeholder">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessObject>

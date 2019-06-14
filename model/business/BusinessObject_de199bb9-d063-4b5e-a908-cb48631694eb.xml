@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enterprise Structure Data"
+    name="Enterprise Structure Data [ns:dmbok2]"
     id="de199bb9-d063-4b5e-a908-cb48631694eb"
     documentation="Enterprise Structure Data, for example, a chart of accounts, enables reporting of business activity by business responsibility.">
   <properties

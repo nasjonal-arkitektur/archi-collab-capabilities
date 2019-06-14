@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local User Identity [ns:toopra]"
+    id="2011d3d0-a3ea-401e-a93f-1f35325ddfec">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

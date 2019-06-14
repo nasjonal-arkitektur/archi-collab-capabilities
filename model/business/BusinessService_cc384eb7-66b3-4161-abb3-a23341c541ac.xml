@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Processing [ns:toopra]"
+    id="cc384eb7-66b3-4161-abb3-a23341c541ac">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessService>

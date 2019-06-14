@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integration Layer: Integration Controller"
+    name="Integration Layer: Integration Controller [ns:togsoara]"
     id="0441b1a0-8e0c-474c-a955-6be063a58ecf"
     documentation="This ABB is responsible for coordinating and brokering or mediating the interactions between the applications, database, security, etc. that need to work in concert to effectively provide a runtime experience.">
   <properties

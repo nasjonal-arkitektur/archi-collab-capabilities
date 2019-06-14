@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Approval  [ns:toopra]"
+    id="58cb877a-4a26-43cf-b515-ceaab26145bf">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessFunction>

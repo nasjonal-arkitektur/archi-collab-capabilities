@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Managing data interfaces"
+    name="Managing data interfaces [ns:dmbok2]"
     id="4aa35fd5-cadd-40f2-904f-1df190b11725">
   <properties
       key="difi:namespace"

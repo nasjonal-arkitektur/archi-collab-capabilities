@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="9c85d30c-e530-4375-b47e-592ad6c026f4">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a2f92dc8.xml#a2f92dc8"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_dac27926-1996-406b-b828-59c076479ac1.xml#dac27926-1996-406b-b828-59c076479ac1"/>
+</archimate:AggregationRelationship>

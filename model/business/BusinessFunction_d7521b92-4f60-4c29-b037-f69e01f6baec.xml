@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Identification [ns:toopra]"
+    id="d7521b92-4f60-4c29-b037-f69e01f6baec">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessFunction>

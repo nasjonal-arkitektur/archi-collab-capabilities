@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Strategy [ns:eira]"
+    id="d15e691b"
+    documentation="DESCRIPTION:&#xD;&#xA;The overarching strategic plan in the area of cross-border interoperability, developed by the European Commission in conjunction with Member State Chief Information Officers (CIOs).&#xD;&#xA;&#xD;&#xA;Source: ISA2 &#xD;&#xA;https://ec.europa.eu/isa2/actions/continuously-updating-european-interoperability-strategy_en  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Interoperability Strategy ABB  is an interoperability enabler because it helps achieve organisational interoperability by setting up the vision and principles for the development of the interoperability capabilities. The European Interoperability Framework implements the European Interoperability Strategy.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;European Interoperability Strategy (EIS)&#xD;&#xA;COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS - Towards interoperability for European public services &#xD;&#xA;This Communication introduces the European Interoperability Strategy (EIS) and the European Interoperability Framework (EIF) for European public services, two key elements in the Digital Agenda. Together, they promote interoperability among public administrations. &#xD;&#xA;The European Interoperability Strategy (EIS) is developed by the European Commission’s Directorate-General for Informatics. The EIS aims to provide guidance and to prioritise the actions needed to improve interaction, exchange and cooperation among European public administrations across borders and across sectors for the delivery of European public services. &#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:f132547a-7d66-4626-8eb6-9f7428394de7.0017.03/DOC_2&amp;format=PDF &#xD;&#xA;">
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="ID"
+      value="ABB208"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityStrategy"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:reusability"/>
+</archimate:BusinessObject>

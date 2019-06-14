@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Integration Architect"
+    name="Data Integration Architect [ns:dmbok2]"
     id="5577f17c-efee-43ba-a31f-524ccac89946"
     documentation="Data Integration Architect: A senior data integration developer responsible for designing technology to integrate and improve the quality of enterprise data assets.">
   <properties

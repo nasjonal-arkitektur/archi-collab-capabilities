@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scheduler"
+    name="Scheduler [ns:togsoara]"
     id="6f531b4b-be6c-455a-a2d6-98d94c9e5678"
     documentation="This ABB supports the ability to schedule the invocation of business processes and process activities at different times.">
   <properties

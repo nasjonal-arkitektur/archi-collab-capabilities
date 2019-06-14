@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Non-binding Instrument [ns:eira]"
+    id="3e72ec47-6eea-4eed-97f2-4f6e9eaff110"
+    documentation="DESCRIPTION:&#xD;&#xA;Legal means, involving no obligation, which are available to the European institutions to carry out their tasks. The European non-binding, declaratory instruments listed in Article 288 of the Treaty on the Functioning of the European Union are recommendations and opinions:&#xA;• Recommendations are non-mandatory acts issued by the European Commission, the Council of the European Union, or the European Central Bank which suggest a certain form of conduct to those to whom they are addressed without imposing any legal obligations.&#xA;• Opinions are non-binding legal acts adopted by the European institutions which do not bind those to whom they are addressed.&#xA;&#xA;Based on EUR-Lex and EuroVoc&#xA;http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html?locale=en &#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F2927&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F439743&amp;language=en&amp;view=pt&amp;ifacelang=en &#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F6284&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F438412&amp;language=en&amp;view=pt&amp;ifacelang=en &#xA;&#xD;&#xA;Article 288 of the Treaty on the Functioning of the European Union also provides for non binding legal instruments.&#xD;&#xA;- Recommendations call upon the party to whom they are addressed to behave in a particular way without placing them under any legal obligation&#xD;&#xA;- Opinions issued by the EU institutions give assessments of situations or developments in the Union or in the individual Member States. They may also also prepare the way for subsequent, legally binding acts, or be a prerequisite for the institution of proceedings before the Court of Justice&#xD;&#xA;Recommendations and Opinions have moral and political significance, without being legally binding&#xD;&#xA;The three other main forms of actions that shape the EU legal order without having legally binding effect are Resolutions, Declarations and Action programmes.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Non-binding Instrument ABB is a key interoperability enabler as a specialisation of the Legal Act.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xA;&#xA;Action Plan for the future of Organic Production in the European Union&#xA;The Commission launched a consultation for the review of the European policy on organic agriculture in 2012-2013. This consultation has also been an opportunity to consult experts, stakeholders and the public on areas where a new action plan might be needed. To help organic farmers, producers and retailers adjust to the proposed policy changes and meet future challenges, the Commission has also approved an Action Plan on the future of Organic Production in Europe. The Plan foresees to better inform farmers on rural development and EU farm policy initiatives encouraging organic farming, to strengthen links between EU research and innovation projects and organic production and to encourage the use of organic food, e.g. in schools.&#xA;https://ec.europa.eu/agriculture/organic/eu-policy/european-action-plan_en &#xA;">
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="eira:Non-bindingInstrument"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="ID"
+      value="ABB113"/>
+</archimate:BusinessObject>

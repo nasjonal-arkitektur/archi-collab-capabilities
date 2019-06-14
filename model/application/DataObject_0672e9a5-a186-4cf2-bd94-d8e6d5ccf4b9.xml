@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport Container [ns:toopra]"
+    id="0672e9a5-a186-4cf2-bd94-d8e6d5ccf4b9">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

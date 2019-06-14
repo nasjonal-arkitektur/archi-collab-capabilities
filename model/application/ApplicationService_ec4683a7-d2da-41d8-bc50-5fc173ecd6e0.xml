@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMP Registration [ns:toopra]"
+    id="ec4683a7-d2da-41d8-bc50-5fc173ecd6e0">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationService>

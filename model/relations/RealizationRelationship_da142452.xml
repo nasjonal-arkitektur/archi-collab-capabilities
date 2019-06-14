@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="da142452">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f29ba44a.xml#f29ba44a"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_311e1fb8.xml#311e1fb8"/>
+</archimate:RealizationRelationship>

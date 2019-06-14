@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Explicit Request [ns:toopra]"
+    id="3989c679-dae4-4ffa-89f4-7872991a7d2f">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

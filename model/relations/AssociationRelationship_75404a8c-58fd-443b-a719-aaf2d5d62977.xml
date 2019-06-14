@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has to fulfil [ns:eira]"
+    id="75404a8c-58fd-443b-a719-aaf2d5d62977">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7e1bcb9c-134b-49af-a21e-77b0437e6976.xml#7e1bcb9c-134b-49af-a21e-77b0437e6976"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_55519e3b-eb6b-44b0-99de-16aabd2c4fdd.xml#55519e3b-eb6b-44b0-99de-16aabd2c4fdd"/>
+</archimate:AssociationRelationship>

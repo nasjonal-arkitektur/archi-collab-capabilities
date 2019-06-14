@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06. Ability to define the elements of an assembly at design time and have the assembly occur at runtime based on a set of rules"
+    name="06. Ability to define the elements of an assembly at design time and have the assembly occur at runtime based on a set of rules [ns:togsoara]"
     id="a62575a0-8a78-442a-8e18-c5b8ddb9328c">
   <properties
       key="difi:namespace"

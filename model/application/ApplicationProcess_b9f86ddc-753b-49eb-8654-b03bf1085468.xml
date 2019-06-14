@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Data Consumer [ns:toopra]"
+    id="b9f86ddc-753b-49eb-8654-b03bf1085468">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationProcess>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eIDAS eID [ns:toopra]"
+    id="80a1fc28-3d73-4389-91ab-01d562aad4b5">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationComponent>

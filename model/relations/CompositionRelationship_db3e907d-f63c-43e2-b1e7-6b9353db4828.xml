@@ -1,0 +1,15 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="db3e907d-f63c-43e2-b1e7-6b9353db4828">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_78e54f9b-2c5b-4761-b60a-426e8f05aec8.xml#78e54f9b-2c5b-4761-b60a-426e8f05aec8"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_bfe241b8-1647-4bae-bbb1-75e90c17e9e7.xml#bfe241b8-1647-4bae-bbb1-75e90c17e9e7"/>
+</archimate:CompositionRelationship>

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Presentation Flow Manager"
+    name="Presentation Flow Manager [ns:togsoara]"
     id="6f9c9997-856c-4545-a206-d23b256158bb"
     documentation="This ABB is responsible for supporting navigation and control flow in the Consumer Layer. It is an important part in the assemblage of a view component to send back and render in the client.">
   <properties

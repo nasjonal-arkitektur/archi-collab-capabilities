@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Provider System [ns:toopra]"
+    id="a45dabfd-14e5-4204-a137-9acc68aed9c6">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Node>

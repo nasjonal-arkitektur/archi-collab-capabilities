@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specification [ns:eira]"
+    id="3996fbf3-b2cf-40d2-b563-db5a20090c47">
+  <properties
+      key="ID"
+      value="ABB163"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilitySpecification"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

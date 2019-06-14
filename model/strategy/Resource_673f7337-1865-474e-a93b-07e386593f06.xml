@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Rule"
+    name="Business Rule [ns:togsoara]"
     id="673f7337-1865-474e-a93b-07e386593f06"
     documentation="This ABB defines a business rule constraining some aspects of business such as business processes, services, and information. Business rule is one of the fundamental constructs of an SOA solution and analysis and design based on the service-oriented paradigm. The business rules may apply throughout the SOA solution and governance lifecycle.">
   <properties

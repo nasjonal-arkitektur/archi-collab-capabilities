@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="proposes [ns:eira]"
+    id="8c9b2ec5-f342-4a36-867d-1399e4da490d"
+    documentation="A [Public Service Provider] proposes a [Service Delivery Model]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7bd1db6c.xml#7bd1db6c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a549c619.xml#a549c619"/>
+</archimate:AssociationRelationship>

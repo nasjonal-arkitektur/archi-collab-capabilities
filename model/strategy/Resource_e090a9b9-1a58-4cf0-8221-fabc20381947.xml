@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Query, Search, Reporting Engine"
+    name="Query, Search, Reporting Engine [ns:togsoara]"
     id="e090a9b9-1a58-4cf0-8221-fabc20381947"
     documentation="This ABB is responsible for supporting ad hoc queries, search, reporting, slicing/dicing/drill-downs, and Online Analytical Processing (OLAP) capabilities for enterprise information.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Providing operational intelligence and management decision support"
+    name="Providing operational intelligence and management decision support [ns:dmbok2]"
     id="fcb27073-219f-464f-a16a-7ce5a66ee72d">
   <properties
       key="difi:namespace"

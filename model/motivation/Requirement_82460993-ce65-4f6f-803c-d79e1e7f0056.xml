@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request for Evidence initiated by User [ns:toopra]"
+    id="82460993-ce65-4f6f-803c-d79e1e7f0056">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Requirement>

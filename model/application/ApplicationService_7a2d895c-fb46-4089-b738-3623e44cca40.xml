@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify seal of the AS4 message [ns:toopra]"
+    id="7a2d895c-fb46-4089-b738-3623e44cca40">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationService>

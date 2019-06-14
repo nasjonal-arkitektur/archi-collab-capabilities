@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="5ab26cb6-50ef-4065-9d65-633f1079747b">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_31a9b3c6-84c4-4916-96fd-6a1bbb2ef707.xml#31a9b3c6-84c4-4916-96fd-6a1bbb2ef707"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a8eb3fef.xml#a8eb3fef"/>
+</archimate:AssociationRelationship>

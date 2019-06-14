@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Advanced in-database analytics"
+    name="Advanced in-database analytics [ns:dmbok2]"
     id="0dd5b6d5-4b64-47db-bcdd-b06d80512616">
   <properties
       key="difi:namespace"

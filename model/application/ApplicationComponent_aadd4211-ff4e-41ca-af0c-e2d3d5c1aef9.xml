@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Point [ns:toopra]"
+    id="aadd4211-ff4e-41ca-af0c-e2d3d5c1aef9">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,22 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Networking Service [ns:eira]"
+    id="338eb0b9"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionalities provided by a network provider which is the combination of transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, by radio, by optical or by other electromagnetic means, including satellite networks, fixed (circuit- and packet- switched, including Internet) and mobile terrestrial networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed.&#xD;&#xA;&#xD;&#xA;Based on DIRECTIVE 2002/21/EC on a common regulatory framework for electronic communications networks and services&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002L0021&amp;from=EN  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Networking Service ABB is salient for technical interoperability because it provides all the required functionalities in order to create the suitable network underlayer    where can operate interoperable solutions. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;sTESTA&#xD;&#xA;The TESTA network service – which stands for Trans European Services for Telematics between Administrations – provides a European backbone network for data exchange between a wide variety of public administrations.&#xD;&#xA;The network uses the Internet Protocols (IP) to ensure universal reach, but is operated by the EU Commission separately from the Internet. It provides guaranteed performance and a high level of security and has connections with all the EU Institutions and national networks. It caters for the exchange of both unclassified and classified information.&#xD;&#xA;https://ec.europa.eu/isa2/solutions/testa_en &#xD;&#xA;">
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="ID"
+      value="ABB150"/>
+  <properties
+      key="dct:type"
+      value="eira:NetworkingService"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

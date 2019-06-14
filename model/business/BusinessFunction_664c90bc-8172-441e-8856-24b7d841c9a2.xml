@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Review [ns:toopra]"
+    id="664c90bc-8172-441e-8856-24b7d841c9a2">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessFunction>

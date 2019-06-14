@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is supported by [ns:eira]"
+    id="1a78afda"
+    documentation="A [Public Service] is supported by an [Interoperable European Solution]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a2f92dc8.xml#a2f92dc8"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_31a9b3c6-84c4-4916-96fd-6a1bbb2ef707.xml#31a9b3c6-84c4-4916-96fd-6a1bbb2ef707"/>
+</archimate:AssociationRelationship>

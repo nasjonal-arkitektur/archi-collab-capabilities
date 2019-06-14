@@ -1,0 +1,19 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service [ns:eira]"
+    id="502fa249"
+    documentation="DESCRIPTION:&#xD;&#xA;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union. A Public Service is a mandatory or discretionary set of acts performed, or able to be performed, by or on behalf of a public organisation. Services may be for the benefit of an individual, a business, or other public authority, or groups of any of these. The capacity to act exists whether it is used or not, and the term 'benefit' may apply in the sense of enabling the fulfilment of an obligation. As defined in the revised version of the European Interoperability Framework, a European public service comprises any service provided by public administrations in Europe, or by other organisations on their behalf, to businesses, citizens or others public administrations. Public service – activities that public authorities identify as being of particular importance to citizens (A2C), businesses (A2B) and public administrations (A2A) and that would not be supplied (or would be supplied under different conditions) if there was no public intervention.&#xD;&#xA;&#xD;&#xA;Sources: EIF, ISA2 Core Vocabularies, IMM&#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xD;&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/imm_guideline_1.pdf &#xD;&#xA;https://ec.europa.eu/isa2/actions/assessing-progress-being-made-towards-interoperability_en &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service ABB is salient for organisational interoperability because it is the central element around which interoperabilty needs to be ensured, as stated in the EIF: &quot;The European Interoperability Framework is a commonly agreed approach to the delivery of European public services in an interoperable manner&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUROPASS2 - Make better use of skills and opportunities across Europe&#xD;&#xA;Europass is a service to help individuals to communicate their skills, qualifications and experience through the use of standardised documents templates.&#xD;&#xA;http://ec.europa.eu/social/main.jsp?catId=1266&amp;langId=en &#xD;&#xA;">
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="ID"
+      value="ABB1"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessService>

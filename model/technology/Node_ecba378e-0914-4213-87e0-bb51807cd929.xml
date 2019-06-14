@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS4 Gateway (DP) [ns:toopra]"
+    id="ecba378e-0914-4213-87e0-bb51807cd929">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Node>

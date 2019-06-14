@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Message Transformer"
+    name="Message Transformer [ns:null]"
     id="76b08149-aff4-4024-81f1-055189c38ecc"
     documentation="This ABB is responsible for transforming messages from one format to the other, including data format transforms into a single “canonical” form or its subset, and transformation across protocols to whatever protocols that are routed. It also supports data enrichment."/>

@@ -1,0 +1,16 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="e9ecedc0-9e7b-4751-9c96-a2cc73cd9a50"
+    documentation="The goal of [Achieving Technical Interoperability] is assessed by the use of [Service Registries] that provision/consume back-office services.">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f29ba44a.xml#f29ba44a"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_16bd3f16.xml#16bd3f16"/>
+</archimate:RealizationRelationship>

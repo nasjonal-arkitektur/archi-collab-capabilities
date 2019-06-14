@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant Directory Management [ns:toopra]"
+    id="44037d17-87b1-4ec5-81b6-cfca7427ba59">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationFunction>

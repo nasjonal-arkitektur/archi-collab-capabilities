@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Flow Manager"
+    name="Process Flow Manager [ns:togsoara]"
     id="2bbe6dc3-2efd-41e6-85a0-c98792ee8c32"
     documentation="The ABB is responsible for managing process templates and process instances. Process templates describe the business process model. At runtime, this ABB creates process instances from process templates using the Process Factory ABB. A process instance is the representation of a single running business process. The ABB’s job is to manage one or more process instances concurrently. It can support multiple interfaces that interact with business processes; for example, an SCA interface for interacting with other service components, and a generic process API for interacting with J2EE clients. It works cooperatively with the Workflow Manager or Human Task Manager ABB. The ABB has a core responsibility to split and manage processes and its sub-processes together and enabling services. This becomes an important part of an SOA’s ability to support business processes of varying granularity. For example, a Process Claim business process might have underlying business processes that support the Process Claim business process. This ABB in this case then manages all the interactions and the decomposition relationships for that individual’s sub-processes and enabling services.">
   <properties

@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences [ns:eira]"
+    id="a045d55c-3742-4c2c-8abe-3e1d93957c24">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_511e94d7.xml#511e94d7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3c837217.xml#3c837217"/>
+</archimate:AssociationRelationship>

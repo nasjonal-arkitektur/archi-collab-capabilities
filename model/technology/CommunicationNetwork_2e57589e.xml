@@ -1,0 +1,25 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Network [ns:eira]"
+    id="2e57589e"
+    documentation="DESCRIPTION:&#xD;&#xA;A network that is used for the only purpose of realising the physical communication among Interoperable European Solution (e.g. sTESTA), and cannot be accessed by the public.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Private Network ABB is salient for technical interoperability because it provides  the private network where can operate interoperable solutions. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Any private network&#xD;&#xA;Hosts within enterprises that use IP can be partitioned into two categories:&#xD;&#xA;Category 1: hosts that do not require access to hosts in other enterprises or the Internet at large; hosts within this category may use IP addresses that are unambiguous within an enterprise, but may be ambiguous between enterprises.&#xD;&#xA;Category 2: hosts that need access to a limited set of outside services (e.g., E-mail, FTP, netnews, remote login) which can be handled by mediating gateways (e.g., application layer gateways). For any hosts in this category an unrestricted external access (provided via IP connectivity) may be unnecessary and even undesirable for privacy/security reasons. Just like hosts within the first category, such hosts may use IP addresses that are unambiguous within an enterprise, but may be ambiguous between enterprises.&#xD;&#xA;A third category is what is called a 'public network’ and consist of the following:&#xD;&#xA;Category 3: hosts that need network layer access outside the enterprise (provided via IP connectivity); hosts in the last category require IP addresses that are globally unambiguous.&#xD;&#xA;https://tools.ietf.org/html/rfc1918 &#xD;&#xA;">
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="ID"
+      value="ABB93"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivateNetwork"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:CommunicationNetwork>

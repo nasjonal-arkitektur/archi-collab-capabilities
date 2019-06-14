@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Integration and Interoperability"
+    name="Data Integration and Interoperability [ns:dmbok2]"
     id="c7408806-0bf8-4973-a214-3ae169ddb7c1"
     documentation="Data Integration and Interoperability includes processes related to the movement and consolidation of data within and between data stores, applications, and organizations.">
   <properties

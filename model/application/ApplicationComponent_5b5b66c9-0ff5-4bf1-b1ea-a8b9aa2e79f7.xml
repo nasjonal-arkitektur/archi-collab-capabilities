@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Component [ns:eira]"
+    id="5b5b66c9-0ff5-4bf1-b1ea-a8b9aa2e79f7"
+    documentation="DESCRIPTION:&#xD;&#xA;Privacy Component implements the functionalities of storing, securing, anonymising, pseudonymising, rectifying and erasing personal data.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Privacy Service ABB  is salient for interoperability because &quot;security and privacy are primary concerns in the provision of public services&quot; (EIF) and, as stated in EIF Recommendation 15: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;SOLVIT&#xD;&#xA;Solvit is a mailbox service for the access, rectification or deletion of personal data.&#xD;&#xA;http://ec.europa.eu/solvit/privacy-statement/#maincontentSec8">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="ID"
+      value="ABB236"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyComponent"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
+  <properties
+      key="dct:publisher"/>
+</archimate:ApplicationComponent>

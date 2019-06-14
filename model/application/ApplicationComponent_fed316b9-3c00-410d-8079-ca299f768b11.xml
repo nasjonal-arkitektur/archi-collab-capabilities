@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PePPOL Directory [ns:toopra]"
+    id="fed316b9-3c00-410d-8079-ca299f768b11">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationComponent>

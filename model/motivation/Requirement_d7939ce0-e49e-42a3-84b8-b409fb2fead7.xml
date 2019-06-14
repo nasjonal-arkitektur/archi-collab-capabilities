@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP validates User is authorized [ns:toopra]"
+    id="d7939ce0-e49e-42a3-84b8-b409fb2fead7">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Requirement>

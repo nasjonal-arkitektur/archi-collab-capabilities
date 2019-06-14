@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transaction Manager"
+    name="Transaction Manager [ns:null]"
     id="f6eaf627-b9af-4ebf-94cb-0b829005a488"
     documentation="This ABB manages transactions and encapsulates transaction handling from the remaining tiers, especially when a composite service invokes a service chain. Types of transaction handling include atomic ACID transactions, two-phase commit, long-running, journaled, and compensating transactions. It leverages standards such as WS* (WS-Coordination, with WS-Atomic Transaction for atomic, ACID transactions and WS-BusinessActivity for long-running transactions) standards to achieve this. Most of the transaction standards specify a set of transaction interaction patterns to address different kinds of transactions."/>

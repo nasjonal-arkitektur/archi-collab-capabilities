@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register SMP [ns:toopra]"
+    id="efb9bc86-a532-4dd9-8ad8-51b9fc0fe31b">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationProcess>

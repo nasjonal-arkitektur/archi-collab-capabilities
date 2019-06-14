@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF Interoperability Level [ns:eira]"
+    id="591e18ad-5985-4940-9249-2ec35f14d543">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessObject>

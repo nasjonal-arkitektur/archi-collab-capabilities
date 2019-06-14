@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Skill [ns:eira]"
+    id="c5cb982d"
+    documentation="DESCRIPTION:&#xD;&#xA;Expertise in organizing interoperability as defined in the New EIF.&#xD;&#xA;&#xD;&#xA;Based on the definitions of skill and organisational in the Oxford dictionary.&#xD;&#xA;https://en.oxforddictionaries.com/definition/skill &#xD;&#xA;&#xD;&#xA;Syn. Interoperability Competence&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;The Interoperability Skill ABB  is an interoperability enabler because it helps achieve organisational interoperability by removing a barrier to implement interoperability policies, as stated in the EIF: &quot;Member States should include interoperability skills in their interoperability strategies, acknowledging that interoperability is a multi-dimensional issue that needs awareness and skills in legal, organisational, semantic and technical.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Surveillance3 - Knowledge of English to access and use the open data provided through the EU Open Data Portal&#xD;&#xA;Knowledge of English is required in order to access and use the database of specific products under ‘surveillance’ or monitoring imported into the EU customs territory in the present and past years. The database for surveillance on the EUROPA web-site displays the volumes of specific products imported into the EU customs territory in the present and in the past year.&#xD;&#xA;https://data.europa.eu/euodp/data/dataset/surveillance &#xD;&#xA;">
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilitySkill"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="ID"
+      value="ABB220"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

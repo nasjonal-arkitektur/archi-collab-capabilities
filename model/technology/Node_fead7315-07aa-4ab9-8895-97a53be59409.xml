@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMP Server (DC) [ns:toopra]"
+    id="fead7315-07aa-4ab9-8895-97a53be59409">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Node>

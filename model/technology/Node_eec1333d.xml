@@ -1,0 +1,31 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting Facility [ns:eira]"
+    id="eec1333d"
+    documentation="DESCRIPTION:&#xD;&#xA;The equipment supporting the hosting of Interoperable European Solutions and their components, usually embodied in a building.&#xD;&#xA;&#xD;&#xA;Based on DIGIT C Infrastructure Services Provision&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Hosting Facility ABB is salient for technical interoperability because it provides all the equipment supporting the hosting of interaoperable solutions and their components.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;DIGIT/C Hosting Facility&#xD;&#xA;DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. &#xD;&#xA;The dynamic sites supported by the standard Apache web servers are mainly sites based on Coldfusion and in some cases also sites using CGI scripts.&#xD;&#xA;Dynamic sites based on particular technologies (i.e. Weblogic) are being hosted on individual application servers and are being integrated with the other related sites using reverse proxy mappings.&#xD;&#xA;Direct HTTP access to the back-end web servers hosting the static sites is denied by the standard web server configuration.&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="ID"
+      value="ABB191"/>
+  <properties
+      key="dct:type"
+      value="eira:HostingFacility"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
+  <properties
+      key="secure_access"
+      value="[ Yes | No ]"/>
+  <properties
+      key="processing"
+      value="[ Yes | No ]"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="storage"
+      value="[ Yes | No ]"/>
+</archimate:Node>

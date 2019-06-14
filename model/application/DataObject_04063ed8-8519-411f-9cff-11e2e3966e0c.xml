@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP Lookup Criteria [ns:toopra]"
+    id="04063ed8-8519-411f-9cff-11e2e3966e0c">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

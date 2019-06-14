@@ -1,0 +1,19 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Delivery Model [ns:eira]"
+    id="a549c619"
+    documentation="DESCRIPTION:&#xD;&#xA;Way of delivering to public service consumers, or otherwise interacting with them, for the purpose of supplying specific public services. This involves a number of management practices to ensure that the public services are provided as agreed between the public service provider and the consumer. &#xD;&#xA;&#xD;&#xA;Based on the definitions in Innovation Policy Platform (World Bank and OECD) &#xD;&#xA;https://www.innovationpolicyplatform.org/printpdf/12406  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Delivery Model ABB is salient for organisational interoperability because it represents the channel through which interoperable public services are provided to the consumers. Multi-channel service delivery is important to ensure broader access to the service, as stated in the EIF: &quot;A multi-channel service delivery approach, meaning the availability of alternative channels, physical and digital, to access a service, is an important part of public service design, as users may prefer different channels depending on the circumstances and their needs.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Ecolabel - EU and Member State web sites&#xD;&#xA;EU web site: permits to discover the types of products and services that can be awarded with the EU Ecolabel. Furthermore, the site permits to browse through the EU Ecolabel Product Catalogue and Tourist Accommodation Catalogue to find currently awarded products and services. Member State Competent Bodies provide information to businesses and consumers.&#xD;&#xA;http://ec.europa.eu/environment/ecolabel/index_en.htm &#xD;&#xA;https://www.ecolabel.be/fr   &#xD;&#xA;https://www.gov.uk/guidance/apply-for-an-eu-ecolabel ">
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="ID"
+      value="ABB15"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceDeliveryModel"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessInterface>

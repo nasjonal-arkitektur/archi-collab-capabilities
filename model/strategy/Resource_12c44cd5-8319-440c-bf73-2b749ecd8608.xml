@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deployment Unit"
+    name="Deployment Unit [ns:togsoara]"
     id="12c44cd5-8319-440c-bf73-2b749ecd8608"
     documentation="This ABB represents an executable application that can be deployed as a single unit (e.g., exe, war, ear, etc.) in the target hosting environment. This ABB is deployed on Solution Platforms.">
   <properties

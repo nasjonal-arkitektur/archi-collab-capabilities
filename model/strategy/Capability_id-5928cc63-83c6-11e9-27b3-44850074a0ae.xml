@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ability to provide infrastructure needed by runtime infrastructure"
+    name="Ability to provide infrastructure needed by runtime infrastructure [ns:togsoara]"
     id="id-5928cc63-83c6-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Repository"
+    name="Process Repository [ns:togsoara]"
     id="7c2cb8ed-d4e0-4267-a5b8-502c7ad83772"
     documentation="The ABB acts a repository store for all business processes. This ABB is internal to the layer and interfaces with the Data Repository ABB in the Information Layer and Asset Repository ABB in the Governance Layer. It is the Process Repository ABB where other ABBs such as the Process Controller ABB will turn to obtain process information such as state information.">
   <properties

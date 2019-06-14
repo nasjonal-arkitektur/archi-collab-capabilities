@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Consumer's Certificate [ns:toopra]"
+    id="14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

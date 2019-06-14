@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Provider Discovery [ns:toopra]"
+    id="b726c98e-b9e6-4434-9223-43bfd6bb96f1">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationFunction>

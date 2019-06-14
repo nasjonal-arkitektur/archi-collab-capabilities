@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA Viewpoint [ns:eira]"
+    id="e4aa0945-0583-4418-9938-e182014b9831">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessObject>

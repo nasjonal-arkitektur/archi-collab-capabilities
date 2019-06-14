@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publish SMP location [ns:toopra]"
+    id="91edce94-cf73-4b20-9cdc-f1153e922047">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationService>

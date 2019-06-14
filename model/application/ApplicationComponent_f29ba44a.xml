@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Registry Component [ns:eira]"
+    id="f29ba44a"
+    documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of registering the system service within a catalogue to be discovered by other services.&#xD;&#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING back-office services.&#xD;&#xA;&#xD;&#xA;Source ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;Syn. Service Catalogue Component&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Registration Component ABB  is a key interoperability enabler because it supports to achieve technical interoperability by provisioning and consuming back-office services as stated in the EIF recommendation n°44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;jUDDI&#xD;&#xA;jUDDI is an open source Java implementation of OASIS Universal Description, Discovery, and Integration (UDDI) specification for (Web) Services.&#xD;&#xA;https://juddi.apache.org/ &#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:ServiceRegistryComponent"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="ID"
+      value="ABB133"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
+</archimate:ApplicationComponent>

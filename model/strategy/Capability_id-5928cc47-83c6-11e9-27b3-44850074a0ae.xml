@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ability to act as a broker between services requests and invoking implementations"
+    name="Ability to act as a broker between services requests and invoking implementations [ns:togsoara]"
     id="id-5928cc47-83c6-11e9-27b3-44850074a0ae">
   <properties
       key="difi:namespace"

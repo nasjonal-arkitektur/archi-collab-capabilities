@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="ebf7f51f-9097-4180-8b63-855d2de57b3c">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_2d681b0d.xml#2d681b0d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a549c619.xml#a549c619"/>
+</archimate:RealizationRelationship>

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asset Repository"
+    name="Asset Repository [ns:togsoara]"
     id="1712ebdc-f215-4615-b06c-ad3d8fd7dc68"
     documentation="This ABB enables organizations to organize, govern, and manage their valuable assets scattered throughout the enterprise and to encourage re-use of existing assets within the organization. It provides the ability to search for the asset by different perspectives such as for general description, classification, usage, and content. Assets could be business processes model, service artifacts, components design and code, models, documents, etc. Standards for asset repository and management include Re-usable Asset Specification (RAS) from OMG.">
   <properties

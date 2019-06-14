@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Control [ns:toopra]"
+    id="d6feb0a6-5740-4afe-8523-9cfcf9487cb0">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessFunction>

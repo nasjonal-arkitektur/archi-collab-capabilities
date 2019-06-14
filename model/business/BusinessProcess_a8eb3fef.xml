@@ -1,0 +1,22 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Cycle [ns:eira]"
+    id="a8eb3fef"
+    documentation="DESCRIPTION:&#xD;&#xA;The series of public policy phases that are regularly repeated in order to manage all aspects of a public policy.&#xD;&#xA;&#xD;&#xA;Based on EU Better Regulation (list of phases) and Oxford dictionary (cycle definition)&#xD;&#xA;http://ec.europa.eu/smart-regulation/guidelines/ug_chap1_en.htm (chapter 2 &quot;What is Better Regulation?&quot;) &#xD;&#xA;http://publicadministrationtheone.blogspot.be/2012/08/public-policy-models-of-policy-making_27.html &#xD;&#xA;&#xD;&#xA;Syn. Policy Cycle&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Policy Cycle ABB is salient for legal interoperability because it impacts the design and formulation of public policies, which are implemented through legal acts. Interoperability principles need to be taken into account during the whole public policy cycle.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Performance-based Full Policy Cycle for the Digital Single Market &#xD;&#xA;The key features of a performance-based full policy cycle are a clear articulation of policy objectives, the identification and use of quantitative indicators of expected short-term and longer-term policy impacts, the identification of synergies between policies, a much greater use of quantitative data in ex-ante impact assessments, the implementation of robust, data-based, independent ex post assessments of the performance of policies relative to their expected impacts and a wide dissemination of lessons learned in such ex-post performance assessments.&#xD;&#xA;http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf &#xD;&#xA;">
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="ID"
+      value="ABB102"/>
+  <properties
+      key="eira:synonym"
+      value="Policy Cycle"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:type"
+      value="eira:PublicPolicyCycle"/>
+</archimate:BusinessProcess>

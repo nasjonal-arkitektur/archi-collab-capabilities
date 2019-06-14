@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="c21e3716-2ae3-488c-901a-5130117cf5bc">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_87f19d49-0d8e-4cba-b19d-78f76d7a19d4.xml#87f19d49-0d8e-4cba-b19d-78f76d7a19d4"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_16bd3f16.xml#16bd3f16"/>
+</archimate:RealizationRelationship>

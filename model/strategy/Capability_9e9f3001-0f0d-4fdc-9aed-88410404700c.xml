@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="31. Ability to store instance and definition of master data and historical data that records changes to master data"
+    name="31. Ability to store instance and definition of master data and historical data that records changes to master data [ns:togsoara]"
     id="9e9f3001-0f0d-4fdc-9aed-88410404700c">
   <properties
       key="difi:namespace"

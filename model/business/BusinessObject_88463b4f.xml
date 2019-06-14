@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Catalogue [ns:eira]"
+    id="88463b4f"
+    documentation="DESCRIPTION:&#xD;&#xA;A catalogue of public services is a collection of descriptions of active public services that are provided by public administrations at any administrative level (i.e. local, regional, national or pan-European). All public service descriptions published in a catalogue of public services conform to a common data model for representing public services.&#xD;&#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING of front-office public services.&#xD;&#xA;&#xD;&#xA;Source: ISA2 Core Vocabularies&#xD;&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf &#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;Syn. Public Service Registry, Public Service Inventory&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Catalogue ABB  is a key interoperability enabler because it helps achieve organisational interoperability by ensuring ensuring the provision/consumption of  front-office public services. Catalogues are also key element of the EIF &quot;Integrated Public Service Governance&quot; conceptual model. According to EIF Recommendation 44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;FEDICT service catalogue&#xD;&#xA;FEDICT, part of the Federal Public Service Policy and Support of Belgium, offers a public service catalogue. Here are a few examples of the offered services: Company data (company information and certificates), Digiflow (access to online certificates), E-mail Relay (relay of e-mail to and from the federal public services and institutions, as a protection to viruses and spam), eBirth (birth online notification and transfer of statistics), eDepot (for notaries), Federal Authentication Service (authentication of individuals for access to online government applications), etc.&#xD;&#xA;http://www.fedict.belgium.be/en/service_catalogue &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="ID"
+      value="ABB124"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+</archimate:BusinessObject>

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Repository"
+    name="Data Repository [ns:togsoara]"
     id="2a8fc22e-9fb0-4046-abfa-7fb3cc241705"
     documentation="This ABB provides the essential foundation for the storage of operational and reshaped information that adds business value. The core data repositories are Analytical Data, Operational Data. Master Data, Unstructure Data, Metadata.&#xD;&#xA;&#xD;&#xA;* Analytical Data Repository: Includes operational data stores, data warehouse, data mart, staging areas, and ad hoc workspaces.&#xD;&#xA;* AOperational Data Repository: Includes transactional hub, ERP, Supply Chain, CRM, etc.&#xD;&#xA;* Master Data Repository: Stores instance and definition of master data and historical data that records changes to master data.&#xD;&#xA;* Unstructured Data Repository: Includes textual objects, graphical objects, multi-media objects, etc.&#xD;&#xA;* Quality of Service Layer: Metadata Repository: Enables storage of metadata. It stores metadata that describes the master data taxonomies and XML schemas and rules for business logic and data validation. It stores information regarding transformation of data types and content and the ability to aggregate data from multiple sources">
   <properties

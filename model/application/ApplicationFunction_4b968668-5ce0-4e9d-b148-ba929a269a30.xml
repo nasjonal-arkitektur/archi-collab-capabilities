@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Exchange [ns:toopra]"
+    id="4b968668-5ce0-4e9d-b148-ba929a269a30">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationFunction>

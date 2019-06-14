@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Processing"
+    name="Processing [ns:dmbok2]"
     id="0246a314-61dd-42e2-a581-84d5a5d16744">
   <properties
       key="difi:namespace"

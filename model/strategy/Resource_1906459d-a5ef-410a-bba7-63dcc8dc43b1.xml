@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Content Manager"
+    name="Content Manager [ns:togsoara]"
     id="1906459d-a5ef-410a-bba7-63dcc8dc43b1"
     documentation="This ABB is responsible for capturing, aggregating, and managing unstructured content in a variety of formats such as images, text documents, web pages, spreadsheets, presentations, graphics, email, video, and other multimedia. It provides the ability to search, catalog, secure, manage, and store unstructured content to support the creation, revision, approval, and publication of content. It provides the ability to identify new categories of content and create taxonomies for classifying enterprise content. This ABB is also responsible for managing the retention, access control and security, auditing and reporting, and ultimate disposition of business records. It provides for the policy-driven movement of content throughout the storage lifecycle and the ability to map content to the storage media type based on the overall value of the content and context of the business content.">
   <properties

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Virtualization Manager"
+    name="Data Virtualization Manager [ns:togsoara]"
     id="d4322d9e-307b-4f2a-9ea4-9168315a769f"
     documentation="This ABB is responsible for providing virtual access and unified representation of enterprise data sources.">
   <properties

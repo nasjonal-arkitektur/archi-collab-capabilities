@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Presentation and Access Enablers [ns:eira]"
+    id="dac27926-1996-406b-b828-59c076479ac1"
+    documentation="A Presentation and Access Enabler is an interface for accessing the Interoperable European Solution and for facilitating the exchange of information.">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Grouping>

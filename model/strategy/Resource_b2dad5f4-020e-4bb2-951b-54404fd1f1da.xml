@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Cleanser"
+    name="Data Cleanser [ns:togsoara]"
     id="b2dad5f4-020e-4bb2-951b-54404fd1f1da"
     documentation="This ABB is responsible for cleansing and applying data quality rules. It enables detection and correction of corrupted or incorrect data.">
   <properties

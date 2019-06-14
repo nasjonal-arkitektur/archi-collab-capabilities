@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is offered by [ns:eira]"
+    id="e33d9883"
+    documentation="A [Hosting Service] is offered by a [Hosting Facility]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_eec1333d.xml#eec1333d"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_7db3adb0.xml#7db3adb0"/>
+</archimate:AssociationRelationship>

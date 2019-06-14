@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="34cabb72-c66d-411e-86cf-788588266273">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_3fbc0556.xml#3fbc0556"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_48904fff-9c64-4c7d-993f-74d88d4934f7.xml#48904fff-9c64-4c7d-993f-74d88d4934f7"/>
+</archimate:ServingRelationship>

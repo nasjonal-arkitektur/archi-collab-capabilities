@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conformance Test Report [ns:eira]"
+    id="011d95dc"
+    documentation="DESCRIPTION:&#xD;&#xA;Data from testing activities and subsequently consolidated in a report to inform stakeholders.&#xD;&#xA;&#xD;&#xA;Based on ISTQB&#xD;&#xA;http://glossary.istqb.org/search/test  &#xD;&#xA;&#xD;&#xA;Syn. Test results&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Conformance Test Report ABB  is salient for technical interoperability because it provides reports of data testing to inform stakeholders.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Jenkins jUnit plug-in &#xD;&#xA;&#xD;&#xA;The JUnit plugin provides a publisher that consumes XML test reports generated during the builds and provides some graphical visualization of the historical test results (see JUnit graph for a sample) as well as a web UI for viewing test reports, tracking failures, and so on. Jenkins understands the JUnit test report XML format (which is also used by TestNG). When this option is configured, Jenkins can provide useful information about test results, such as trends.&#xD;&#xA;https://wiki.jenkins.io/display/JENKINS/JUnit+Plugin &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB131"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="eira:TestReport"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
+</archimate:BusinessObject>

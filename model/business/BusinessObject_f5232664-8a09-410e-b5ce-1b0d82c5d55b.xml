@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Framework [ns:eira]"
+    id="f5232664-8a09-410e-b5ce-1b0d82c5d55b"
+    documentation="DESCRIPTION:&#xD;&#xA;Agreed approach made of interlinked items supporting the management, distribution of sensitive information and individual's information.&#xD;&#xA;&#xD;&#xA;Source: ISA2, EIFv2&#xD;&#xA;https://ec.europa.eu/isa2/isa2_en &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Privacy Framework ABB  is salient for interoperability because &quot;security and privacy are primary concerns in the provision of public services&quot; (EIF) and, as stated in EIF Recommendation 15: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;&#xD;&#xA;European Privacy Framework&#xD;&#xA;European privacy legislation is made up of two parts: The Data Protection Directive (95/46/EC) exists as a common ground across Europe. The Directive is a legislative act of the European Union that requires all member states to ensure there is an &quot;adequate&quot; level of data protection. The second part consists of diverse national laws.&#xD;&#xA;https://www.privacy-europe.com/european-privacy-framework.html">
+  <properties
+      key="ID"
+      value="ABB228"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyFramework"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessObject>

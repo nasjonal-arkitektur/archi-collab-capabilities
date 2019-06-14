@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="166989de-cce3-4098-8986-a777ff88f028">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_9a10cf61.xml#9a10cf61"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_aba39e97.xml#aba39e97"/>
+</archimate:AssociationRelationship>

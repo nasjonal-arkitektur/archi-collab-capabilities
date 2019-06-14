@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Information Access"
+    name="Information Access [ns:togsoara]"
     id="078699e5-2052-4484-985e-0180915f44c0"
     documentation="his category of capabilities addresses the sharing of data and metadata across the layers of the SOA RA such as QoS attributes, attributes defining common rules to be used across the layers, etc. ">
   <properties

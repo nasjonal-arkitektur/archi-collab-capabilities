@@ -1,0 +1,16 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="9b79b5f2-8163-41cb-a3d0-89fa7e0fce71"
+    documentation="The goal of [Achieving Organisational Interoperability] is assessed by the use of [Public Service catalogues] that provision/consume front-office public services.">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_88463b4f.xml#88463b4f"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_eeb5dcb4.xml#eeb5dcb4"/>
+</archimate:RealizationRelationship>

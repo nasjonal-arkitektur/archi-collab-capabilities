@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data migration and conversion"
+    name="Data migration and conversion [ns:dmbok2]"
     id="4daae340-6331-43a2-a3d1-6de9b69cd8ea">
   <properties
       key="difi:namespace"

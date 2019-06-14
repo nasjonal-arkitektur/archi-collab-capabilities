@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMP Service Provider [ns:toopra]"
+    id="5b2a2ea9-184f-4258-a03d-9ae5a372c372">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessRole>

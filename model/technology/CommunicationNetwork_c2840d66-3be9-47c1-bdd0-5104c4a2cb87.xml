@@ -1,0 +1,8 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="National Network of DC's Member State [ns:toopra]"
+    id="c2840d66-3be9-47c1-bdd0-5104c4a2cb87">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:CommunicationNetwork>

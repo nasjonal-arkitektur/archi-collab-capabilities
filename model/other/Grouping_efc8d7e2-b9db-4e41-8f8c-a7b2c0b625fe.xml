@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Activity Monitoring and Management"
+    name="Business Activity Monitoring and Management [ns:togsoara]"
     id="efc8d7e2-b9db-4e41-8f8c-a7b2c0b625fe"
     documentation="This category of capabilities provides monitoring and management of business activities and business processes. It provides the ability to analyze this event information, both in real-time/near real-time, as well as stored (warehoused) events, and to review and assess business activities in the form of event information and determine responses or issues alerts/notifications.">
   <properties

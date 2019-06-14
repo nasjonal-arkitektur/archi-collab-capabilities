@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evidence ontology  [ns:toopra]"
+    id="e37bd0e0-e5bc-4d31-89a9-2cd2574794e2">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic content [ns:eira]"
+    id="74694f55"
+    documentation="Placeholder">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:BusinessObject>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reference and Master Data"
+    name="Reference and Master Data [ns:dmbok2]"
     id="eb48b179-1cec-4ef2-b99f-021f22c9f702"
     documentation="Reference and Master Data includes ongoing reconciliation and maintenance of core critical shared data to enable consistent use across systems of the most accurate, timely, and relevant version of truth about essential business entities.">
   <properties

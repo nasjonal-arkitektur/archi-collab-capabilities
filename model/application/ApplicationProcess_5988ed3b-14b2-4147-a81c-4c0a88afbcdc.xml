@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verifiy seal of the Evidence Request [ns:toopra]"
+    id="5988ed3b-14b2-4147-a81c-4c0a88afbcdc">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationProcess>

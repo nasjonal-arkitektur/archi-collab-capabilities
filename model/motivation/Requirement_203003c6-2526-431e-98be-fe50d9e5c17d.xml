@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confidentiality of Evidence is guaranteed [ns:toopra]"
+    id="203003c6-2526-431e-98be-fe50d9e5c17d">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Requirement>

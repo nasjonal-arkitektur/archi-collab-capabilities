@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="b2863385-65c1-47a8-b0fd-69bea3a097d2">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_502fa249.xml#502fa249"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_5d56a2e3-d509-4b11-a99e-9e21d467c506.xml#5d56a2e3-d509-4b11-a99e-9e21d467c506"/>
+</archimate:FlowRelationship>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="05. Ability to execute the instances of a business process, its sub-processes, and activities therein"
+    name="05. Ability to execute the instances of a business process, its sub-processes, and activities therein [ns:togsoara]"
     id="bff59c21-7948-4291-8d1d-53dacfdfbb7e">
   <properties
       key="difi:namespace"

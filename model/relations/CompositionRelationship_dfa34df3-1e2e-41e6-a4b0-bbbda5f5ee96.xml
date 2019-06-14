@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:togsoara]"
     id="dfa34df3-1e2e-41e6-a4b0-bbbda5f5ee96">
   <properties
       key="difi:namespace"

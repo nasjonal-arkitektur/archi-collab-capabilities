@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:toopra]"
+    id="68bfe54d-a48e-4626-8248-58ce8ffd592d">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_ecba378e-0914-4213-87e0-bb51807cd929.xml#ecba378e-0914-4213-87e0-bb51807cd929"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_a45dabfd-14e5-4204-a137-9acc68aed9c6.xml#a45dabfd-14e5-4204-a137-9acc68aed9c6"/>
+</archimate:ServingRelationship>

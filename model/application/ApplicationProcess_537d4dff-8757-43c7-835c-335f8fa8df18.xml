@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Data Provider [ns:toopra]"
+    id="537d4dff-8757-43c7-835c-335f8fa8df18">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationProcess>

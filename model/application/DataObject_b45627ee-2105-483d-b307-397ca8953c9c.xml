@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAML Token [ns:toopra]"
+    id="b45627ee-2105-483d-b307-397ca8953c9c">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

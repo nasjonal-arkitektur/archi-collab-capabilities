@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Mediation [ns:toopra]"
+    id="19cf2a52-debb-4fa3-a65f-c41d2c4826cf">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationFunction>

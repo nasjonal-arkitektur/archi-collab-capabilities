@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04. Ability to support variety of messaging styles such as one-way, pub-sub, request-response"
+    name="04. Ability to support variety of messaging styles such as one-way, pub-sub, request-response [ns:togsoara]"
     id="04c8c6c5-5341-4a77-8eb3-f6d1c650f86c">
   <properties
       key="difi:namespace"

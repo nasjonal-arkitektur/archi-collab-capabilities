@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP Information [ns:toopra]"
+    id="82234b00-f77a-41f0-afd4-b4a5bd14f35a">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

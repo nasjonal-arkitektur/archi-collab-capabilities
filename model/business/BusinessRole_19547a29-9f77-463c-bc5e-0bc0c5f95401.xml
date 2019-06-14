@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Model Administrator"
+    name="Data Model Administrator [ns:dmbok2]"
     id="19547a29-9f77-463c-bc5e-0bc0c5f95401"
     documentation="Data Model Administrator: Responsible for data model version control and change control.">
   <properties

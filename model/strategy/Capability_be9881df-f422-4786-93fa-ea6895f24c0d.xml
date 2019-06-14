@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Warehousing and Business Intelligence "
+    name="Data Warehousing and Business Intelligence  [ns:dmbok2]"
     id="be9881df-f422-4786-93fa-ea6895f24c0d"
     documentation="Data Warehousing and Business Intelligence includes the planning, implementation, and control processes to manage decision support data and to enable knowledge workers to get value from data via analysis and reporting">
   <properties

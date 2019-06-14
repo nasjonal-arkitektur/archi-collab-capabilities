@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="15. Ability to authenticate/authorize for service invocation and message routing "
+    name="15. Ability to authenticate/authorize for service invocation and message routing  [ns:togsoara]"
     id="cde71c3f-6887-40ad-99ba-40ad7f9a6914">
   <properties
       key="difi:namespace"

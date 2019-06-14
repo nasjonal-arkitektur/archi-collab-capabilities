@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Architect"
+    name="Data Architect [ns:dmbok2]"
     id="95270e45-6db7-48a7-8c83-51624f315205"
     documentation="Data Architect: A senior analyst responsible for data architecture and data integration. Data Architects may work at the enterprise level or a functional level. Data Architects may specialize in data warehousing, data marts, and their associated integration processes.">
   <properties

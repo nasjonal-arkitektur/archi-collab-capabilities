@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:toopra]"
+    id="25c0dca2-78da-47c3-8557-a6a12da9de38">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c6121289-38bc-41c0-8aac-6a094397bfaa.xml#c6121289-38bc-41c0-8aac-6a094397bfaa"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_2e7e9177-23fd-4b68-aebb-3ea9aadd7812.xml#2e7e9177-23fd-4b68-aebb-3ea9aadd7812"/>
+</archimate:RealizationRelationship>

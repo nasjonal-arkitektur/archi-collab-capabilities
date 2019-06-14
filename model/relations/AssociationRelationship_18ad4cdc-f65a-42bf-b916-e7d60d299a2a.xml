@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mandates [ns:eira]"
+    id="18ad4cdc-f65a-42bf-b916-e7d60d299a2a">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3e30eb08.xml#3e30eb08"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_bd38f75f.xml#bd38f75f"/>
+</archimate:AssociationRelationship>

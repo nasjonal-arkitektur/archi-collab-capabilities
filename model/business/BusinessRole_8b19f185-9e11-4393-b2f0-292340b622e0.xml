@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Subject  Matter Expert"
+    name="Subject  Matter Expert [ns:dmbok2]"
     id="8b19f185-9e11-4393-b2f0-292340b622e0">
   <properties
       key="difi:namespace"

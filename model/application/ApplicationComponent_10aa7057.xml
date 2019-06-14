@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Registry Component [ns:eira]"
+    id="10aa7057"
+    documentation="DESCRIPTION:&#xD;&#xA;Implements the functionality of the discovery of essential information about e.g. supervised/accredited trust service providers issuing certificates for electronic signatures, for electronic seals or for website authentication; supervised/accredited trust services for eSignature, eSeal or TimeStamp creation and validation; supervised/accredited trust services for eSignature or eSeal preservation; supervised/accredited trust services for electronic registered delivery.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. Trusted List Component &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;The Trust Registry Component ABB  is salient for technical interoperability because it implements the functionalities of the discovery of essential information about accredited service providers. &#xD;&#xA;&#xD;&#xA;EXAMPLES&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Trusted lists of all EU Member States&#xD;&#xA;EU Member States have the obligation to establish, maintain and publish trusted lists of qualified trust service providers and the qualified trust services provided by them.&#xD;&#xA;Under the Regulation (EC) No 910/2014/EU (eIDAS Regulation), national Trusted Lists have a constitutive effect. In other words, a trust service provider and the trust services it provides will be qualified only if it appears in the Trusted Lists. Consequently, the users (citizens, businesses or public administrations) will benefit from the legal effect associated with a given qualified trust service only if the latter is listed (as qualified) in the Trusted Lists.&#xD;&#xA;Article 22 of the eIDAS Regulation provides indeed the obligation for Member States to establish, maintain and publish trusted lists, including information related to the qualified trust service providers for which they are responsible, together with information related to the qualified trust services provided by them. The lists are to be published in a secured manner, electronically signed or sealed in a form suitable for automated processing.&#xD;&#xA;Trusted Lists are therefore essential in ensuring certainty and building trust among market operators as they indicate the status of the service provider and of the service at the moment of supervision, while aiming at fostering interoperability of qualified trust services by facilitating the validation of, among others, eSignatures and eSeals.&#xD;&#xA;Member States may add trust services other than the qualified ones in the trusted lists, on a voluntary basis, at national level, provided that it is clearly indicated that they are not qualified according to Regulation (EU) No 910/2014.&#xD;&#xA;In order to allow access to the trusted lists of all Member States, the Commission makes them available to the public, through a secure channel to an authenticated web server, the trusted lists as notified by Member States, in a signed or sealed form suitable for automated processing.&#xD;&#xA;https://ec.europa.eu/digital-single-market/en/eu-trusted-lists-trust-service-providers &#xD;&#xA;https://ec.europa.eu/information_society/policy/esignature/trusted-list/tl-mp.xml &#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:TrustRegistryComponent"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="ID"
+      value="ABB146"/>
+  <properties
+      key="dct:publisher"/>
+</archimate:ApplicationComponent>

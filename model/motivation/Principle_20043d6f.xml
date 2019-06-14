@@ -1,0 +1,20 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preservation of information [ns:eira]"
+    id="20043d6f"
+    documentation="EIF Underlying principle 11: preservation of information&#xA;&#xA;Legislation requires that decisions and data are stored and can be accessed for a specified time. This means that records18 and information in electronic form held by public administrations for the purpose of documenting procedures and decisions must be preserved and be converted, where necessary, to new media when old media become obsolete. The goal is to ensure that records and other forms of information keep their legibility, reliability and integrity and can be accessed as long as needed subject to security and privacy provisions.&#xA;&#xA;To guarantee the long-term preservation of electronic records and other kinds of information, formats should be chosen to ensure long-term accessibility, including preservation of associated electronic signatures or seals. In this regard, the use of qualified preservation services, in line with Regulation (EU) 910/2014, can ensure the long-term preservation of information.&#xA;&#xA;For information sources owned and managed by national administrations, preservation is a purely national matter. For information that is not strictly national, preservation becomes a European issue. In that case, an appropriate ‘preservation policy’ should be applied by the Member States concerned, to cope with any difficulties arising if the relevant information is used under different jurisdictions.&#xA;&#xA;Source: The New EIF. https://ec.europa.eu/isa2/eif_en&#xA;The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.">
+  <properties
+      key="ID"
+      value="ABB311"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"
+      value="The Interoperability Solutions for European Public Administrations (ISA² ) Programme"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="eira:EIFPrinciple"/>
+</archimate:Principle>

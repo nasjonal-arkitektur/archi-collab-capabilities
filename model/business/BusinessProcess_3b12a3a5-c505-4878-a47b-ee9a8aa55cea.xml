@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Evidence [ns:toopra]"
+    id="3b12a3a5-c505-4878-a47b-ee9a8aa55cea">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessProcess>

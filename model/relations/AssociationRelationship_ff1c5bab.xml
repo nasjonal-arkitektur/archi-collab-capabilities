@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="signs or agrees upon [ns:eira]"
+    id="ff1c5bab"
+    documentation="An [Organisation] signs an [Interoperability Agreement]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_bd38f75f.xml#bd38f75f"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_ffa77b5f.xml#ffa77b5f"/>
+</archimate:AssociationRelationship>

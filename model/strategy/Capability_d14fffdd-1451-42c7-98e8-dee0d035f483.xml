@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="28. Ability to define a common information model as leveraged by IT such as entity relationships, logical data model for information repositories, and message model for service definition and specification"
+    name="28. Ability to define a common information model as leveraged by IT such as entity relationships, logical data model for information repositories, and message model for service definition and specification [ns:togsoara]"
     id="d14fffdd-1451-42c7-98e8-dee0d035f483">
   <properties
       key="difi:namespace"

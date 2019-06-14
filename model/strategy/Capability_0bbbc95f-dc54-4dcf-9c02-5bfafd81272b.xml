@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Governance"
+    name="Data Governance [ns:dmbok2]"
     id="0bbbc95f-dc54-4dcf-9c02-5bfafd81272b"
     documentation="Data Governance provides direction and oversight for data management by establishing a system of decision rights over data that accounts for the needs of the enterprise. ">
   <properties

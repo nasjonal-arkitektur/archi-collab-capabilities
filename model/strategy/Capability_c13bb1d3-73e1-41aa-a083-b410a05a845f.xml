@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="19. Ability to monitor a business process and insert points at which metrics may be gathered, identify bottlenecks, and optimize workload assignments"
+    name="19. Ability to monitor a business process and insert points at which metrics may be gathered, identify bottlenecks, and optimize workload assignments [ns:togsoara]"
     id="c13bb1d3-73e1-41aa-a083-b410a05a845f">
   <properties
       key="difi:namespace"

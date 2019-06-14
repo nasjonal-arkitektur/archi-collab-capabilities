@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant  and Service Directory [ns:toopra]"
+    id="6bc587b8-e704-4c2f-a2f4-794104e4068f">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessObject>

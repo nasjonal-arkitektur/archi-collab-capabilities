@@ -1,0 +1,31 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Hosting Facility [ns:eira]"
+    id="9a10cf61"
+    documentation="DESCRIPTION: &#xD;&#xA;A Hosting Facility, meaning the equipment supporting the hosting of Interoperable European Solutions and their components, usually embodied in a build-in, which is owned by or dedicated to one organization (e.g. data centre or private cloud).&#xD;&#xA;&#xD;&#xA;Based on DIGIT C Infrastructure Services Provision&#xD;&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Private Hosting Facility ABB is salient for technical interoperability because it provides all the equipment, dedicated to one organization, supporting the hosting of interaoperable solutions and their components.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;DG TAXUD Surveillance3 IES Datawarehouse servers hosted in DG TAXUD Data Centre&#xD;&#xA;The Surveillance3 Data Warehouse plays multiple roles:&#xD;&#xA;• The role of ‘hub-and-spoke’ within the Surveillance3 system where data from different systems are integrated and linked and made available for report &amp; analytics as well as the central place from which other systems are fed with the correct information.&#xD;&#xA;• The role of reporting environment offering all the required reporting, data analysis &amp; discovery and data mining functionality. &#xD;&#xA;https://ec.europa.eu/assets/taxud/taxation_customs/tenders/2016ao02_a2_technical_en.pdf &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivateHostingFacility"/>
+  <properties
+      key="storage"
+      value="[ Yes | No ]"/>
+  <properties
+      key="processing"
+      value="[ Yes | No ]"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:actual_reuse"
+      value="[ Already reused | Reused planned | No]"/>
+  <properties
+      key="secure_access"
+      value="[ Yes | No ]"/>
+  <properties
+      key="ID"
+      value="ABB192"/>
+</archimate:Node>

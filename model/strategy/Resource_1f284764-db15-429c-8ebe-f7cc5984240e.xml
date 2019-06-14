@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Exception Handler"
+    name="Exception Handler [ns:null]"
     id="1f284764-db15-429c-8ebe-f7cc5984240e"
     documentation="This ABB is responsible for handling system exceptions raised during service invocation and message passing. System exceptions are caused due to software or hardware errors and not due to application logic errors. Application exceptions are treated as business events and handled through the Event Manager."/>

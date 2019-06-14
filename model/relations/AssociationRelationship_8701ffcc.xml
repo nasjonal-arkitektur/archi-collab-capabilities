@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is under the responsibility of [ns:eira]"
+    id="8701ffcc"
+    documentation="An [Interoperability Organisation Authority] is responsible for [Interoperability Governance]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_511e94d7.xml#511e94d7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_039f357d.xml#039f357d"/>
+</archimate:AssociationRelationship>

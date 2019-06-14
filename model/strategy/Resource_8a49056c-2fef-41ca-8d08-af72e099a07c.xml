@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Solution Platform"
+    name="Solution Platform [ns:togsoara]"
     id="8a49056c-2fef-41ca-8d08-af72e099a07c"
     documentation="This ABB supports the software environment in which the Solution Components and Solution Building Blocks deploy and run. Examples would be Java Virtual Machines (JVMs) hosting a Service Container Solution Building Block, or a CICS environment.">
   <properties

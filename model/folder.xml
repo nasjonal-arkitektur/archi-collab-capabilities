@@ -1,6 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Combined TOG SOA RA &amp; DMBOK2"
+    name="toop-goopra-2-3"
     id="id-model"
     version="4.4.0">
   <properties
@@ -9,4 +9,66 @@
   <properties
       key="difi:current_language"
       value="no"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="eira:version"
+      value="EIRA v2.0.0"/>
+  <properties
+      key="eira:reuse_status"/>
+  <properties
+      key="eira:iop_score_h2m"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:integrity_and_availability_level"/>
+  <properties
+      key="eira:rationalisation_domain"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:iop_score_overall"/>
+  <properties
+      key="adms:status"
+      value="[completed | deprecated | underDevelopment | withdrawn]"/>
+  <properties
+      key="eira:iop_score_governance"/>
+  <properties
+      key="eira:GovIS_ID"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="eira:published_in_catalogue_or_software_forge"/>
+  <properties
+      key="eira:iop_score_sw_architecture"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:policy_area_extension"/>
+  <properties
+      key="eira:state"/>
+  <properties
+      key="eira:contact_person"/>
+  <properties
+      key="eira:importance_for_the_functioning_of_the_EU"/>
+  <properties
+      key="eira:confidentiality_level"/>
+  <properties
+      key="eira:actual_policy_coverage"/>
+  <properties
+      key="eira:operational_date"/>
+  <properties
+      key="eira:security_requirements"/>
+  <properties
+      key="eira:solution_owner"/>
+  <properties
+      key="eira:reusability"/>
+  <properties
+      key="eira:modelType"/>
+  <properties
+      key="eira:scalability"/>
+  <properties
+      key="eira:iop_score_m2m"/>
+  <properties
+      key="dcat:landingPage"/>
 </archimate:ArchimateModel>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02. Ability to publish the service contract/descriptions in a standards-compliant, interoperable manner for other layers of the SOA RA and design-time service repositories and runtime service registry in the Governance Layer. Ability to provide information about the services to the Services Layer "
+    name="02. Ability to publish the service contract/descriptions in a standards-compliant, interoperable manner for other layers of the SOA RA and design-time service repositories and runtime service registry in the Governance Layer. Ability to provide information about the services to the Services Layer  [ns:togsoara]"
     id="dd67390b-092d-48cb-b79c-7465eef15f75">
   <properties
       key="difi:namespace"

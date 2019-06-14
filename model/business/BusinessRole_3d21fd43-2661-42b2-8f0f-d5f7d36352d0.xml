@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Database Administrator"
+    name="Database Administrator [ns:dmbok2]"
     id="3d21fd43-2661-42b2-8f0f-d5f7d36352d0"
     documentation="Database Administrator: Responsible for the design, implementation, and support of structured data assets and the performance of the technology that makes data accessible.">
   <properties

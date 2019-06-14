@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Attribute Provision [ns:toopra]"
+    id="ecf568c1-2179-498b-b678-3dc7a96de0f0">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,37 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Act [ns:eira]"
+    id="a2bec608-c6cc-47a8-82e7-276e72995f29"
+    documentation="DESCRIPTION:&#xD;&#xA;Legislative acts According to Article 289 of the Treaty on the Functioning of the European Union (TFEU), legislative acts are decisions adopted under the ordinary or a special legislative procedure&#xA;&#xA;Source: https://eur-lex.europa.eu/summary/glossary/legislative_acts.html&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Legal Act ABB is a key interoperability enabler because it helps achieve legal interoperability by ensuring compatible legal/juridical certainty in the exchange of information.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;COMMISSION REGULATION (EU) 2018/1881&#xD;&#xA; of 3 December 2018&#xD;&#xA;amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances.&#xD;&#xA;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1544102387245&amp;uri=CELEX:32018R1881">
+  <properties
+      key="eira:legislation_catalogue_scheme_identifier"/>
+  <properties
+      key="eira:description"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="eira:requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalAct"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="ID"
+      value="ABB164"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:legislation_catalogue_uri"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+</archimate:BusinessObject>

@@ -1,0 +1,27 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange of Business Information [ns:eira]"
+    id="e8ba4e86"
+    documentation="DESCRIPTION:&#xD;&#xA;Communication of business information by a business capability.&#xD;&#xA;This ABB is a key interoperability enabler (*) for assessing the compatibility of interaction in exchanged information.&#xD;&#xA;&#xD;&#xA;Based on TOGAF definitions.&#xD;&#xA;https://www2.opengroup.org/ogsys/catalog/g161&#xD;&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/ &#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;Syn. Exchange of Business Facts, Exchange of Business Data, Exchange of Business Opinions&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Exchange of business Information ABB  is a key interoperability enabler because it helps achieve organisational interoperability by ensuring compatible interaction between organisations, as stated in the EIF: &quot;For the purpose of the EIF, interoperability is the ability of organisations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organisations, through the business processes they support, by means of the exchange of data between their ICT systems&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Easi-MicPro - Agreement of Code of good conduct&#xD;&#xA;Proof of transparency and usage of pan-European reporting standards.&#xD;&#xA;https://webgate.ec.europa.eu/easi-micpro/application#!cogcPublicPage &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB170"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessInformationExchange"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:BusinessInteraction>

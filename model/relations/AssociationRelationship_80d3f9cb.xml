@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences [ns:eira]"
+    id="80d3f9cb"
+    documentation="a [Data Policy] influences a [Representation]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_374e924e.xml#374e924e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8b72c60c.xml#8b72c60c"/>
+</archimate:AssociationRelationship>

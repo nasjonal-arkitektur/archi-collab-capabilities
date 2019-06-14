@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Evidence from DP [ns:toopra]"
+    id="99f62679-1a61-46d1-85e4-8aa11f5671dc">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-DC [ns:toopra]"
+    id="0b0de664-efce-4a0c-bd73-97b781a2183e">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessActor>

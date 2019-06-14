@@ -1,0 +1,16 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="24e9f82f-6f03-4607-8b7f-3cd96e68c26d"
+    documentation="The goal of [Achieving Technical Interoperability] is assessed by the use of [Machine to Machine Interfaces] that ensure compatible interfaces.">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_2d681b0d.xml#2d681b0d"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_16bd3f16.xml#16bd3f16"/>
+</archimate:RealizationRelationship>

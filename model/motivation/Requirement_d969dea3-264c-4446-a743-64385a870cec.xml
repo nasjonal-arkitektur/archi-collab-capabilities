@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Interoperability Requirement [ns:eira]"
+    id="d969dea3-264c-4446-a743-64385a870cec">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Requirement>

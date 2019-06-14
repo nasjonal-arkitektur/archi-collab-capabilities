@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Modelling &amp; Design"
+    name="Data Modelling &amp; Design [ns:dmbok2]"
     id="61a1b1e6-a3f6-4a3a-92dd-4f667e9ecc8a"
     documentation="Data Modeling and Design is the process of discovering, analyzing, representing, and communicating data requirements in a precise form called the data model. ">
   <properties

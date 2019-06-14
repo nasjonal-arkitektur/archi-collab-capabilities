@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="used for sealing [ns:toopra]"
+    id="4c980022-5269-4d53-a250-74d85af7c43e">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5.xml#14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_127a2999-f04e-400e-a443-83d55b200d9b.xml#127a2999-f04e-400e-a443-83d55b200d9b"/>
+</archimate:AssociationRelationship>

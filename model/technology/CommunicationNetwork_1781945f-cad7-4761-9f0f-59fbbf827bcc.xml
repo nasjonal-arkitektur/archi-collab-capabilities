@@ -1,0 +1,8 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eIDAS Network [ns:toopra]"
+    id="1781945f-cad7-4761-9f0f-59fbbf827bcc">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:CommunicationNetwork>

@@ -1,6 +1,6 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Deployment Manager"
+    name="Service Deployment Manager [ns:togsoara]"
     id="d677cdd2-3893-44d5-a87f-b099fce6f05c"
     documentation="This ABB deploys runtime Service Components to a services container and registers service description information in the Service Registry ABB in the Governance Layer. This can be automated through different mechanisms (from build scripts to an automated deployment, etc.).">
   <properties

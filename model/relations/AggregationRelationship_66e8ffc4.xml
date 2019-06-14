@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
+    id="66e8ffc4">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_502fa249.xml#502fa249"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_502fa249.xml#502fa249"/>
+</archimate:AggregationRelationship>

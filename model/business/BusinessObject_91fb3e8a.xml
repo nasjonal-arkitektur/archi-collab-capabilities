@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Skill [ns:eira]"
+    id="91fb3e8a"
+    documentation="Ability to organise something well, expertise in organizing something.&#xD;&#xA;&#xD;&#xA;Based on the definitions of skill and organisational in the Oxford dictionary.&#xD;&#xA;https://en.oxforddictionaries.com/definition/skill &#xD;&#xA;&#xD;&#xA;Syn. Organisational Competence&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Surveillance3 - COMMISSION DECISION of 14 September 2009 setting up a European Consumer Consultative Group (2009/705/EC)&#xD;&#xA;One of the set of criteria for membership to the European Consumer Consultative Group membership is: be non-governmental, non-profit-making, independent of industry, commerce and business or other conflicting interests, and&#xD;&#xA;&#xD;&#xA;1. have as their primary objectives and activities the promotion and protection of the health, safety and economic interest of consumers in the Community,&#xD;&#xA;2. have been mandated to represent the interests of consumers at Community level by national consumer organisations in at least half of the Member States that are representative in accordance with national rules or practice, of consumers and are active at regional or national level, and&#xD;&#xA;3. have provided to the Commission satisfactory accounts of their membership, internal rules and sources of funding&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32009D0705 &#xD;&#xA;">
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="ID"
+      value="ABB219"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalSkill"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

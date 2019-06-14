@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reference Data,"
+    name="Reference Data, [ns:dmbok2]"
     id="c750ccb0-e0f2-4995-a813-d8f2052acc11"
     documentation="Reference Data, for example, code and description tables, is data that is used solely to characterize other data in an organization, or solely to relate data in a database to information beyond the boundaries of the organization.">
   <properties

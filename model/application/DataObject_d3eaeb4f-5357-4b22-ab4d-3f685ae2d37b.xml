@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS4 Receipt [ns:toopra]"
+    id="d3eaeb4f-5357-4b22-ab4d-3f685ae2d37b">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:DataObject>

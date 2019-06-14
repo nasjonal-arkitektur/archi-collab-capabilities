@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DC authenticates User [ns:toopra]"
+    id="fe8dc20d-00cb-4a13-96c3-31bd8db46b16">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Requirement>

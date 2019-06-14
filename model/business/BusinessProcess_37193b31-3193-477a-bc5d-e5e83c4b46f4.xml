@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Evidence Provsioning Capability [ns:toopra]"
+    id="37193b31-3193-477a-bc5d-e5e83c4b46f4">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:BusinessProcess>

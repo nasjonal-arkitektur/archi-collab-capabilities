@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="acts on behalf of [ns:eira]"
+    id="013fc853"
+    documentation="A [Public Service Delivery Agent] acts on behalf of [Public Service Provider]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a62403b5.xml#a62403b5"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7bd1db6c.xml#7bd1db6c"/>
+</archimate:AssociationRelationship>

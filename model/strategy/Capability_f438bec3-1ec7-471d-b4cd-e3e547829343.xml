@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Distributing data across data stores and data centers"
+    name="Distributing data across data stores and data centers [ns:dmbok2]"
     id="f438bec3-1ec7-471d-b4cd-e3e547829343">
   <properties
       key="difi:namespace"

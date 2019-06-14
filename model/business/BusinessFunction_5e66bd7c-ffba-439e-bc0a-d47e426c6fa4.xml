@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Information Governance"
+    name="Information Governance [ns:dmbok2]"
     id="5e66bd7c-ffba-439e-bc0a-d47e426c6fa4">
   <properties
       key="difi:namespace"

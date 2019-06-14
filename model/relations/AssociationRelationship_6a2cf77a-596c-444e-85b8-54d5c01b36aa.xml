@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has been issued a [ns:toopra]"
+    id="6a2cf77a-596c-444e-85b8-54d5c01b36aa">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5.xml#14ed1a4d-3df4-4e98-b6d7-4eb71bea3dc5"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_c178d4ae-a602-4056-b47a-e151611a21ad.xml#c178d4ae-a602-4056-b47a-e151611a21ad"/>
+</archimate:AssociationRelationship>

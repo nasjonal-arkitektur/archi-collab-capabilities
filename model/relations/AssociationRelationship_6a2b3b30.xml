@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="offers [ns:eira]"
+    id="6a2b3b30"
+    documentation="A [Network] offers a [Networking Service]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_b33f6eec.xml#b33f6eec"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_338eb0b9.xml#338eb0b9"/>
+</archimate:AssociationRelationship>
